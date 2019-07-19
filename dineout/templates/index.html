@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toronto Wards</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+   <!-- Leaflet CSS & JS -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+
+  <!--D3 cdn-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+
+  <!-- Our CSS -->
+  <script src="{{ url_for('static', filename='css/style.css') }}"></script>
+   
+   <style>
+        body{ position: relative
+
+        }
+        #section1 {padding-top:25px;height:800px;color: #fff; background-color: #12b1a1;}
+        #section2 {padding-top:50px;height:800px;color: #fff; background-color:  #C075B1;}
+        #map {
+            position: relative;
+            border: 1px solid black;
+            border-radius: 8px;
+            height: 600px;  /* or as desired */
+            width: 100%;  /* This means "100% of the width of its container", the .col-md-8 */
+        }
+   </style>
+</head>
+<!-- The scrollable area -->
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+          <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>                        
+              </button>
+              <a class="navbar-brand" href="#">DineOutComsolidator</a>
+            </div>
+            <div>
+              <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                  <li><a href="#section1">Map</a></li>
+                  <li><a href="#section2">Profile</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+  </nav>    
+  <div id="section1" class="container-fluid">
+    <div class="row" style= "height: 15%;top: 20%;">
+    </div>
+    <div class="row">
+        <div class="col-md-1" >
+          <!-- <p>Lorem ipsum dolor sit amet</p> -->
+        </div>
+    
+        <div class="col-md-10" style='border: 2px solid #12b1a1'>
+          <div id="map"></div>
+        </div>
+      </div>
+          <script src="{{ url_for('static', filename='js/config.js') }}"></script>
+          <script src="{{ url_for('static', filename='js/logic.js') }}"></script>
+      </div>
+  </div>
+        
+  <div id="section2" class="container-fluid">
+            <h1>Section 2</h1>
+            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+        
+  </body>
+</html>
