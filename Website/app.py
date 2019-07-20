@@ -1,46 +1,45 @@
-# import requests, json
-# import sqlalchemy
-# from sqlalchemy.ext.automap import automap_base
-# from sqlalchemy.orm import Session
-# from sqlalchemy import create_engine, func
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
 
-# from flask import Flask, render_template, url_for, json, jsonify
-# from flask_sqlalchemy import SQLAlchemy
+from flask import Flask, request, render_template, url_for, json, jsonify
+from flask_sqlalchemy import SQLAlchemy
 
-# import pymysql
+import pymysql
 
-# import MySQLdb
+import MySQLdb
 
-# import pandas as pd
-# import numpy as np
-# import pymysql
-# from sqlalchemy import create_engine
+import pandas as pd
+import numpy as np
+import pymysql
+from sqlalchemy import create_engine
+# pymysql.install_as_MySQLdb()
+
 import requests
-from flask import Flask, request, jsonify, render_template
 
 from keys import gkey, ykey, zkey
-# pymysql.install_as_MySQLdb()
 
 app = Flask(__name__)
 
 #connection to My_SQL
-# engine = create_engine('mysql://root:#Caracas10@localhost/dineoutconsolidator')
+engine = create_engine('mysql://root:#Caracas10@localhost/dineoutconsolidator')
 
 # reflect an existing database into a new model
-# Base = automap_base()
+Base = automap_base()
 # reflect the tables
-# Base.prepare(engine, reflect=True)
+Base.prepare(engine, reflect=True)
 
 # Print all of the classes mapped to the Base
-# Base.classes.keys()
+Base.classes.keys()
 
 # Save references to each table
-# restaurants= Base.classes.restaurants6
-# ratings= Base.classes.ratings
+restaurants= Base.classes.restaurants6
+ratings= Base.classes.ratings
 
 
 # Create our session (link) from Python to the DB
-# session = Session(engine)
+session = Session(engine)
 
 # print(engine.execute('select * from ratings limit 10').fetchall())
 
@@ -66,37 +65,37 @@ def index():
 # def main():
 #     return "Welcome!"
 
-# @app.route("/map")
-# def getdata():
+@app.route("/map")
+def getdata():
 
-#     # for row in session.query(restaurants).all():
+    # for row in session.query(restaurants).all():
 
-#     sel=[restaurants.name,
-#     restaurants.phone,
-#     restaurants.address,
-#     restaurants.average_price,
-#     restaurants.latitude,
-#     restaurants.longitude,
-#     restaurants.total_users_reviews,
-#     restaurants.overall_score,
-#     restaurants.website
-#     ]
+    sel=[restaurants.name,
+    restaurants.phone,
+    restaurants.address,
+    restaurants.average_price,
+    restaurants.latitude,
+    restaurants.longitude,
+    restaurants.total_users_reviews,
+    restaurants.overall_score,
+    restaurants.website
+    ]
 
-#     results = session.query(*sel).all()
+    results = session.query(*sel).all()
 
-#     restdata = []
+    restdata = []
     
-#     for row in results:
-#         rest_dict = {}
-#         rest_dict['name'] = row.name
-#         rest_dict['overall_score'] = row.overall_score
-#         rest_dict['price_range']= row.average_price
-#         rest_dict['total_reviews']= row.total_users_reviews
-#         rest_dict['location']= (row.latitude,row.longitude) 
-#         rest_dict['website']= row.website
-#         restdata.append(rest_dict)
+    for row in results:
+        rest_dict = {}
+        rest_dict['name'] = row.name
+        rest_dict['overall_score'] = row.overall_score
+        rest_dict['price_range']= row.average_price
+        rest_dict['total_reviews']= row.total_users_reviews
+        rest_dict['location']= (row.latitude,row.longitude) 
+        rest_dict['website']= row.website
+        restdata.append(rest_dict)
 
-#     return jsonify(restdata)
+    return jsonify(restdata)
 
 @app.route("/api/google")
 def googleapi():
