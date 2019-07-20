@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Toronto Wards</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+   <!-- Google API-->
+   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLExFavZoHAN3HB3-WRnNN52nyVmXB1tU&libraries=places"></script>
+   <!-- Leaflet CSS & JS -->
+   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+
+  <!--D3 cdn-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+   
+   
+   <style>
+        body {
+            position: relative; 
+        }
+        #section1 {padding-top:50px;height:800px;color: #fff; background-color: #12b1a1;}
+        #section2 {padding-top:50px;height:800px;color: #fff; background-color:  #C075B1;}
+        #section3 {padding-top:50px;height:500px;color: #fff; background-color: #AADCE6;}
+        #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+        #section42 {padding-top:50px;height:500px;color: #fff; background-color: #12b1a1;}
+    </style>
+</head>
+<!-- The scrollable area -->
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+          <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>                        
+              </button>
+              <a class="navbar-brand" href="#">DineOutComsolidator</a>
+            </div>
+            <div>
+              <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                  <li><a href="#section1">Section 1</a></li>
+                  <li><a href="#section2">Section 2</a></li>
+                  <li><a href="#section3">Section 3</a></li>
+                  <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Section 4 <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#section41">Section 4-1</a></li>
+                      <li><a href="#section42">Section 4-2</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </nav>    
+        
+        <div id="section1" class="container-fluid">
+            <form class="form-horizontal" >
+                <div class="form-group">
+                  <label for="name">Restaurant Name:</label>
+                  <input type="text" class="form-control" id="name" placeholder="Enter restaurant name" name = "name">
+                </div>
+                <div class="form-group">
+                  <label for="phone">Telephone:</label>
+                  <input type="text" class="form-control" id="phone" placeholder = "Enter telephone with area code" name = "phone">
+                </div>
+                <div class="form-group">
+                    <label for="city">City:</label>
+                    <input type="city" class="form-control" id="city" placeholder = "Enter city" name = "city">
+                  </div>
+                  <button id="submit" type="submit" class="btn btn-default">Submit</button>
+            </form>
+            <div class = "panel-body">
+              <p id="address"></p>
+             <table class="table">
+                <tbody id="results">
+                  <tr><td></td><th scope="col">Rating</th><th scope="col">No. Reviews</th><th scope="col">Price Range</th></tr>
+                  <tr id="g_results"></tr>
+                  <tr id="y_results"></tr>
+                  <tr id="z_results"></tr>
+                </tbody>
+             </table>  
+            </div>
+            
+        </div>
+
+        <div id="section2" class="container-fluid">
+          <h1>Section 2</h1>
+          <div class="row">
+          <div class="jumbotron text-center" style="background-image: url(https://res.cloudinary.com/scvr/image/upload/v1/production/gallery_photos/images/000/006/876/original/gallery-1.jpg); background-size: 100%; height: 100%;">
+          </div>
+        </div>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+          <div class="row">
+              <div class="col-md-4">
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h3 class="panel-title">Latest Reviews</h3>
+                      </div>
+                      <div class="panel-body">
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h3 class="panel-title">Rating Score</h3>
+                      </div>
+                      <div class="panel-body">
+                          <p></p>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-md-4">
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                          <h3 class="panel-title">Restaurant Profile</h3>
+                      </div>
+                      <div style="max-width: 450px; max-height: 150px; font-size: 15px; margin-bottom: 65px;">
+                              
+                      </div>
+                  </div>
+              </div>
+          </div>
+        </div>
+        <div id="section3" class="container-fluid">
+          <h1>Section 3</h1>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+        <div id="section41" class="container-fluid">
+          <h1>Section 4 Submenu 1</h1>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+        <div id="section42" class="container-fluid">
+          <h1>Section 4 Submenu 2</h1>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+          <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+        
+        </body>
+        <script src="../static/js/app.js"></script>
+</html>
