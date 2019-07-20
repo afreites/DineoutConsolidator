@@ -3,7 +3,7 @@
 // This gets inserted into the div with an id of 'map'
 var myMap = L.map("map", {
   center: [47.1164, -101.2996],
-  zoom: .5
+  zoom: 3
 });
 
 // Adding a tile layer (the background map image) to our map
@@ -37,7 +37,7 @@ for (var i = 0; i < restaurants.length; i++) {
     // Setting our circle's radius equal to the output of our markerSize function
     // This will make our marker's size proportionate to its population
     radius: markerSize(restaurants[i].overall_score)
-  }).bindPopup("<h5>" + restaurants[i].name + "</h5> <hr> <h6>Rating: " + restaurants[i].overall_score + "</h6>").addTo(myMap);
+  }).bindPopup("<h5>" + restaurants[i].name + "</h5> <hr> <h6> Rating: " + restaurants[i].overall_score + "</h6> <h6> Website:" + restaurants[i].website + "</h6>").addTo(myMap);
 }
 })
 

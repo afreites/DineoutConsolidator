@@ -1,0 +1,1880 @@
+restaurant_id,city_id,name,international_phone_number,formatted_address,latitude,longitude
+1,1,Belfast Love Public House,14163632223,"548 King St W, Toronto, ON M5V 1M3, Canada",43.6448919,-79.398451
+2,1,SPiN Toronto,14165997746,"461 King St W, Toronto, ON M5V 1K4, Canada",43.6444564,-79.3960911
+3,1,Tropical Joe's,14164615030,"1000 Gerrard St E, Toronto, ON M4M 1Z3, Canada",43.6700658,-79.338837
+4,1,Phipps Bakery Cafe,14164819111,"420 Eglinton Ave W, Toronto, ON M5N 1A2, Canada",43.7041778,-79.411118
+5,1,Lee,14165047867,"601 King St W, Toronto, ON M5V 1M5, Canada",43.644133,-79.400392
+6,1,Banaboia,14166540967,"501 Rogers Rd, York, ON M6M 1B4, Canada",43.6819438,-79.4681943
+7,1,Trattoria Fieramosca,14163230636,"36 A Prince Arthur Ave, Toronto, ON M5R 1A9, Canada",43.6695406,-79.3973027
+8,1,Dundas Street Grille,14162396244,"5238 Dundas St W, Etobicoke, ON M9B 1A9, Canada",43.638935,-79.53826
+9,1,Royal Meats Barbeque,14162511144,"710 Kipling Ave, Etobicoke, ON M8Z 5G5, Canada",43.6254577,-79.5292541
+10,1,Milestones,14165982800,"10 Dundas St E Unit # 400, Toronto, ON M5B 2G9, Canada",43.6567475,-79.3804815
+11,1,St. Matthew's,14166584126,"527 Rogers Rd, York, ON M6M 1B4, Canada",43.6821096,-79.4690042
+12,1,Purple Penguin Cafe,14164658448,"889 Queen St E, Toronto, ON M4M 1J4, Canada",43.660464,-79.34232
+13,1,Genghis Khan Mongolian Grill,14164498228,"900 Don Mills Rd #2, North York, ON M3C 1V6, Canada",43.7269871,-79.3414943
+14,1,Congee Star,14163858822,"900 Don Mills Rd, North York, ON M3C 1V6, Canada",43.7266998,-79.3419761
+15,1,Memories of Japan,14164493773,"900 Don Mills Rd, North York, ON M3C 1V6, Canada",43.7272245,-79.3414984
+16,1,Queen Margherita Pizza,14164666555,"1402 Queen St E, Toronto, ON M4L 1C9, Canada",43.6647558,-79.3242952
+17,1,Red Rocket Coffee,14164060880,"1364 Danforth Ave, Toronto, ON M4J 1M9, Canada",43.6824521,-79.3284706
+18,1,Wakame Sushi,14166310505,"638 Sheppard Ave W, North York, ON M3H 2S1, Canada",43.7554612,-79.4409696
+19,1,Burger King,14166867191,"3003 Danforth Ave, East York, ON M4C 1M9, Canada",43.6908478,-79.2885366
+20,1,Morgan's On The Danforth,14164613020,"1282 Danforth Ave, Toronto, ON M4J 1M6, Canada",43.682065,-79.330303
+21,1,Dino's,14162590050,"820 The Queensway, Etobicoke, ON M8Z 1N5, Canada",43.6252431,-79.5082823
+22,1,McDonald's,14165979502,"260 Yonge St Unit J-002, Toronto, ON M5B 2L9, Canada",43.654668,-79.3810305
+23,1,Yuzu No Hana,14162059808,"236 Adelaide St W, Toronto, ON M5H 1W7, Canada",43.648418,-79.388343
+24,1,R&D,14165861241,"241 Spadina Ave, Toronto, ON M5T 2E2, Canada",43.6515943,-79.3972048
+25,1,241 Pizza,14162410241,"2155 Leanne Blvd, Mississauga, ON L5K 2K8, Canada",43.5262759,-79.6523223
+26,1,Saffron Spice Kitchen,14162030222,"459 Queen St W, Toronto, ON M5V 2A9, Canada",43.6484033,-79.3972213
+27,1,Athens Restaurant & Tavern,14164654441,"707 Danforth Ave, Toronto, ON M4J 1L2, Canada",43.6789643,-79.3434695
+28,1,La Veranda Osteria,14162313800,"946 Royal York Rd, Etobicoke, ON M8X 2E5, Canada",43.6477149,-79.511729
+29,1,Hunter's,14162916340,"2574 Birchmount Rd, Scarborough, ON M1T 2M5, Canada",43.7895721,-79.3026251
+30,1,Luci Restaurant,14165191355,"664 The Queensway, Etobicoke, ON M8Y 1K7, Canada",43.6275231,-79.4982703
+31,1,King's Café,14165911340,"192 Augusta Ave, Toronto, ON M5T 2L6, Canada",43.6542507,-79.402061
+32,1,The Keg,14164844646,"2201 Yonge St, Toronto, ON M4S 2B2, Canada",43.7056863,-79.3978836
+33,1,Scaddabush,14162969697,"580 Progress Ave, Scarborough, ON M1P 2K2, Canada",43.7776105,-79.254269
+34,1,Cinamon Indian Bistro,14165194534,"1966 Queen St E, Toronto, ON M4L 1H8, Canada",43.6698051,-79.3018215
+35,1,Udupi Palace,14164058189,"1460 Gerrard St E, Toronto, ON M4L 2A3, Canada",43.672609,-79.3211209
+36,1,Little Sister,14164882031,"2031 Yonge St, Toronto, ON M4S 2A2, Canada",43.701568,-79.397075
+37,1,Oakwood Pizzeria,14166545655,"434 Oakwood Ave, York, ON M6E 2W5, Canada",43.6891065,-79.4395821
+38,1,Brass Taps Pizza Pub,14164663403,"493 Danforth Ave, Toronto, ON M4K 1P5, Canada",43.6779401,-79.3492847
+39,1,Sarah's Cafe & Bar,14164063121,"1426 Danforth Ave, Toronto, ON M4J 1N4, Canada",43.6827511,-79.3270634
+40,1,Mother's Dumplings,14162172008,"421 Spadina Ave, Toronto, ON M5T 2G6, Canada",43.6571221,-79.3994394
+41,1,Firkin on Danforth,14166932057,"2057B Danforth Ave, Toronto, ON M4C 1J6, Canada",43.6853041,-79.3133181
+42,1,Town Crier Pub,14162049588,"115 John St, Toronto, ON M5V 2E2, Canada",43.6480785,-79.3901097
+43,1,Il Fornello,14164662931,"576 Danforth Ave, Toronto, ON M4K 1R1, Canada",43.6786716,-79.3469255
+44,1,Papino's Pizza,14162400707,"1788 Jane St, York, ON M9N 2T2, Canada",43.706292,-79.5048866
+45,1,The Frog,14162253764,"4854 Yonge St, North York, ON M2N 5N2, Canada",43.7627189,-79.4114814
+46,1,Remezzo,14164988848,"3335 Sheppard Ave E, Scarborough, ON M1T 3K2, Canada",43.777628,-79.307905
+47,1,Al Mandi,14164654224,"1328 Danforth Ave, Toronto, ON M4J 1M9, Canada",43.6823016,-79.3293744
+48,1,Go For Tea,14162920221,"3700 Midland Ave Unit 113&115, Scarborough, ON M1V 0B3, Canada",43.8147922,-79.2926103
+49,1,Broadview Espresso,14165533833,"817 Broadview Ave, Toronto, ON M4K 2P9, Canada",43.6784989,-79.3581831
+50,1,Burrito Boyz,14165882699,"575 College St, Toronto, ON M6G 1B2, Canada",43.6551972,-79.4129987
+51,1,Jerusalem Restaurant,14164907888,"4777 Leslie St, North York, ON M2J 2K8, Canada",43.7789576,-79.3640257
+52,1,Pickle Barrel,14164851244,"2300 Yonge St, Toronto, ON M4P 1E4, Canada",43.7072274,-79.3989594
+53,1,Sushi Supreme,14165440777,"1995 Yonge St, Toronto, ON M4S 1Z9, Canada",43.7006166,-79.3967618
+54,1,Fishman Lobster Clubhouse,14163210250,"4020 Finch Ave E, Scarborough, ON M1S 3T6, Canada",43.802004,-79.2951529
+55,1,Mariachi's,14164817111,"2084 Yonge St, Toronto, ON M4S 2A3, Canada",43.7021467,-79.3976395
+56,1,Asa Sushi,14166043001,"18 Jane St, York, ON M6S 3Y2, Canada",43.6498103,-79.4848609
+57,1,Boom Breakfast & Co,14164853447,"174 Eglinton Ave W, Toronto, ON M4R 1A7, Canada",43.7057989,-79.4035125
+58,1,Mars Uptown Diner,14163227111,"2363 Yonge St, Toronto, ON M4P 2C8, Canada",43.709197,-79.3985702
+59,1,Burrito Bandidos,14166918080,"1614 Queen St E, Toronto, ON M4L 1G3, Canada",43.666482,-79.316382
+60,1,Portland Variety,14163685151,"587 King St W, Toronto, ON M5V 1M5, Canada",43.6442579,-79.4001473
+61,1,Betty's,14163681300,"240 King St E, Toronto, ON M5A 1K1, Canada",43.6515176,-79.3675414
+62,1,Motimahal,14164613111,"1422 Gerrard St E, Toronto, ON M4L 1Z6, Canada",43.672289,-79.3226295
+63,1,Kimchi Korea House,14165991989,"149 Dundas St W, Toronto, ON M5G 1C5, Canada",43.6552472,-79.3855068
+64,1,The Feathers,14166940443,"962 Kingston Rd, Toronto, ON M4E 1S7, Canada",43.6806855,-79.287543
+65,1,Rodney's Oyster House,14163638105,"469 King St W, Toronto, ON M5V 1K4, Canada",43.6449473,-79.3968452
+66,1,Maple Leaf Tavern,14164650955,"955 Gerrard St E, Toronto, ON M4M 1Z4, Canada",43.6681721,-79.3397865
+67,1,Pizza La Rosa,14165517672,"2555 Victoria Park Ave #19, Scarborough, ON M1T 1A3, Canada",43.773213,-79.321159
+68,1,Phoenix Restaurant,14165021112,"2900 Warden Ave Unit 105-106, Scarborough, ON M1W 2S8, Canada",43.7981051,-79.3184426
+69,1,Pattaya Thai Kitchen,14166945000,"2326 Queen St E, Toronto, ON M4E 1G9, Canada",43.6738034,-79.2828152
+70,1,Sichuan Garden,14165936265,"359 Spadina Ave, Toronto, ON M5T 2G3, Canada",43.6555915,-79.3988178
+71,1,Village Idiot Pub,14165971175,"126 McCaul St, Toronto, ON M5T 1W2, Canada",43.654388,-79.3916227
+72,1,Colaba Junction,14166468800,"801 Bay St 3 & 4, Toronto, ON M5S 1Y9, Canada",43.6610188,-79.3857011
+73,1,T Bones,14162695757,"2540 Eglinton Ave E, Scarborough, ON M1K 2R5, Canada",43.7353417,-79.2561259
+74,1,Avocado Sushi,14163239770,"1105 Bay St, Toronto, ON M5S 2B3, Canada",43.667781,-79.3884731
+75,1,Hot Pot,14164605183,"1545 Eglinton Ave W, York, ON M6E 2G7, Canada",43.6974483,-79.441334
+76,1,Pogue Mahone,14165983339,"777 Bay St, Toronto, ON M5G 2B3, Canada",43.660819,-79.384492
+77,1,Apache Burger,14162333046,"5236 Dundas St W, Etobicoke, ON M9B 1A7, Canada",43.6393202,-79.5378482
+78,1,TYC - by Sanjeev Kapoor,14164819397,"55 Eglinton Ave E, Toronto, ON M4P 1G8, Canada",43.707022,-79.396045
+79,1,Sorn Thai,14163223563,"2550 Yonge St, Toronto, ON M4P 2J2, Canada",43.7133474,-79.4000383
+80,1,The Gull,14166939337,"1943 Queen St E, Toronto, ON M4L 1H7, Canada",43.6692898,-79.3026996
+81,1,Bac Ky Vietnamese Canteen,14165997468,"567 King St W, Toronto, ON M5V 1M1, Canada",43.6443727,-79.3993741
+82,1,The Beverley - The Beverley Hotel,14164932786,"335 Queen St W, Toronto, ON M5V 2A1, Canada",43.6496119,-79.3921199
+83,1,Thrive Organic Kitchen & Cafe,14162527700,"3473 Lake Shore Blvd W, Etobicoke, ON M8W 1N5, Canada",43.5949922,-79.5304163
+84,1,Fresco's Fish And Chips,14165464557,"201 Augusta Ave, Toronto, ON M5T 2L4, Canada",43.653794,-79.4016197
+85,1,Moonbean,14165950327,"30 St Andrew St, Toronto, ON M5T 1K6, Canada",43.6542209,-79.4002046
+86,1,Mr. Congee,14165513223,"2900 Warden Ave, Scarborough, ON M1W 2S8, Canada",43.7988281,-79.3182508
+87,1,Ajisen Ramen,14162230618,"5229 Yonge St, North York, ON M2N 5P8, Canada",43.7714531,-79.4131762
+88,1,Greens Vegetarian,14166033337,"638 Dundas St W, Toronto, ON M5T 1H8, Canada",43.6521275,-79.4024982
+89,1,McDonald's,14166919364,"1735 Danforth Ave, Toronto, ON M4C 1H9, Canada",43.683788,-79.3206466
+90,1,Dolce Gelato,14165462148,"414 Danforth Ave, Toronto, ON M4K 1P3, Canada",43.677852,-79.351193
+91,1,St. Louis Bar and Grill,14164800202,"2050 Yonge St, Toronto, ON M4S 1Z9, Canada",43.7015603,-79.3975582
+92,1,Fune,14165993868,"100 Simcoe St, Toronto, ON M5H 3G2, Canada",43.6483046,-79.3866237
+93,1,Michael's On Simcoe,14162605100,"100 Simcoe St C111, Toronto, ON M5H 3G2, Canada",43.6482048,-79.3866786
+94,1,Sushi One,14162220303,"4924 Yonge St, North York, ON M2N 5N5, Canada",43.7644231,-79.4120167
+95,1,Sher-E-Punjab,14164652125,"351 Danforth Ave, Toronto, ON M4K 1N7, Canada",43.6771367,-79.3529471
+96,1,Sizzler Kabab,14165517786,"381 Spadina Ave, Toronto, ON M5T 1S9, Canada",43.656276,-79.399107
+97,1,The Bull,14164852290,"1835 Yonge St, Toronto, ON M4S 1X8, Canada",43.6965936,-79.3960819
+98,1,Cora's Breakfast & Lunch,14165982672,"277 Wellington St W, Toronto, ON M5V 3E4, Canada",43.644543,-79.391564
+99,1,Pentagram Bar & Grill,14166910469,"2620 Danforth Ave, Toronto, ON M4C 1L7, Canada",43.6885952,-79.3004499
+100,1,Spin Dessert Cafe,14162557746,"1060 The Queensway, Etobicoke, ON M8Z 1P7, Canada",43.6232196,-79.5173811
+101,1,Horseshoe Tavern,14165984226,"370 Queen St W, Toronto, ON M5V 2A2, Canada",43.6490702,-79.3958951
+102,1,Donatello,14165955001,"37 Elm St, Toronto, ON M5G 1H1, Canada",43.6573166,-79.3834791
+103,1,I Love Sushi,14163648833,"494 Queen St W, Toronto, ON M5V 2B3, Canada",43.6479201,-79.401062
+104,1,Tequila Bookworm,14165042334,"512 Queen St W, Toronto, ON M5V 2B3, Canada",43.6478503,-79.4016038
+105,1,The Only Cafe,14164637843,"972 Danforth Ave, Toronto, ON M4J 1M1, Canada",43.6804711,-79.3378031
+106,1,Life is Sweet,14166980555,"2345 Queen St E, Toronto, ON M4E 1H2, Canada",43.6720469,-79.2894001
+107,1,Athens Pastries,14166949339,"1681 Lake Shore Blvd E, Toronto, ON M4L 3W6, Canada",43.6627219,-79.3097264
+108,1,Canyon Creek,14162961400,"430 Progress Ave, Scarborough, ON M1P 5J1, Canada",43.77583,-79.26231
+109,1,Touhenboku Ramen,14165516800,"2459 Yonge St, Toronto, ON M4P 2H6, Canada",43.7114177,-79.3990777
+110,1,Celena's Bakery,14164252895,"2036 Danforth Ave, Toronto, ON M4C 1J6, Canada",43.6855338,-79.314317
+111,1,Buster's Sea Cove,14163699048,"93 Front St E, Toronto, ON M5E 1C3, Canada",43.64825,-79.3714802
+112,1,St. Urbain Bagel,14163648305,"93 Front St E #11, Toronto, ON M5E 1C3, Canada",43.6484467,-79.3712057
+113,1,Carousel Bakery,14163634247,"93 Front St E, Toronto, ON M5E 1C3, Canada",43.6490516,-79.3717741
+114,1,Bardi's Steak House,14163669211,"56 York St, Toronto, ON M5J 1S8, Canada",43.6461092,-79.3829548
+115,1,Shark Club - Sports Bar & Grill,14165060753,"10 Dundas St E, Toronto, ON M5B 0A1, Canada",43.6567455,-79.380484
+116,1,El Trompo,14162600097,"277 Augusta Ave, Toronto, ON M5T 2L7, Canada",43.6558485,-79.4024282
+117,1,Pho Hung,14165934274,"350 Spadina Ave, Toronto, ON M5T 2G4, Canada",43.6544331,-79.3989206
+118,1,Orange Alert Coffee,14165918965,"298 Dundas St W, Toronto, ON M5T 1G2, Canada",43.654454,-79.391382
+119,1,Creme De La Creme,14162379414,"2991 Bloor St W, Etobicoke, ON M8X 1C1, Canada",43.64752,-79.509917
+120,1,Sushi Kaji,14162522166,"860 The Queensway, Etobicoke, ON M8Z 1N7, Canada",43.6249366,-79.5099637
+121,1,Akropolis Pastries,14164658175,"708 Danforth Ave, Toronto, ON M4J 1L1, Canada",43.6793749,-79.3434362
+122,1,Fabbrica,14163910307,"49 Karl Fraser Rd, North York, ON M3C 0E5, Canada",43.7366646,-79.3446172
+123,1,Rosewater,14162145888,"19 Toronto St, Toronto, ON M5C 2R1, Canada",43.6504462,-79.3761188
+124,1,Shawarma Empire,14162851337,"1823 Lawrence Ave E, Scarborough, ON M1R 2Y3, Canada",43.7431007,-79.3034546
+125,1,Pulcinella,14162539959,"3687 Lake Shore Blvd W, Etobicoke, ON M8W 1P7, Canada",43.5932981,-79.5378637
+126,1,Kumo Sushi,14165038288,"562 Kipling Ave, Etobicoke, ON M8Z 5E8, Canada",43.6150778,-79.5247446
+127,1,Milestones,14162550464,"1001 The Queensway, Etobicoke, ON M8Z 6C7, Canada",43.6231519,-79.5152455
+128,1,Tabule,14164833747,"2009 Yonge St, Toronto, ON M4S 1Z8, Canada",43.7009554,-79.3969456
+129,1,Maman,14162166767,"100 King St W, Toronto, ON M5X 2A2, Canada",43.6487247,-79.3827606
+130,1,Mercatto,14163060467,"330 Bay St, Toronto, ON M5H 2S8, Canada",43.6500336,-79.3812091
+131,1,Quinn's Steakhouse & Irish Bar - Sheraton Hotel,14163678466,"96 Richmond St W, Toronto, ON M5H 2A3, Canada",43.6509088,-79.3830805
+132,1,Megas,14164667771,"402 Danforth Ave, Toronto, ON M4K 1P3, Canada",43.6777913,-79.3515477
+133,1,La Vecchia,14164890630,"2405 Yonge St A, Toronto, ON M4P 2E7, Canada",43.7102105,-79.3989116
+134,1,Thai House Cuisine,14166868541,"2213 Queen St E, Toronto, ON M4E 1E8, Canada",43.6708005,-79.2959885
+135,1,244 Pizza & Wings,14162447777,"1166 Weston Rd, York, ON M6M 4P4, Canada",43.687246,-79.490401
+136,1,La Forchetta Ristorante,14165343100,"613 College St, Toronto, ON M6G 1B5, Canada",43.654906,-79.4145612
+137,1,Dufflet Pastries,14164849080,"2638 Yonge St, Toronto, ON M4P 2J5, Canada",43.7156763,-79.4006053
+138,1,The Fox,14164800200,"51 Eglinton Ave E, Toronto, ON M4P 1G7, Canada",43.7069749,-79.396386
+139,1,The Big Carrot,14164662129,"348 Danforth Ave, Toronto, ON M4K 1N8, Canada",43.677573,-79.3527601
+140,1,Everest Hakka House,14166401015,"2356 Lake Shore Blvd W, Etobicoke, ON M8V 1B6, Canada",43.616353,-79.488249
+141,1,Japango,14166905959,"2209 Queen St E, Toronto, ON M4E 1E8, Canada",43.670707,-79.2962569
+142,1,P & M Restaurant,14162413838,"1946 Weston Rd, York, ON M9N 1W2, Canada",43.700559,-79.5180646
+143,1,Alexandros,14164613073,"484 Danforth Ave, Toronto, ON M4K 1P6, Canada",43.6783945,-79.3493661
+144,1,TCJ Restaurant,14163689988,"64 Queen St E, Toronto, ON M5B 1Y4, Canada",43.653401,-79.3753959
+145,1,Java House,14165043025,"537 Queen St W, Toronto, ON M5V 2B6, Canada",43.647903,-79.399754
+146,1,Pat's Homestyle,14163040767,"558 Queen St W, Toronto, ON M5V 2B5, Canada",43.6475362,-79.4031942
+147,1,The Homeway,14164883242,"955 Mt Pleasant Rd, Toronto, ON M4P 2L7, Canada",43.712556,-79.3914948
+148,1,Golden Wheat Bakery & Pastry,14165341107,"652 College St, Toronto, ON M6G 1B8, Canada",43.6551598,-79.4162368
+149,1,Anatolia,14162070596,"5112 Dundas St W, Etobicoke, ON M9A 1C2, Canada",43.6446955,-79.5329166
+150,1,Taste Of Thailand,14162392824,"5310 Dundas St W, Etobicoke, ON M9B 1B3, Canada",43.6359223,-79.5407666
+151,1,Kalyvia,14164633333,"420 Danforth Ave, Toronto, ON M4K 1P3, Canada",43.677908,-79.351171
+152,1,Westwood Grill,14166048822,"519 Annette St, Toronto, ON M6P 1S1, Canada",43.6599504,-79.4796574
+153,1,Aji Sai,14164692124,"783 Danforth Ave, Toronto, ON M4J 1L2, Canada",43.679331,-79.341677
+154,1,Her Majesty's Pleasure,14165464991,"556 King St W, Toronto, ON M5V 1M3, Canada",43.6448556,-79.3988599
+155,1,Soma Chocolate Maker,14165997662,"443 King St W, Toronto, ON M5V 1K4, Canada",43.645167,-79.39576
+156,1,Mr. Sub,14162609662,"438 University Ave, Toronto, ON M5G 2K8, Canada",43.6545779,-79.3888123
+157,1,Johnny's Shawarma,14162987917,"1904 Kennedy Rd, Scarborough, ON M1P 2L8, Canada",43.7668618,-79.2818753
+158,1,Ha Gow Dim Sum House,14164618294,"988 Danforth Ave, Toronto, ON M4J 1M1, Canada",43.6804995,-79.3375727
+159,1,Golden Star Noodle Restaurant,14162418888,"1690 Jane St, York, ON M9N 2S4, Canada",43.7031643,-79.5040883
+160,1,Vietnam Noodle Star,14166099796,"4188 Finch Ave E, Scarborough, ON M1V 0C4, Canada",43.8046354,-79.2873289
+161,1,Artisano Bakery Cafe,14162079940,"1020 Islington Ave, Etobicoke, ON M8Z 6A4, Canada",43.6309432,-79.5182499
+162,1,Mezza Notte Trattoria,14162222888,"5304 Yonge St, North York, ON M2N 5R2, Canada",43.772727,-79.414129
+163,1,Good Bite,14164838432,"2463 Yonge St, Toronto, ON M4P 2H6, Canada",43.7114858,-79.3990119
+164,1,Il Paesano Pizzeria,14162590440,"396 Brown's Line, Etobicoke, ON M8W 3T8, Canada",43.601186,-79.545347
+165,1,Crystal Sea Food,14166566632,"632 Vaughan Rd, York, ON M6E 2Y4, Canada",43.6926888,-79.4412273
+166,1,The Real McCoy,14164396804,"1033 Markham Rd, Scarborough, ON M1H 2G1, Canada",43.7740605,-79.230389
+167,1,St. Clair Ice Cream,14166945811,"2 Kelvin Ave, Toronto, ON M4C 5C8, Canada",43.6895623,-79.2950183
+168,1,Rachel's Coffee House,14165450000,"2011 Yonge St, Toronto, ON M4S 1Z8, Canada",43.7010099,-79.396956
+169,1,San Francesco Foods,14165347867,"10 Clinton St, Toronto, ON M6J 2P1, Canada",43.6539343,-79.4134437
+170,1,Melanie's Bistro,14164221870,"1870 Danforth Ave, Toronto, ON M4C 1J4, Canada",43.6849185,-79.3172223
+171,1,Patrician Grill,14163664841,"219 King St E, Toronto, ON M5A 1J9, Canada",43.6509842,-79.3690271
+172,1,Duke Of Richmond,14163407887,"20 Queen St W, Toronto, ON M5H 3R3, Canada",43.652521,-79.3806092
+173,1,Yanagi Sushi,14164691524,"1524 Danforth Ave, Toronto, ON M4J 1N4, Canada",43.683203,-79.324919
+174,1,Dough Bakeshop,14164652253,"173 Danforth Ave, Toronto, ON M4K 1N2, Canada",43.6764735,-79.3566483
+175,1,Bistro Camino,14166980283,"2750 Danforth Ave, Toronto, ON M4C 1L7, Canada",43.6893031,-79.2974222
+176,1,Off The Hook,14164654356,"749 Broadview Ave, Toronto, ON M4K 2P6, Canada",43.6759119,-79.3583481
+177,1,Cafe Plenty,14165857842,"250 Dundas St W, Toronto, ON M5T 2Z5, Canada",43.6547278,-79.3894554
+178,1,Anoush,14162171111,"250 Dundas St W, Toronto, ON M5T 2Z5, Canada",43.6548769,-79.3893998
+179,1,Fratelli Village Pizzeria,14162832112,"384 Old Kingston Rd, Scarborough, ON M1C 1B6, Canada",43.784063,-79.1698905
+180,1,ZIBA Berlin Döner,14164662422,"1608 Queen St E, Toronto, ON M4L 3A7, Canada",43.6663958,-79.3169353
+181,1,Star Buzz Lounge,14165518070,"350 Broadview Ave, Toronto, ON M4M 2G9, Canada",43.6650163,-79.3525913
+182,1,Tim Hortons,14163631055,"55 York St, Toronto, ON M5J 1R7, Canada",43.6461046,-79.3825715
+183,1,Chipotle,14165968600,"323 Yonge St Unit 114, Toronto, ON M5B 1R7, Canada",43.6568874,-79.3808684
+184,1,Triple Triple,14166533030,"2639 Eglinton Ave W, York, ON M6M 1T6, Canada",43.6898693,-79.4757058
+185,1,Astoria Shish Kebob House,14164632838,"390 Danforth Ave, Toronto, ON M4K 1P3, Canada",43.6777658,-79.3517738
+186,1,Kupfert & Kim,14165041233,"First Canadian Place, 100 King St W, Toronto, ON M5X 1A9, Canada",43.6485365,-79.3820395
+187,1,Alleycatz,14164816865,"2409 Yonge St, Toronto, ON M4P 2E7, Canada",43.7103811,-79.39851
+188,1,The Cupcake Shoppe,14163226648,"2417 Yonge St, Toronto, ON M4P 2E7, Canada",43.7105539,-79.3987739
+189,1,Il Gatto Nero,14165363132,"720 College St, Toronto, ON M6G 1C2, Canada",43.6553131,-79.4188902
+190,1,Pizza Nova,14164390000,"2272 Lawrence Ave E, Scarborough, ON M1P 2P9, Canada",43.7494692,-79.277553
+191,1,Jimmy The Greek,14162149237,"First Canadian Place, 100 King St W, Toronto, ON M5X 1E1, Canada",43.64888,-79.3824814
+192,1,Pho Pasteur,14163517188,"525 Dundas St W, Toronto, ON M5T 1H3, Canada",43.6525566,-79.398991
+193,1,Tokyo Sushi,14165130002,"33 St Joseph St, Toronto, ON M4Y 1J8, Canada",43.6656869,-79.3869413
+194,1,Grappa Ristorante,14165353337,"690 The Queensway, Etobicoke, ON M8Y 1K9, Canada",43.6272162,-79.4994986
+195,1,Butcher by Nature,14162418187,"515 Annette St, Toronto, ON M6P 1S1, Canada",43.660046,-79.479461
+196,1,The Green Dragon Pub,14166901782,"1032 Kingston Rd, Toronto, ON M4E 1T5, Canada",43.680864,-79.2847128
+197,1,The Fry,14165466159,"4864 Yonge St, North York, ON M2N 5N2, Canada",43.7629344,-79.4116801
+198,1,Mekong River,14162369588,"5468 Dundas St W, Etobicoke, ON M9B 1B1, Canada",43.6329141,-79.5445094
+199,1,Doce Minho Pastry and Bakery,14166528666,"2189 Dufferin St, York, ON M6E 3R9, Canada",43.6902967,-79.4478365
+200,1,The Wallace Gastropub,14164893500,"1954 Yonge St, Toronto, ON M4S 1Z4, Canada",43.6992941,-79.3970712
+201,1,The Grille,14162557455,"1596 The Queensway, Etobicoke, ON M8Z 1V1, Canada",43.617709,-79.542885
+202,1,Mong-Kut Thai Gold,14164632667,"471 Danforth Ave, Toronto, ON M4K 1R1, Canada",43.6777718,-79.3500012
+203,1,Ali Baba's,14164618500,"113 Danforth Ave, Toronto, ON M4K 1N2, Canada",43.676195,-79.35799
+204,1,The Tulip,14164695797,"1606 Queen St E, Toronto, ON M4L 1G2, Canada",43.666359,-79.316987
+205,1,Diana's Oyster Bar And Grill,14162881588,"2105 Lawrence Ave E, Scarborough, ON M1R 2Z4, Canada",43.7456973,-79.2916165
+206,1,Ed's Real Scoop,14164062525,"920 Queen St E, Toronto, ON M4M 1J5, Canada",43.660786,-79.342
+207,1,Makkah Restaurant,14166932222,"2980 Danforth Ave, East York, ON M4C 1M6, Canada",43.6906625,-79.2918029
+208,1,Vila Verde,14166032515,"869 Dundas St W, Toronto, ON M6J 1V6, Canada",43.6512434,-79.4106314
+209,1,Hibiscus Cafe,14163646183,"238 Augusta Ave, Toronto, ON M5T 2L7, Canada",43.6554127,-79.4025203
+210,1,Red Lobster,14164912507,"3252 Sheppard Ave E, Scarborough, ON M1T 3K3, Canada",43.778415,-79.311773
+211,1,STK Toronto,14166139660,"153 Yorkville Ave, Toronto, ON M5R 1C4, Canada",43.6703902,-79.394312
+212,1,The Hot House Restaurant & Bar,14163667800,"35 Church St, Toronto, ON M5E 1T3, Canada",43.648875,-79.3736742
+213,1,Just Greek,14162395000,"3004 Bloor St W, Etobicoke, ON M8X 1C2, Canada",43.647703,-79.510497
+214,1,Thai On Yonge,14165852788,"370 Yonge St, Toronto, ON M5B 1S5, Canada",43.65855,-79.3820719
+215,1,Hungary Thai,14165956405,"196 Augusta Ave, Toronto, ON M5T 2L6, Canada",43.654321,-79.402084
+216,1,Buddha's Vegetarian Restaurant,14166033811,"666 Dundas St W, Toronto, ON M5T 1H9, Canada",43.6519068,-79.4033683
+217,1,Hero Certified Burgers,14166421395,"100 Wellington St W, Toronto, ON M5K 1A1, Canada",43.6472042,-79.3830649
+218,1,La Société,14165519929,"131 Bloor St W, Toronto, ON M5S 1R1, Canada",43.668713,-79.392259
+219,1,Murphy's Law,14166905516,"1702 Queen St E, Toronto, ON M4L 1G6, Canada",43.6673749,-79.3127741
+220,1,The Grover,14166919200,"676 Kingston Rd, Toronto, ON M4E 1R4, Canada",43.6792427,-79.297302
+221,1,Golden Crisp Fish and Chips,14162458839,"1354 Weston Rd, York, ON M6M 4R8, Canada",43.690361,-79.4989883
+222,1,Yellow Cup Cafe,14162316688,"225 The East Mall, Etobicoke, ON M9B 6J1, Canada",43.6320429,-79.5518273
+223,1,Leña Restaurante,14165073378,"176 Yonge St, Toronto, ON M5C 2L7, Canada",43.6517684,-79.3791791
+224,1,Sanagan's Meat Locker,14165939747,"176 Baldwin St, Toronto, ON M5T 1L8, Canada",43.6548282,-79.4007689
+225,1,The Remarkable Bean,14164619111,"1103 Queen St E, Toronto, ON M4M 1K7, Canada",43.6619227,-79.3356851
+226,1,Nimman,14162554224,"2451 Lake Shore Blvd W, Etobicoke, ON M8V 1C5, Canada",43.6133291,-79.48861
+227,1,The Keg Steakhouse + Bar - Dixon Road,14166752311,"927 Dixon Rd, Etobicoke, ON M9W 1J8, Canada",43.6862876,-79.5974931
+228,1,Caffe Demetre,14162342233,"2962 Bloor St W, Etobicoke, ON M8X 1B7, Canada",43.6481254,-79.5086309
+229,1,Moxie's Grill & Bar,14162968803,"300 Borough Dr, Scarborough, ON M1P 4P5, Canada",43.7767555,-79.2590081
+230,1,K & A Caribbean Cuisine,14165437696,"1179 Weston Rd, York, ON M6M 4P5, Canada",43.687597,-79.4905459
+231,1,SOCO Kitchen + Bar,14166375465,"75 Lower Simcoe St, Toronto, ON M5J 3A6, Canada",43.6426733,-79.383836
+232,1,Patisserie La Cigogne,14164662345,"1626 Bayview Ave, Toronto, ON M4G 3B7, Canada",43.7065587,-79.3756706
+233,1,Eden Trattoria,14162555588,"58 Marine Parade Dr, Etobicoke, ON M8V 4G1, Canada",43.6272928,-79.4768004
+234,1,Grace O'Malley's,14165961444,"14 Duncan St, Toronto, ON M5H 3G8, Canada",43.6476863,-79.3885854
+235,1,New York Subs and Burritos,14162030999,"520 Queen St W, Toronto, ON M5V 2B7, Canada",43.6478034,-79.4018318
+236,1,High Street Fish And Chips,14165108905,"55 Underhill Dr, North York, ON M3A 2J8, Canada",43.745297,-79.3249824
+237,1,Burrito Boyz,14162512699,"3803 Lake Shore Blvd W, Etobicoke, ON M8W 1R2, Canada",43.5923268,-79.5421426
+238,1,China China Express,14162424462,"2145 Weston Rd, York, ON M9N 1X7, Canada",43.7030141,-79.5244459
+239,1,Subway,14166939018,"3003 Danforth Ave 47 Shoppers World Danforth, Toronto, ON M4C 1M9, Canada",43.6903915,-79.2906495
+240,1,Chick-N-Joy,14164615848,"1483 Queen St E, Toronto, ON M4L 1E2, Canada",43.6651504,-79.3213699
+241,1,Hy's Steakhouse,14163646600,"365 Bay St, Toronto, ON M5H 2V1, Canada",43.6510487,-79.3808502
+242,1,Perfect Chinese Restaurant,14162976100,"4386 Sheppard Ave E, Scarborough, ON M1S 1T8, Canada",43.7878227,-79.2703167
+243,1,Churrasqueira Martin's,14166574343,"605 Rogers Rd #1, York, ON M6M 1B9, Canada",43.6807613,-79.4734944
+244,1,Seara,14166532424,"605 Rogers Rd, York, ON M6M 1B9, Canada",43.6806332,-79.4731459
+245,1,King's BBQ,14166520022,"572 Rogers Rd, York, ON M6M 1B6, Canada",43.6818865,-79.4709585
+246,1,Hogtown Smoke,14166919009,"1959 Queen St E, Toronto, ON M4L 1H7, Canada",43.6694407,-79.3020439
+247,1,Prairie Girl Bakery,14165042253,"18 King Street East #106 facing, Victoria St, Toronto, ON M5C 1C4, Canada",43.6497407,-79.3770772
+248,1,Scotland Yard,14163646572,"56 The Esplanade, Toronto, ON M5E 1A6, Canada",43.6470371,-79.3740585
+249,1,Biagio Ristorante,14163664040,"155 King St E, Toronto, ON M5C 1G9, Canada",43.6502345,-79.3723842
+250,1,Cibo Wine Bar King St West,14165043939,"522 King St W, Toronto, ON M5V 1L7, Canada",43.6452414,-79.3974043
+251,1,Tango Palace Coffee Company,14164658085,"1156 Queen St E, Toronto, ON M4M 1L2, Canada",43.6626185,-79.3337826
+252,1,Ka Chi Korean Restaurant,14165971999,"8 St Andrew St, Toronto, ON M5T 1K6, Canada",43.654394,-79.399329
+253,1,Tim Hortons,14162033931,"90 Adelaide St W, Toronto, ON M5H 3V9, Canada",43.6497961,-79.3820226
+254,1,Fusaro's Italian Kitchen,14162608414,"147 Spadina Ave, Toronto, ON M5V 2L7, Canada",43.6481563,-79.3958049
+255,1,Fresh,14165994442,"147 Spadina Ave, Toronto, ON M5V 2L7, Canada",43.6481313,-79.3957958
+256,1,Echo Sushi,14163228861,"2036 Yonge St, Toronto, ON M4S 1Z9, Canada",43.7012753,-79.3974114
+257,1,Cool Runnings,14166938724,"146 Main St, Toronto, ON M4E 2V8, Canada",43.6834172,-79.3001145
+258,1,The Famous Indian Cuisine,14164064511,"1410 Gerrard St E, Toronto, ON M4L 1Z4, Canada",43.6721178,-79.3232197
+259,1,Tim Hortons,14165931477,"477 Dundas St W, Toronto, ON M5T 1H1, Canada",43.6529623,-79.3970811
+260,1,Mandarin Restaurant - Yonge,14164862222,"2200 Yonge St, Toronto, ON M4S 2C6, Canada",43.7059991,-79.3984414
+261,1,Amadeu's,14165911245,"184 Augusta Ave, Toronto, ON M5T 2L6, Canada",43.6539988,-79.4019757
+262,1,Drake One Fifty,14163636150,"150 York St, Toronto, ON M5H 3S5, Canada",43.6495968,-79.3845743
+263,1,Sanremo Bakery,14162552808,"374 Royal York Rd, Etobicoke, ON M8Y 2R3, Canada",43.6185225,-79.4996952
+264,1,Remarkable Bean,14166902420,"2242 Queen St E, Toronto, ON M4E 1G2, Canada",43.6728997,-79.2870519
+265,1,Freshii,14162038456,"140 Spadina Ave, Toronto, ON M5V 2L4, Canada",43.647768,-79.396446
+266,1,Sushi Bon,14165168688,"695 College St, Toronto, ON M6G 1C1, Canada",43.6550304,-79.4174735
+267,1,Sotto Voce,14165364564,"595 College St, Toronto, ON M6G 1A9, Canada",43.655166,-79.4136114
+268,1,Mamma Martino's,14162513337,"624 The Queensway, Etobicoke, ON M8Y 1K3, Canada",43.6279897,-79.4961157
+269,1,Bukhara Grill,14165515199,"2241a Bloor St W, Toronto, ON M6S 1N7, Canada",43.6508247,-79.4769685
+270,1,Pizza Maple,14162473333,"502 Trethewey Dr, North York, ON M6M 4C2, Canada",43.695809,-79.487868
+271,1,Sweet Olenka's,14165217444,"2790 Lake Shore Blvd W, Etobicoke, ON M8V 1H5, Canada",43.6020879,-79.5002445
+272,1,Dumpling House,14165968898,"328 Spadina Ave, Toronto, ON M5T 2E7, Canada",43.6538017,-79.3986765
+273,1,Sushi Bong,14162270022,"5 Northtown Way, North York, ON M2N 7A1, Canada",43.775165,-79.413705
+274,1,Casa Di Giorgio Ristorante,14166867066,"1646 Queen St E, Toronto, ON M4L 1G3, Canada",43.666786,-79.315171
+275,1,Boom Breakfast & Co,14165343447,"808 College St, Toronto, ON M6G 1C8, Canada",43.6546979,-79.4218058
+276,1,Globe Bistro,14164662000,"124 Danforth Ave, Toronto, ON M4K 1N1, Canada",43.6765071,-79.358071
+277,1,El Sol,14164058074,"1448 Danforth Ave, Toronto, ON M4J 1N4, Canada",43.6829366,-79.3264656
+278,1,Crown Prince Fine Dining,14164908893,"3600 Victoria Park Ave, North York, ON M2H 3B2, Canada",43.8063889,-79.3386111
+279,1,Aka-Oni Izakaya,14162983828,"633 Silver Star Blvd #108, Scarborough, ON M1V 5N1, Canada",43.822329,-79.298655
+280,1,Patria,14163670505,"478 King St W, Toronto, ON M5V 1L7, Canada",43.6455508,-79.3964642
+281,1,Furama,14165045709,"248 Spadina Ave, Toronto, ON M5T 2C2, Canada",43.6516052,-79.3977727
+282,1,Danforth Pizza House,14164634927,"920 Danforth Ave, Toronto, ON M4J 1L9, Canada",43.6803298,-79.3388374
+283,1,Saravanaa Bhavan,14162937755,"Woodside Square, 1571 Sandhurst Cir Unit 153, Scarborough, ON M1V 1V2, Canada",43.8100473,-79.2693323
+284,1,Starbucks,14165048586,"438 Richmond St W #4, Toronto, ON M5V 3S6, Canada",43.6480684,-79.3965022
+285,1,Rocco's Plum Tomato,14162555081,"164 The Queensway, Etobicoke, ON M8Y 1J2, Canada",43.6303627,-79.4849827
+286,1,Gautama,14164694444,"1416 Gerrard St E, Toronto, ON M4L 1A6, Canada",43.6723771,-79.3228637
+287,1,FBI Pizza,14162510101,"2336 Lake Shore Blvd W, Etobicoke, ON M8V 1B6, Canada",43.616746,-79.488006
+288,1,Very Fair Seafood Cuisine,14162996368,"17 Milliken Blvd, Scarborough, ON M1V 5H6, Canada",43.8035621,-79.2934799
+289,1,Anh Dao,14165984514,"383 Spadina Ave, Toronto, ON M5T 2G6, Canada",43.6563042,-79.3991053
+290,1,Milano's Pizza,14166220222,"3886 Bloor St W, Etobicoke, ON M9B 1L4, Canada",43.640627,-79.54215
+291,1,Bombay Palace,14163688048,"71 Jarvis St, Toronto, ON M5C 2H2, Canada",43.6511585,-79.371944
+292,1,Churrasco Villa,14164877070,"254 Eglinton Ave E, Toronto, ON M4P 1K2, Canada",43.7084777,-79.3905455
+293,1,Mirto,14166019444,"25 Toronto St, Toronto, ON M5C 2R1, Canada",43.650703,-79.3760778
+294,1,Jules Bistro,14163488886,"147 Spadina Ave, Toronto, ON M5V 2L7, Canada",43.64827,-79.395803
+295,1,Chako,14162989978,"2190 McNicoll Ave #112, Scarborough, ON M1V 0D3, Canada",43.8143583,-79.2947037
+296,1,Magic Noodle,14162936696,"2190 McNicoll Ave #119, Scarborough, ON M1V 5M2, Canada",43.8144502,-79.2943941
+297,1,Maha's,14164622703,"226 Greenwood Ave, Toronto, ON M4L 2R2, Canada",43.6717021,-79.3285255
+298,1,Duke Of Devon,14166423853,"66 Wellington St W, Toronto, ON M5K 1H1, Canada",43.6472913,-79.3805183
+299,1,Union Social Eatery,14162216789,"4899 Yonge St, North York, ON M2N 5N4, Canada",43.7638974,-79.4111753
+300,1,Motorama Restaurant,14164616968,"862 Danforth Ave, Toronto, ON M4J 1L7, Canada",43.6800076,-79.3401287
+301,1,Kanga,14163249174,"65 Duncan St, Toronto, ON M5V 1Z4, Canada",43.6499884,-79.3890737
+302,1,Veloute,14166967392,"2343 Queen St E, Toronto, ON M4E 1H2, Canada",43.6720519,-79.2896386
+303,1,Torteria San Cosme,14165992855,"181 Baldwin St, Toronto, ON M5T 1L9, Canada",43.6547036,-79.4005812
+304,1,Smoke's Poutinerie,14163662873,"578 Queen St W, Toronto, ON M5V 2B7, Canada",43.6473799,-79.4037654
+305,1,Lucky Chinese Food,14166518888,"640 Rogers Rd, York, ON M6M 1B8, Canada",43.6819543,-79.474698
+306,1,Sushi Cafe Bon Gung,14162600189,"109 McCaul St, Toronto, ON M5T 1W1, Canada",43.6537184,-79.3909035
+307,1,Ted's Restaurant,14162822204,"404 Old Kingston Rd, Scarborough, ON M1C 1B6, Canada",43.7845234,-79.1692775
+308,1,Thai Express,14166041888,"Stock Yard Village, 70 Weston Rd, Toronto, ON M6N 0A7, Canada",43.6738418,-79.4698149
+309,1,A3 Napoli,14165886006,"589 College St, Toronto, ON M6G 1B2, Canada",43.6551341,-79.4134649
+310,1,Irie Veggie,14166534825,"2593 Eglinton Ave W, York, ON M6M 1T3, Canada",43.6902645,-79.4739273
+311,1,Fynn's Of Temple Bar,14165861331,"489 King St W, Toronto, ON M5V 1K4, Canada",43.6449069,-79.397192
+312,1,Five Doors North,14164806234,"2088 Yonge St, Toronto, ON M4S 2A2, Canada",43.702259,-79.3975946
+313,1,Asian Bowl,14163682695,"271 Yonge St, Toronto, ON M5B 1N8, Canada",43.6553584,-79.3803521
+314,1,Little India,14162059836,"255 Queen St W, Toronto, ON M5V 1Z4, Canada",43.6502364,-79.3889555
+315,1,7 Numbers,14164695183,"307 Danforth Ave, Toronto, ON M4K 1N7, Canada",43.6769113,-79.3538161
+316,1,HoSu Bistro,14163226860,"2352 Yonge St, Toronto, ON M4P 2E6, Canada",43.7085199,-79.3989279
+317,1,Touhenboku Ramen,14165968080,"261 Queen St W, Toronto, ON M5V 1Z9, Canada",43.6501837,-79.3891054
+318,1,Jolly II,14162426666,"2625 Weston Rd, North York, ON M9N 3V9, Canada",43.7119353,-79.5311264
+319,1,Caldense Bakery,14162453847,"2625A Weston Rd, North York, ON M9N 3V8, Canada",43.7115268,-79.5320922
+320,1,Pancer's Original Deli,14166361230,"3856 Bathurst St, North York, ON M3H 3N3, Canada",43.740785,-79.435373
+321,1,Freshii,14162140259,"130 King St W, Toronto, ON M5X 1E1, Canada",43.6483882,-79.3832357
+322,1,Mio Ristobar,14163649740,"40 King St W, Toronto, ON M5H 3Y2, Canada",43.6493491,-79.3795277
+323,1,Ninki,14163687333,"40 King St W, Toronto, ON M5H 4A9, Canada",43.6495218,-79.3795976
+324,1,Villa Madina,14166011927,"Scotia Plaza, 40 King St W, Toronto, ON M5H 3Y2, Canada",43.648842,-79.379996
+325,1,The David Duncan House,14163911424,"125 Moatfield Dr, North York, ON M3B 3L6, Canada",43.7583095,-79.3489062
+326,1,Darbar,14165194545,"2015 Avenue Rd, North York, ON M5M 4A5, Canada",43.735501,-79.419653
+327,1,Hashi Izakaya,14162248179,"5582 Yonge St, North York, ON M2N 5S2, Canada",43.7792105,-79.4160004
+328,1,Allen's,14164633086,"143 Danforth Ave, Toronto, ON M4K 1N2, Canada",43.676272,-79.357278
+329,1,Bikkuri,14163690330,"36 King St E, Toronto, ON M5C 1E5, Canada",43.6496009,-79.3763163
+330,1,Pizza Hut,14163101010,"1630 Albion Rd, Etobicoke, ON M9V 5H5, Canada",43.742063,-79.593393
+331,1,Nando's,14166209229,"150 N Queen St Unit D1, Etobicoke, ON M9C 1A8, Canada",43.6197321,-79.5541996
+332,1,La Tortilleria,14162059227,"1009 Dufferin St, Toronto, ON M6H 4B2, Canada",43.6595834,-79.4350531
+333,1,Fat Bastard Burrito,14162520202,"1180 The Queensway, Etobicoke, ON M8Z 1R5, Canada",43.622275,-79.5219193
+334,1,Merlot,14162360081,"2994 Bloor St W, Etobicoke, ON M8X 1C2, Canada",43.6477417,-79.5103199
+335,1,Sin & Redemption,14166409197,"136 McCaul St, Toronto, ON M5T 1W2, Canada",43.6547012,-79.3917222
+336,1,Starbucks,14164619788,"908 Queen St E, Toronto, ON M4M 1J5, Canada",43.660676,-79.342374
+337,1,Est West,14165060777,"700 University Ave, Toronto, ON M5G 1Z5, Canada",43.6590858,-79.3914771
+338,1,Tea-N-Bannock,14162202915,"1294 Gerrard St E, Toronto, ON M4L 1Y7, Canada",43.6711721,-79.3273229
+339,1,Montecito,14165990299,"299 Adelaide St W, Toronto, ON M5V 1P7, Canada",43.6474672,-79.390941
+340,1,Mandarin Restaurant - Queensway,14162525000,"1255 The Queensway, Etobicoke, ON M8Z 1S2, Canada",43.6209753,-79.5231708
+341,1,Lahore Chaat & Paan House,14164669261,"1344 Gerrard St E, Toronto, ON M4L 1Z2, Canada",43.671895,-79.324683
+342,1,Nook,14165955155,"469 A King St W, Toronto, ON M5V 1K4, Canada",43.644829,-79.396777
+343,1,Danforth Roti Shop,14166901308,"2844 Danforth Ave, Toronto, ON M4C 1M1, Canada",43.6897539,-79.2954535
+344,1,Danforth Dragon,14164619238,"861 Danforth Ave, Toronto, ON M4J 1L8, Canada",43.679723,-79.339802
+345,1,Terry's Bar & Grill,14164313565,"1920 Ellesmere Rd, Scarborough, ON M1H 3G1, Canada",43.774935,-79.241052
+346,1,Speakeasy 21,14166010210,"21 Adelaide St W, Toronto, ON M5H 1N1, Canada",43.6498867,-79.3799487
+347,1,Pizzaiolo,14165999995,"521 King St W, Toronto, ON M5V 1J5, Canada",43.6446688,-79.3981364
+348,1,Wanda's Pie In The Sky,14162360018,"287 Augusta Ave, Toronto, ON M5T 2M2, Canada",43.656248,-79.402586
+349,1,Popeyes,14166148686,"1975 Weston Rd, York, ON M9N 1W8, Canada",43.7010616,-79.5187813
+350,1,Banjara Indian House,14164866644,"796 Bloor St W, Toronto, ON M6G 1L7, Canada",43.6631537,-79.4219472
+351,1,A La Carte At The Gardiner,14165868086,"111 Queens Park 3rd floor, Toronto, ON M5S 2C7, Canada",43.6681235,-79.3931656
+352,1,Wingporium,14162556464,"1000 Islington Avenue #2, Etobicoke, ON M8Z 4P8, Canada",43.630205,-79.5182114
+353,1,Sushi Rock,14164833888,"2359 Yonge St, Toronto, ON M4P 2C8, Canada",43.7091008,-79.3985273
+354,1,Silver Spoon,14162932689,"4800 Sheppard Ave E, Scarborough, ON M1S 4N5, Canada",43.7914323,-79.2516105
+355,1,The Keg,14164461045,"1977 Leslie St, North York, ON M3B 2M3, Canada",43.7588997,-79.3604731
+356,1,Ali Baba's,14162448219,"1878 Weston Rd, York, ON M9N 1V9, Canada",43.69981,-79.515746
+357,1,Wazema,14164665713,"1360 Danforth Ave, Toronto, ON M4J 1M9, Canada",43.6825194,-79.3285507
+358,1,The Jason George,14163637100,"100 Front St E, Toronto, ON M5A 1E1, Canada",43.6497634,-79.3710579
+359,1,Jack Astor's,14165852121,"144 Front St W, Toronto, ON M5J 2L7, Canada",43.645409,-79.383869
+360,1,Jack Astor's,14162639800,"10 Dundas St E, Toronto, ON M5B 2G9, Canada",43.656613,-79.379818
+361,1,Federick Restaurant,14164399234,"1920 Ellesmere Rd, Scarborough, ON M1H 2V6, Canada",43.7749574,-79.240945
+362,1,Bamboo Buddha,14165049311,"752 King St W, Toronto, ON M5V 2W8, Canada",43.6435588,-79.4050635
+363,1,Peking Man Restaurant,14162235151,"1108 Sheppard Ave E, North York, ON M2K 2V9, Canada",43.771233,-79.369472
+364,1,Very Fair Chinese Restaurant,14163321861,"4002 Sheppard Ave E, Scarborough, ON M1S 1S6, Canada",43.78373,-79.2877035
+365,1,The Stone Lion,14166901984,"1958 Queen St E, Toronto, ON M4L 1H7, Canada",43.6696747,-79.3024679
+366,1,JP Restaurant Bar and Grill,14164620828,"270 Coxwell Ave, Toronto, ON M4L 3B6, Canada",43.6730683,-79.3195206
+367,1,Second Cup Coffee Co.,14164666295,"355 Danforth Ave, Toronto, ON M4K 1N7, Canada",43.6771876,-79.3529748
+368,1,Kimono Japanese Grill & Sushi,14164878660,"359 Eglinton Ave W, Toronto, ON M5N 1A2, Canada",43.704062,-79.410008
+369,1,Bar Buca,14165992822,"75 Portland St, Toronto, ON M5V 2M9, Canada",43.643942,-79.399619
+370,1,Bobbette & Belle,14164668800,"1121 Queen St E, Toronto, ON M4M 1K9, Canada",43.6621151,-79.3348239
+371,1,Wahlburgers,14164898922,"46 Blue Jays Way, Toronto, ON M5V 2G5, Canada",43.6451102,-79.392137
+372,1,Rendez-Vous,14164692513,"1408 Danforth Ave, Toronto, ON M4J 1M9, Canada",43.6826561,-79.3275667
+373,1,Lalibela,14166450486,"1202 Danforth Ave, Toronto, ON M4J 1M6, Canada",43.6817099,-79.3319989
+374,1,Windfield's,14164451630,"801 York Mills Rd, North York, ON M3B 1X7, Canada",43.7528592,-79.358435
+375,1,Gabby's,14164058100,"1 Parkmount Rd, Toronto, ON M4J 1G6, Canada",43.678139,-79.3235437
+376,1,Mayflower Chinese Food,14162486163,"1500 Royal York Rd, Etobicoke, ON M9P 3B6, Canada",43.6926348,-79.5317807
+377,1,Gio Rana's Really Really Nice Restaurant,14164695225,"1220 Queen St E, Toronto, ON M4M 1L7, Canada",43.6634371,-79.3304236
+378,1,N'Awlins,14165951958,"299 King St W, Toronto, ON M5V 0C4, Canada",43.6463408,-79.3901755
+379,1,Fuzen,14163630202,"132 Front St E, Toronto, ON M5A 1E2, Canada",43.650125,-79.369464
+380,1,California Sandwiches,14162017392,"1603 The Queensway, Etobicoke, ON M8Z 1T8, Canada",43.6165932,-79.5430889
+381,1,Dimpflmeier Bakery,14162362701,"26 Advance Rd, Etobicoke, ON M8Z 2T4, Canada",43.6341948,-79.5295076
+382,1,Zane Patisserie & Boulangerie,14166902813,"1842 Queen St E, Toronto, ON M4L 1H1, Canada",43.6684754,-79.3078399
+383,1,Uncle Betty's,14164832590,"2590 Yonge St, Toronto, ON M4P 2J3, Canada",43.714426,-79.4001858
+384,1,The Ballroom,14165972695,"145 John St, Toronto, ON M5V 2E4, Canada",43.648946,-79.390564
+385,1,Starbucks,14165069946,"218 Yonge St #1-158, Toronto, ON M5B 2H6, Canada",43.6534859,-79.380504
+386,1,Smoke's Poutinerie,14165992873,"218 Adelaide St W, Toronto, ON M5H 1W7, Canada",43.6485525,-79.3877564
+387,1,Mister Tasty,14166902278,"2743 Danforth Ave, Toronto, ON M4C 1L8, Canada",43.688735,-79.297451
+388,1,Star King,14164810008,"2350 Yonge St, Toronto, ON M4P 2E6, Canada",43.7084605,-79.3988774
+389,1,521 Cafe & Bar,14164633968,"521 Danforth Ave, Toronto, ON M4K 1P7, Canada",43.6781029,-79.3482708
+390,1,Congee Queen,14163218288,"3850 Sheppard Ave E Unit 0425, Scarborough, ON M1T 3L4, Canada",43.7839991,-79.2923229
+391,1,Jacob's and Co. Steakhouse,14163660200,"12 Brant St, Toronto, ON M5V 2M1, Canada",43.6453902,-79.3979798
+392,1,Athens Pastries,14164635144,"2567 Victoria Park Ave, Scarborough, ON M1T 1A4, Canada",43.7739738,-79.3219328
+393,1,Nguyen Huong,14165994625,"322 Spadina Ave, Toronto, ON M5T 1J6, Canada",43.6536857,-79.3986069
+394,1,Pappas Grill,14164699595,"440 Danforth Ave, Toronto, ON M4K 1P4, Canada",43.6779395,-79.3506291
+395,1,Diwan,14166464670,"Aga Khan Museum, 77 Wynford Dr, North York, ON M3C 1K1, Canada",43.7249763,-79.3320769
+396,1,Gusto 101,14165049669,"101 Portland St, Toronto, ON M5V 2N3, Canada",43.6452124,-79.4000748
+397,1,Kenny's Noodles,14162995907,"4733 Steeles Ave E, Scarborough, ON M1V 4S5, Canada",43.824704,-79.30056
+398,1,OCHO - Hotel OCHO,14165930885,"195 Spadina Ave, Toronto, ON M5T 2C3, Canada",43.649975,-79.3964579
+399,1,King's Noodle,14165981817,"296 Spadina Ave, Toronto, ON M5T 2E7, Canada",43.653072,-79.3984884
+400,1,Jump,14163633400,"18 Wellington St W, Toronto, ON M5L 1G4, Canada",43.6479063,-79.3780646
+401,1,The Owl Of Minerva,14162217275,"5324 Yonge St, North York, ON M2N 5P9, Canada",43.7733107,-79.4141973
+402,1,Second Cup,14162036100,"40 King St W, Toronto, ON M5H 3Y2, Canada",43.6494957,-79.3795298
+403,1,Barberian's Steakhouse And Tavern,14165970335,"7 Elm St, Toronto, ON M5G 1H1, Canada",43.6576627,-79.3821822
+404,1,Leslie Jones,14164635663,"1182 Queen St E, Toronto, ON M4M 1L6, Canada",43.663022,-79.331917
+405,1,Sushi Delight,14164060288,"461 Danforth Ave, Toronto, ON M4K 1P1, Canada",43.6777387,-79.3502119
+406,1,Big Butcher Barbeque,14162365959,"2336 Bloor St W, Toronto, ON M6S 4Z7, Canada",43.6492197,-79.4833779
+407,1,Marinella,14163489200,"640 College St, Toronto, ON M6G 1B4, Canada",43.655052,-79.4155559
+408,1,Pho Tien,14166037817,"358 Bathurst St, Toronto, ON M5T 2S6, Canada",43.6527288,-79.4063446
+409,1,Agincourt Bakery,14164993467,"3059 Pharmacy Ave, Scarborough, ON M1W 2H1, Canada",43.7958958,-79.3262136
+410,1,Ali's Tandoori Curry House,14166943056,"2306 Queen St E, Toronto, ON M4E 1G8, Canada",43.6735501,-79.2837495
+411,1,Relish Bar & Grill,14164254664,"511 Danforth Ave, Toronto, ON M4K 1P5, Canada",43.6777617,-79.3499736
+412,1,ViBo,14162391286,"2995 Bloor St W, Etobicoke, ON M8X 1C1, Canada",43.6474972,-79.5100314
+413,1,Gandhi Indian Cuisine,14165048155,"554 Queen St W, Toronto, ON M5V 2B7, Canada",43.6475481,-79.4031259
+414,1,Black Dog Pub,14162864544,"87 Island Rd, Scarborough, ON M1C 2P6, Canada",43.7976257,-79.1392207
+415,1,Thompson Diner - Thompson Toronto Hotel,14166013533,"51 Bathurst St, Toronto, ON M5V 2P3, Canada",43.642952,-79.4019314
+416,1,Woody's Burgers,14165462093,"3795 Lake Shore Blvd W, Etobicoke, ON M8W 1R2, Canada",43.5923559,-79.5417998
+417,1,The Keg Steakhouse + Bar - Estate Drive,14164381452,"60 Estate Dr, Scarborough, ON M1H 2Z1, Canada",43.7826135,-79.2349369
+418,1,New Sky Restaurant,14165968787,"353 Spadina Ave, Toronto, ON M5T 2G3, Canada",43.6554097,-79.3987492
+419,1,Spring Rolls,14165852929,"40 Dundas St W, Toronto, ON M5G 2C2, Canada",43.6561688,-79.3823028
+420,1,850 Degrees Pizza,14165030850,"3455 Lake Shore Blvd W, Etobicoke, ON M8W 1N2, Canada",43.595196,-79.529457
+421,1,Pizzeria Libretto,14165510433,"155 University Ave, Toronto, ON M5H 3B7, Canada",43.6484646,-79.3849565
+422,1,Pho Asia 39,14166450304,"1391 Weston Rd, York, ON M6M 4S3, Canada",43.6918235,-79.5013323
+423,1,Island Hot and Spicy,14162481100,"1391 Weston, York, ON M6M 4S3, Canada",43.691765,-79.5013163
+424,1,Caldense Bakery,14166571999,"2406 Eglinton Ave W, York, ON M6M 1S6, Canada",43.6921465,-79.4675573
+425,1,TKO's The Sports Pub,14164661965,"1602 A Danforth Ave, Toronto, ON M4C 1H6, Canada",43.6835834,-79.3231977
+426,1,Black Bull Tavern,14165932766,"298 Queen St W, Toronto, ON M5V 2A4, Canada",43.649685,-79.3933356
+427,1,Basil Box,14163518000,"351 Yonge St, Toronto, ON M5B 1S1, Canada",43.657806,-79.3812887
+428,1,Asian Legend,14162988081,"4452 Sheppard Ave E, Scarborough, ON M1S 1V2, Canada",43.7883767,-79.2672705
+429,1,The Duke LIVE.com,14164635302,"1225 Queen St E, Toronto, ON M4M 1L6, Canada",43.6629851,-79.3304991
+430,1,Matsuda,14163919188,"1300 Don Mills Rd Unit #2, North York, ON M3B 2W6, Canada",43.7454363,-79.3461892
+431,1,The Rose & Crown,14164877673,"2335 Yonge St, Toronto, ON M4P 2C8, Canada",43.7085913,-79.3984708
+432,1,O Sushi,14164661234,"6 Coxwell Ave, Toronto, ON M4L 3A7, Canada",43.6666137,-79.3168466
+433,1,New Town Family Restaurant,14164650836,"266 Coxwell Ave, Toronto, ON M4L 3W7, Canada",43.6729721,-79.3194807
+434,1,Green Mango,14162335004,"3006 Bloor St W, Etobicoke, ON M8X 1C2, Canada",43.6476846,-79.5106551
+435,1,Masseria,14162639999,"577 King St W, Toronto, ON M5V 1M1, Canada",43.64442,-79.399743
+436,1,Black Angus Steak House,14162337406,"3250 Bloor St W Unit 126, Etobicoke, ON M8X 2X4, Canada",43.6456374,-79.5210644
+437,1,Pravda Vodka House,14163660303,"44 Wellington St E, Toronto, ON M5E 1C7, Canada",43.6485677,-79.3746665
+438,1,George's Deli BBQ,14165368494,"795 Bathurst St, Toronto, ON M5S 1Z5, Canada",43.6649216,-79.4109759
+439,1,Scaddabush,14165978838,"382 Yonge St, Toronto, ON M5B 1S8, Canada",43.6590237,-79.3829262
+440,1,The Fish Store,14165332822,"657 College St, Toronto, ON M6G 1B7, Canada",43.6548919,-79.4162803
+441,1,Han Ba Tang,14165468218,"4862 Yonge St, North York, ON M2N 5N2, Canada",43.762884,-79.4116714
+442,1,Big Smoke Burger,14165938880,"260 Yonge St, Toronto, ON M5B 2L9, Canada",43.6552068,-79.3810287
+443,1,Big Smoke Burger,14165966660,"573 King St W, Toronto, ON M5V 1M1, Canada",43.6443842,-79.3995931
+444,1,The Markham Station,14162994141,"5117 Sheppard Ave E, Scarborough, ON M1S 4N8, Canada",43.792622,-79.2386886
+445,1,Sunset Grill,14166909985,"2006 Queen St E, Toronto, ON M4L 1J3, Canada",43.6702478,-79.2995624
+446,1,Capitol Trattoria,14165342942,"597 College St, Toronto, ON M6G 3A7, Canada",43.6550376,-79.4139296
+447,1,Mini Bar,14165048293,"117 Spadina Ave, Toronto, ON M5V 2K8, Canada",43.6471401,-79.3959826
+448,1,Tim Hortons,14165069138,"438 University Ave, Toronto, ON M5G 2K8, Canada",43.6545071,-79.3889424
+449,1,Tim Hortons,14165969700,"700 University Ave, Toronto, ON M5G 1Z5, Canada",43.6594149,-79.3912214
+450,1,Linsmore Tavern,14164665130,"1298 Danforth Ave, Toronto, ON M4J 1M6, Canada",43.6821526,-79.3299652
+451,1,Classico Louie's Pizzeria,14163223267,"2547 Yonge St, Toronto, ON M4P 2H9, Canada",43.7132299,-79.3994487
+452,1,Stelvio,14162051001,"354 Queen St W, Toronto, ON M5V 2A5, Canada",43.6492549,-79.3954933
+453,1,Starbucks,14165959438,"180 Queen St W Suite 102.3A, Toronto, ON M5V 3X3, Canada",43.6507515,-79.3880479
+454,1,Bombay Chowpatty,14164058080,"1386 Gerrard St E, Toronto, ON M4L 1Z2, Canada",43.67191,-79.324174
+455,1,Himalayan Java House,14164856464,"2552 Yonge St, Toronto, ON M4P 2J2, Canada",43.713383,-79.4000562
+456,1,YamChops,14166450117,"705 College St, Toronto, ON M6G 1C2, Canada",43.6550946,-79.4182622
+457,1,Schnitzel Queen,14165041311,"211 Queen St E, Toronto, ON M5A 1S5, Canada",43.654178,-79.3705087
+458,1,Oriental City,14166533060,"2539 Eglinton Ave W, York, ON M6M 1T2, Canada",43.6907601,-79.4718378
+459,1,The Chefs' House,14164152260,"215 King St E, Toronto, ON M5A 1J9, Canada",43.6509007,-79.3692705
+460,1,Ding Tai Fung,14162910123,"175 Commander Blvd #1, Scarborough, ON M1S 3M7, Canada",43.7965477,-79.2698039
+461,1,Su-Good,14166918828,"2626 Danforth Ave, Toronto, ON M4C 1L7, Canada",43.6886704,-79.3002338
+462,1,Little Nicky's Coffee,14162600500,"375 Queen St W, Toronto, ON M5V 2A5, Canada",43.6488758,-79.3936292
+463,1,Hirut,14165517560,"2050 Danforth Ave, Toronto, ON M4C 1J6, Canada",43.6856114,-79.3138687
+464,1,Saku Sushi,14163687258,"478 Queen St W, Toronto, ON M5V 2B2, Canada",43.6480711,-79.4002861
+465,1,America Restaurant - Trump International Hotel and Tower,14166375550,"325 Bay St 9th floor, Toronto, ON M5H 4G3, Canada",43.649722,-79.380278
+466,1,Monarch Tavern,14165315833,"12 Clinton St, Toronto, ON M6J 2N8, Canada",43.6540541,-79.4135744
+467,1,Red Eye Espresso,14165980598,"29 McCaul St, Toronto, ON M5T 1V7, Canada",43.6512794,-79.3899429
+468,1,Lamanna's Bakery,14162872020,"6758 Kingston Rd, Scarborough, ON M1B 1G8, Canada",43.7979035,-79.1486087
+469,1,Tasty Chinese Food,14165991361,"109 McCaul St, Toronto, ON M5T 3K5, Canada",43.6537184,-79.3909035
+470,1,Brassaii,14165984730,"461 King St W, Toronto, ON M5V 1K4, Canada",43.6444564,-79.3960911
+471,1,Ding Dong Pastries & Cafe,14166402761,"321 Spadina Ave, Toronto, ON M5T 2E9, Canada",43.654353,-79.3983037
+472,1,Izba Restaurant,14162517177,"648 The Queensway, Etobicoke, ON M8Y 1K7, Canada",43.6276087,-79.4975775
+473,1,Trecce,14164632655,"1792 Danforth Ave, Toronto, ON M4C 1H8, Canada",43.6845807,-79.3189197
+474,1,Jimmy The Greek,14163488869,"260 Yonge St, Toronto, ON M5B 2L9, Canada",43.6549397,-79.3811749
+475,1,Thai Island,14162037745,"130 King St W, Toronto, ON M5H 3C2, Canada",43.6482981,-79.3833794
+476,1,Dim Sum King,14165513366,"421 Dundas St W, Toronto, ON M5T 2W4, Canada",43.653312,-79.3954453
+477,1,Miller Tavern,14163225544,"3885 Yonge St, North York, ON M4N 2P2, Canada",43.7408078,-79.4057289
+478,1,Joey,14164456391,"75 O'Neill Rd, North York, ON M3C 0H2, Canada",43.733964,-79.3449249
+479,1,Oliver & Bonacini Cafe Grill,14165901300,"2901 Bayview Ave, North York, ON M2K 1E6, Canada",43.7681407,-79.3864415
+480,1,Doma,14165511550,"50 Clinton St, Toronto, ON M6G 2Y3, Canada",43.655429,-79.414203
+481,1,Wow K Food,14165513307,"109 McCaul St, Toronto, ON M5T 2W7, Canada",43.6537199,-79.3909041
+482,1,Lucy,14164060534,"1690 Danforth Ave, Toronto, ON M4C 1H8, Canada",43.6841301,-79.3207525
+483,1,The Nilgiris,14164120024,"3021 Markham Rd #50, Scarborough, ON M1X 1L8, Canada",43.8291109,-79.2487839
+484,1,The Friendly Thai,14164618424,"1218 Queen St E, Toronto, ON M4M 1L7, Canada",43.6633301,-79.3306121
+485,1,Indian Sweets & Samosa,14162497777,"2011 Lawrence Ave W, York, ON M9N 1H4, Canada",43.7000601,-79.5103818
+486,1,Taste Of China,14163488828,"338 Spadina Ave, Toronto, ON M5T 2G2, Canada",43.6540488,-79.398761
+487,1,Cafe Mirage Grill & Lounge,14163351177,"26 William Kitchen Rd, Scarborough, ON M1P 5B7, Canada",43.772813,-79.281885
+488,1,Eastside Social,14164615663,"1008 Queen St E, Toronto, ON M4M 1K1, Canada",43.6614299,-79.3391122
+489,1,Jack Astor's,14166262700,"1900 The Queensway, Etobicoke, ON M9C 5H5, Canada",43.614208,-79.56008
+490,1,Sauvignon,14166861998,"1862 Queen St E, Toronto, ON M4L 1H1, Canada",43.6686644,-79.3071895
+491,1,Sushi-Ya Japan,14162499666,"621 Dixon Rd, Etobicoke, ON M9W 1H7, Canada",43.690199,-79.575943
+492,1,Momiji,14162322320,"2955 Bloor St W, Etobicoke, ON M8X 1B8, Canada",43.6477564,-79.5085179
+493,1,Mandarin Restaurant - Scarborough,14162881177,"2206 Eglinton Ave E, Scarborough, ON M1L 4S7, Canada",43.7308171,-79.279347
+494,1,Woods Restaurant & Bar,14162149918,"45 Colborne St, Toronto, ON M5E 1E3, Canada",43.648974,-79.3750831
+495,1,Lenny's Panini & Pizza,14162392222,"4748 Dundas St W, Etobicoke, ON M9A 1A9, Canada",43.6527566,-79.5256413
+496,1,Zucca,14164885774,"2150 Yonge St, Toronto, ON M4S 2A8, Canada",43.7037349,-79.3979305
+497,1,Crave Healthy Habits,14162382628,"145 King St W, Toronto, ON M5H 1J8, Canada",43.6474734,-79.3839517
+498,1,Pearl Diver,14163667827,"100 Adelaide St E, Toronto, ON M5C 1K9, Canada",43.6515704,-79.3737704
+499,1,Sir Greek,14164690782,"1309 Danforth Ave, Toronto, ON M4J 1M8, Canada",43.681835,-79.3296433
+500,1,Local 1794,14164631794,"1794 Danforth Ave, Toronto, ON M4C 1H8, Canada",43.6845667,-79.3188481
+501,1,MeNami,14162296191,"5469 Yonge St, North York, ON M2N 5S1, Canada",43.7778404,-79.4147699
+502,1,Te Aro,14164652006,"983 Queen St E, Toronto, ON M4M 1K2, Canada",43.6612046,-79.3384806
+503,1,OK OK Diner,14164612988,"1128 Queen St E, Toronto, ON M4M 1K9, Canada",43.6623207,-79.3351048
+504,1,Karine's Fresh,14165910863,"109 McCaul St, Toronto, ON M5T 3K5, Canada",43.6537184,-79.3909035
+505,1,Coco Rice,14165049434,"669 King St W, Toronto, ON M5V 1M9, Canada",43.6437353,-79.4029618
+506,1,Aji Sai,14166033366,"467 Queen St W, Toronto, ON M5V 2A9, Canada",43.648377,-79.397401
+507,1,Chef Of India,14164855552,"3187 Yonge St, Toronto, ON M4N 2K9, Canada",43.727571,-79.402579
+508,1,Bolet's Burrito,14163645811,"134 Lower Sherbourne St, Toronto, ON M5A 4J4, Canada",43.6499803,-79.3678804
+509,1,Cafe Frappe,14164620693,"519 Danforth Ave, Toronto, ON M4K 1P5, Canada",43.6780317,-79.3485668
+510,1,Bún Saigon,14165042188,"254 Spadina Ave, Toronto, ON M5T 3B3, Canada",43.6516736,-79.3978011
+511,1,Alo Restaurant,14162602222,"163 Spadina Ave, Toronto, ON M5V 2L6, Canada",43.6485391,-79.3959372
+512,1,Chris Jerk Caribbean Bistro,14162975375,"2570 Birchmount Rd, Scarborough, ON M1T 2M5, Canada",43.7895886,-79.3024134
+513,1,Tokyo Sushi,14164869006,"373 Eglinton Ave W, Toronto, ON M5N 1A3, Canada",43.7040086,-79.4104953
+514,1,Anjappar Chettinad,14162652695,"3090 Eglinton Ave E, Scarborough, ON M1J 2H1, Canada",43.7417375,-79.2269196
+515,1,Sashimi Island,14165351888,"635 College St, Toronto, ON M6G 1B4, Canada",43.65487,-79.415094
+516,1,Amaya Express,14162140005,"100 King St W, Toronto, ON M5X 2A2, Canada",43.6490203,-79.3823572
+517,1,Orbit Room,14165350613,"580 College St, Toronto, ON M6G 1B3, Canada",43.6555281,-79.4132905
+518,1,360 Restaurant,14163625411,"290 Bremner Blvd, Toronto, ON M5V 3L9, Canada",43.6427879,-79.3871231
+519,1,Nak Won,14165901435,"5594 Yonge St, North York, ON M2N 5S2, Canada",43.7794061,-79.4157613
+520,1,Mastro Nick,14166516001,"1755 Keele St, York, ON M6M 3W9, Canada",43.6863512,-79.4732264
+521,1,Rosewood,14165939998,"463 Dundas St W, Toronto, ON M5T 1G8, Canada",43.6531283,-79.3966225
+522,1,Baro,14163638388,"485 King St W, Toronto, ON M5V 1K4, Canada",43.6449022,-79.3969369
+523,1,Azure - InterContinental Toronto Centre Hotel,14165978142,"225 Front St W, Toronto, ON M5V 2X3, Canada",43.6444547,-79.3854827
+524,1,Pizzeria Libretto,14164660400,"550 Danforth Ave, Toronto, ON M4K 1P7, Canada",43.6785694,-79.3477086
+525,1,Wakame Sushi,14162410505,"2625 Weston Rd #31, North York, ON M9N 3X2, Canada",43.7111662,-79.5313055
+526,1,Rodeo Brazilian Steakhouse,14164650969,"95 Danforth Ave, Toronto, ON M4K 1N2, Canada",43.6761368,-79.3583673
+527,1,Ginger Pho,14162418787,"2590 Weston Rd, North York, ON M9N 2A9, Canada",43.7106098,-79.5351879
+528,1,Makkah Restaurant,14164062500,"1020 Danforth Ave, Toronto, ON M4J 1M2, Canada",43.680795,-79.336709
+529,1,Arepa Cafe,14163624111,"490 Queen St W, Toronto, ON M5V 2B3, Canada",43.6479443,-79.4009188
+530,1,Sushi Mugen,14164630114,"1105 Queen St E, Toronto, ON M4M 1K7, Canada",43.66189,-79.33563
+531,1,Market Coffee,14165060400,"14 Queen St W, Toronto, ON M5H 3X4, Canada",43.6525354,-79.3805141
+532,1,Duke Of Westminster,14163682761,"77 Adelaide Street West, Toronto, ON M5X 1A6, Canada",43.6494066,-79.3820884
+533,1,China Cottage,14164456721,"80 Ellesmere Rd #11, Scarborough, ON M1R 4C2, Canada",43.7592947,-79.310626
+534,1,The Old Nick,14164615546,"123 Danforth Ave, Toronto, ON M4K 1N2, Canada",43.6762338,-79.3577761
+535,1,Giancarlo Trattoria,14165339619,"41 Clinton St, Toronto, ON M6J 2N9, Canada",43.6550061,-79.4136603
+536,1,New Ho King,14165951881,"410 Spadina Ave, Toronto, ON M5T 2G7, Canada",43.6561548,-79.3996914
+537,1,The Auld Spot,14164064688,"347 Danforth Ave, Toronto, ON M4K 1N7, Canada",43.6772036,-79.3530943
+538,1,Serano Bakery,14164622735,"830 Pape Ave, East York, ON M4K 3T5, Canada",43.6828798,-79.346769
+539,1,Korean Grill House,14162639850,"214 Queen St W, Toronto, ON M5V 1Z2, Canada",43.6503669,-79.3893233
+540,1,Pho 88,14164978899,"325 Bamburgh Cir, Scarborough, ON M1W 3Y1, Canada",43.8144248,-79.3235824
+541,1,Tom's Dairy Freeze,14162591846,"630 The Queensway, Etobicoke, ON M8Y 1K5, Canada",43.6278936,-79.4965373
+542,1,East Of York,14164219990,"1904 Danforth Ave, Toronto, ON M4C 1J4, Canada",43.6850442,-79.3166439
+543,1,Reverie at Weldon Park,14165338841,"569 College St, Toronto, ON M6G 1B2, Canada",43.65516,-79.412779
+544,1,Sushi Moto,14162240741,"4901 Yonge St, North York, ON M2N 5N6, Canada",43.7639835,-79.4113432
+545,1,Panagio's,14162932444,"1928 McCowan Rd, Scarborough, ON M1S 4K1, Canada",43.7922366,-79.260301
+546,1,Cora's Breakfast & Lunch,14163401350,"27 Carlton St, Toronto, ON M5B 1L2, Canada",43.6612749,-79.3813508
+547,1,Naan & Kabob,14162858191,"1801 Lawrence Ave E, Scarborough, ON M1R 2X9, Canada",43.7424279,-79.3052267
+548,1,Kramer's Bar and Grill,14164830697,"1915 Yonge St, Toronto, ON M4S 1Z3, Canada",43.698613,-79.396484
+549,1,Katsu Sushi,14164663388,"572 Danforth Ave, Toronto, ON M4K 1R1, Canada",43.6786948,-79.3470507
+550,1,Sumac Kebab Kitchen,14166278400,"287 Dundas St W, Toronto, ON M5T 1G2, Canada",43.6542867,-79.3909954
+551,1,Gerrard Spaghetti & Pizza,14164637792,"1528 Danforth Ave, Toronto, ON M4J 1N4, Canada",43.6833225,-79.3248004
+552,1,Paese Ristorante,14166316585,"3827 Bathurst St, North York, ON M3H 3N1, Canada",43.7397281,-79.4342103
+553,1,Avenue Open Kitchen,14165047131,"7 Camden St, Toronto, ON M5V 1V2, Canada",43.647128,-79.396451
+554,1,Via Allegro Ristorante,14166226677,"1750 The Queensway, Etobicoke, ON M9C 5H5, Canada",43.6151219,-79.5574415
+555,1,Second Cup,14165864800,"14 St Matthews Rd, Toronto, ON M4M 2B5, Canada",43.6658334,-79.355147
+556,1,Jamies Italian Yorkdale,14162387450,"Yorkdale Shopping Centre, 3401 Dufferin St, North York, ON M6A 2T9, Canada",43.726592,-79.453016
+557,1,Jack Astor's,14162960965,"580 Progress Ave, Scarborough, ON M1P 2K2, Canada",43.7775425,-79.2542742
+558,1,Paramount Fine Foods,14163663600,"253 Yonge St, Toronto, ON M5B 1N8, Canada",43.655068,-79.380018
+559,1,Paramount Fine Foods,14165515527,"2311 Yonge St, Toronto, ON M4P 2C6, Canada",43.7078265,-79.3983163
+560,1,Mike's Fish & Chips,14164294665,"2162 Danforth Ave, Toronto, ON M4C 1K3, Canada",43.686325,-79.310644
+561,1,Tutti Matti,14165978839,"364 Adelaide St W, Toronto, ON M5V 1R7, Canada",43.6472167,-79.3937516
+562,1,La Boheme Cafe,14164892233,"2481 Yonge St, Toronto, ON M4P 2H6, Canada",43.711706,-79.399097
+563,1,Nando's,14164615551,"671 Danforth Ave Unit A, Toronto, ON M4J 1L3, Canada",43.6788173,-79.3445095
+564,1,Dumpling King,14163210888,"3290 Midland Ave #2, Scarborough, ON M1V 3Z9, Canada",43.8066133,-79.2895159
+565,1,Market Street Catch,14163632020,"14 Market St, Toronto, ON M5E 1C3, Canada",43.6484979,-79.3720712
+566,1,TOCA,14165728008,"181 Wellington St W, Toronto, ON M5V 3G7, Canada",43.645419,-79.387062
+567,1,Uno Mustachio,14163678325,"Market, 95 Front St E, Toronto, ON M5E 1C3, Canada",43.64873,-79.3715409
+568,1,Paddingtons Pump,14163686955,"91 Front St E, Toronto, ON M5E 1C3, Canada",43.6490511,-79.3718439
+569,1,Millie Patisserie & Creamery,14165960063,"12 Oxley St #101, Toronto, ON M5V 3P7, Canada",43.6465049,-79.3942784
+570,1,House of Gourmet,14162170167,"484 Dundas St W, Toronto, ON M5T 1G9, Canada",43.6532243,-79.397213
+571,1,Christina's,14164634418,"492 Danforth Ave, Toronto, ON M4K 1P5, Canada",43.678293,-79.349187
+572,1,Chandni Chowk,14164694466,"1430 Gerrard St E, Toronto, ON M4L 1Z6, Canada",43.6722972,-79.3224952
+573,1,Thoroughbred,14165519221,"304 Richmond St W, Toronto, ON M5V 1X2, Canada",43.6489916,-79.3916967
+574,1,Greenwood Smokehouse BBQ,14164692270,"673 Danforth Ave, Toronto, ON M4J 1L3, Canada",43.6788748,-79.3442344
+575,1,The Keg,14163670685,"26 The Esplanade, Toronto, ON M5E 1A7, Canada",43.6467121,-79.3747676
+576,1,Bar Wellington,14163418880,"520 Wellington St W, Toronto, ON M5V 1E3, Canada",43.643308,-79.399379
+577,1,Tosto Quickfire Pizza Pasta,14163220609,"609 Roehampton Ave, Toronto, ON M4P 1S7, Canada",43.7115735,-79.3788051
+578,1,Shamrock Burgers,14162820121,"6109 Kingston Rd, Scarborough, ON M1C 1K5, Canada",43.7838306,-79.1682945
+579,1,La Sani Grill,14164817866,"259 Kingston Rd E, Ajax, ON L1Z 1A3, Canada",43.863771,-79.0130369
+580,1,The Rex Hotel Jazz and Blues Bar,14165982475,"194 Queen St W, Toronto, ON M5V 1Z1, Canada",43.6506609,-79.3885114
+581,1,Sky Dragon,14164084999,"280 Spadina Ave, Toronto, ON M5T 1H2, Canada",43.6525865,-79.3984452
+582,1,Daio,14162602116,"45 Carlton St, Toronto, ON M5B 2H9, Canada",43.6614015,-79.3809105
+583,1,King Street Social Kitchen & Bar - Hyatt Regency Toronto,14165952525,"370 King St W, Toronto, ON M5V 1J9, Canada",43.6463722,-79.3912357
+584,1,The Coffee Exchange,14165918430,"109 McCaul St #34, Toronto, ON M5T 3K5, Canada",43.653718,-79.390904
+585,1,Souvlaki House,14163517231,"109 McCaul St, Toronto, ON M5T 3K5, Canada",43.6538096,-79.3909719
+586,1,Thai Bright,14163418828,"109 McCaul St, Toronto, ON M5T 2X3, Canada",43.6537184,-79.3909035
+587,1,Elephant & Castle,14165984455,"212 King St W, Toronto, ON M5H 1K5, Canada",43.6475556,-79.3864149
+588,1,Osaka Sushi,14164221860,"747 Don Mills Rd #9, North York, ON M3C 1T2, Canada",43.714021,-79.3349663
+589,1,Occasions Restaurant,14164693065,"30 Eastwood Rd, Toronto, ON M4L 3B6, Canada",43.6733853,-79.3182713
+590,1,Art Square Cafe,14165955222,"334 Dundas St W, Toronto, ON M5T 1G5, Canada",43.654289,-79.39253
+591,1,North Pole Bakery,14164666435,"1210 Danforth Ave, Toronto, ON M4J 1M6, Canada",43.6817382,-79.3319491
+592,1,Kupfert & Kim,14166011333,"181 Bay St, Toronto, ON M5J 2T3, Canada",43.647208,-79.379381
+593,1,Time Capsule Cafe,14166668875,"2183 Danforth Ave, Toronto, ON M4C 1K4, Canada",43.6861884,-79.3100033
+594,1,The WORKS,14165949675,"60 Wellington St E, Toronto, ON M5E 1C7, Canada",43.6487178,-79.3740821
+595,1,Le Cafe Michi,14164909688,"1802 Pharmacy Ave, Scarborough, ON M1T 1K1, Canada",43.7755898,-79.3178378
+596,1,Gallery Sushi,14165972580,"285 Dundas St W, Toronto, ON M5T 1G1, Canada",43.6543369,-79.3907287
+597,1,Baskin Robbins,14163401838,"275 Dundas St W, Toronto, ON M5T 2W5, Canada",43.6542513,-79.390409
+598,1,Burger Shack,14164871974,"233 Eglinton Ave W, Toronto, ON M4R 1A9, Canada",43.7047461,-79.4057842
+599,1,Maple Yip,14162971438,"4227 Sheppard Ave E, Scarborough, ON M1S 5H5, Canada",43.7845069,-79.2777149
+600,1,Mamma's Pizza,14166900707,"2118 Queen St E, Toronto, ON M4E 1E2, Canada",43.6712528,-79.2949853
+601,1,Salmon Lovers,14165918697,"294 Dundas St W, Toronto, ON M5T 1G2, Canada",43.654486,-79.391186
+602,1,Golden Pizza,14164257717,"2360 Danforth Ave, Toronto, ON M4C 1K7, Canada",43.6873095,-79.3063329
+603,1,Ka Chi,14165983222,"414 Dundas St W, Toronto, ON M5T 1G6, Canada",43.653773,-79.395015
+604,1,Sang's Great Seafood,14165912188,"343 Spadina Ave, Toronto, ON M5T 2G3, Canada",43.655145,-79.398653
+605,1,Sushi Legend,14164968881,"10 Ravel Rd #3, North York, ON M2H 1S8, Canada",43.7906129,-79.365861
+606,1,B&B Fish and Chips,14164663185,"1116 Queen St E, Toronto, ON M4M 1K9, Canada",43.662222,-79.3353909
+607,1,Maki My Way,14165998828,"293 King St W, Toronto, ON M5V 1J5, Canada",43.6463565,-79.3900436
+608,1,Urban Thai,14165358424,"638 College St, Toronto, ON M6G 1B4, Canada",43.655094,-79.41553
+609,1,YAYA,14164639292,"1186 Queen St E, Toronto, ON M4M 1L4, Canada",43.6630594,-79.3317616
+610,1,Goldstone Noodle,14165969053,"266 Spadina Ave, Toronto, ON M5T 2E4, Canada",43.652129,-79.3981774
+611,1,ki modern japanese + bar,14163085888,"181 Bay St, Toronto, ON M5J 2T3, Canada",43.647239,-79.379417
+612,1,Congee Wong,14164938222,"10 Ravel Rd, North York, ON M2H 1S8, Canada",43.790631,-79.3657333
+613,1,Aoyama Sushi,14164947373,"2766 Victoria Park Ave, Scarborough, ON M1W 1C2, Canada",43.7871139,-79.3290842
+614,1,North Of Bombay,14166049465,"2996 Dundas St W, Toronto, ON M6P 1Z3, Canada",43.665577,-79.469321
+615,1,Chabrol,14164286641,"90 Yorkville Ave, Toronto, ON M5R 1B9, Canada",43.6712119,-79.3918458
+616,1,Wayne Gretzky's,14163480099,"99 Blue Jays Way, Toronto, ON M5V 9G9, Canada",43.6451829,-79.3916912
+617,1,b.good,14163634663,"100 Front St E, Toronto, ON M5A 1E1, Canada",43.64976,-79.371209
+618,1,Jack Astor's,14165959100,"133 John St, Toronto, ON M5V 2E4, Canada",43.648657,-79.390418
+619,1,Hotmess Tex-Mex,14165511322,"615 College St, Toronto, ON M6G 1B5, Canada",43.6549543,-79.4146607
+620,1,Pazzia Osteria,14162521566,"848 The Queensway, Etobicoke, ON M8Z 1N7, Canada",43.6250365,-79.5095013
+621,1,Le Papillon on Front,14163670303,"69 Front St E, Toronto, ON M5E 1B5, Canada",43.6484845,-79.3733425
+622,1,California Sandwiches,14166363200,"3701 Chesswood Dr, North York, ON M3J 2P6, Canada",43.7560444,-79.4739679
+623,1,Rebozos,14166585001,"126 Rogers Rd, York, ON M6E 4B4, Canada",43.6848007,-79.4496334
+624,1,CASA manila Restaurant,14164439654,"879 York Mills Rd Unit #1, Toronto, ON M3B 1Y5, Canada",43.754956,-79.3488879
+625,1,Pho 88,14162258899,"5197 Yonge St, North York, ON M2N 5P7, Canada",43.770522,-79.412905
+626,1,Brioche Dorée,14163645137,"648 King St W, Toronto, ON M5V 1M7, Canada",43.6442512,-79.4018466
+627,1,Haandi,14164699696,"1401 Gerrard St E, Toronto, ON M4L 1Z5, Canada",43.67183,-79.323498
+628,1,Thai Room,14166938424,"2063 Danforth Ave, Toronto, ON M4C 1J8, Canada",43.6854285,-79.313163
+629,1,Chutney's,14162311367,"3077 Bloor St W, Etobicoke, ON M8X 1C7, Canada",43.6465726,-79.5139399
+630,1,The Shore Club - Toronto,14163513311,"155 Wellington St W, Toronto, ON M5V 3H1, Canada",43.6455633,-79.3865711
+631,1,Sunset Grill,14164660648,"1602 Danforth Ave, Toronto, ON M4C 1H6, Canada",43.6835946,-79.3231182
+632,1,Harvey's,14166911284,"1641 Queen St E, Toronto, ON M4L 1G4, Canada",43.6664338,-79.3150736
+633,1,Denny's,14165996161,"121 Dundas St W, Toronto, ON M5G 1C4, Canada",43.6553742,-79.3844123
+634,1,Le Sélect Bistro,14165966405,"432 Wellington St W, Toronto, ON M5V 1E3, Canada",43.6438894,-79.3968464
+635,1,La Bettola Di Terroni,14165049998,"106 Victoria St, Toronto, ON M5C 2B4, Canada",43.652081,-79.378046
+636,1,Glow Fresh Grill & Wine Bar,14163841133,"7 Marie Labatte Rd, Toronto, ON M3C 0J1, Canada",43.7340964,-79.3456053
+637,1,China Town,14162486646,"1790 Jane St, York, ON M9N 2T2, Canada",43.7063783,-79.5050552
+638,1,Green Lady,14164058877,"1176 Danforth Ave, Toronto, ON M4J 4B3, Canada",43.6814959,-79.3328053
+639,1,Pizza Pide,14164629666,"949 Gerrard St E, Toronto, ON M4M 1Z1, Canada",43.6680129,-79.340506
+640,1,Roberto's,14164892153,"2622 Yonge St, Toronto, ON M4P 2J4, Canada",43.7152069,-79.4003914
+641,1,Mi Ne Sushi,14166231975,"325 Bremner Blvd, Toronto, ON M5V 3V3, Canada",43.6404903,-79.3908628
+642,1,Burrito Boyz,14163542699,"1197 The Queensway, Etobicoke, ON M8Z 1R8, Canada",43.621556,-79.522664
+643,1,Crimson Teas,14164323139,"415 Spadina Ave, Toronto, ON M5T 2G6, Canada",43.6570041,-79.3995013
+644,1,Mustafa Turkish Pizza,14166310300,"866 Wilson Ave, North York, ON M3K 1E5, Canada",43.7306947,-79.4680546
+645,1,Dolce Gelato,14165199995,"234 Augusta Ave, Toronto, ON M5T 2L7, Canada",43.6552994,-79.4024875
+646,1,Jack Astor's,14162211221,"5051 Yonge St Unit #2, North York, ON M2N 5P2, Canada",43.767056,-79.412089
+647,1,Vi Vetha Bistro,14166865688,"2485 Queen St E, Toronto, ON M4E 1H9, Canada",43.673586,-79.28206
+648,1,Lin Garden Restaurant,14164918484,"1806 Pharmacy Ave, Scarborough, ON M1T 1H6, Canada",43.7756412,-79.3178799
+649,1,Momo Hut &amp; Gardens,14163638580,"401 Danforth Ave, Toronto, ON M4K 1P1, Canada",43.6773492,-79.3513541
+650,1,Red Lobster,14163488938,"20 Dundas St W, Toronto, ON M5G 2C2, Canada",43.656328,-79.383621
+651,1,Pizza Rustica,14162600200,"37 Blue Jays Way, Toronto, ON M5V 9G9, Canada",43.6449915,-79.3916813
+652,1,Gonoe Sushi,14163860801,"1310 Don Mills Rd, North York, ON M3B 2W6, Canada",43.7458406,-79.3460945
+653,1,Asteria,14164665273,"292 Danforth Ave, Toronto, ON M4K 1N6, Canada",43.6772771,-79.3543441
+654,1,The Roti Hut,14162984153,"351 Pitfield Rd, Scarborough, ON M1S 3E5, Canada",43.7868018,-79.2585729
+655,1,Dessert Lady Cafe & Bakery,14165131118,"1 Sultan St, Toronto, ON M5S 1L6, Canada",43.6686851,-79.3901274
+656,1,Ice 'n Cake,14164442100,"30 Clock Tower Rd, North York, ON M3C 0G2, Canada",43.7344086,-79.3450142
+657,1,Hanoi 3 Seasons,14164693010,"1135 Queen St E, Toronto, ON M4M 1K9, Canada",43.662188,-79.334544
+658,1,Library Bar - The Fairmont Royal York,14163682511,"100 Front St W, Toronto, ON M5J 1E3, Canada",43.6457249,-79.3815657
+659,1,Matsuda,14162982998,"5651 Steeles Ave E #13A-13B, Scarborough, ON M1V 5P6, Canada",43.8317227,-79.2663014
+660,1,Thai One On,14166942323,"1455 Gerrard St E, Toronto, ON M4L 1Z9, Canada",43.6722484,-79.3212267
+661,1,The Bottom Line,14163627585,"22 Front St W, Toronto, ON M5J 1C4, Canada",43.6465208,-79.3778797
+662,1,Ichiban Sushi,14162037990,"750 King St W, Toronto, ON M5V 1N3, Canada",43.6435887,-79.404965
+663,1,Nami,14163627373,"55 Adelaide St E, Toronto, ON M5C 1K6, Canada",43.6508614,-79.3758707
+664,1,Magoo's,14162341148,"4243 Dundas St W, Etobicoke, ON M8X 1Y3, Canada",43.6596098,-79.5144656
+665,1,Taco Bell,14164989950,"1800 Sheppard Ave E, Toronto, ON M2J 5A7, Canada",43.7779901,-79.3440914
+666,1,Stratengers,14164668934,"1130 Queen St E, Toronto, ON M4M 1K9, Canada",43.6623525,-79.334754
+667,1,Istanbul Cafe & Espresso Bar,14164800303,"174 Eglinton Ave E, Toronto, ON M4P 1A6, Canada",43.7079436,-79.3930787
+668,1,D.W. Alexander,14163648368,"19 Church St, Toronto, ON M5E 1M2, Canada",43.6482656,-79.3735534
+669,1,The Keg,14163647227,"560 King St W, Toronto, ON M5V 0L5, Canada",43.644859,-79.3990969
+670,1,Lone Star Texas Grill,14166747777,"930 Dixon Rd, Etobicoke, ON M9W 1J9, Canada",43.6870341,-79.5972577
+671,1,Sicilian Sidewalk Cafe,14165317755,"712 College St, Toronto, ON M6G 1C3, Canada",43.6553573,-79.4185968
+672,1,Square Boy,14164612571,"875 Danforth Ave, Toronto, ON M4J 1L8, Canada",43.6797764,-79.3394328
+673,1,Bitondo's Pizzeria,14165334101,"11 Clinton St, Toronto, ON M6J 2P1, Canada",43.6541434,-79.4131979
+674,1,Poonam Delite,14166907406,"2658 Danforth Ave, Toronto, ON M4C 1L7, Canada",43.68888,-79.299456
+675,1,Bella Vista Trattoria & Wine Bar,14165322518,"660 College St, Toronto, ON M6G 1B8, Canada",43.6552354,-79.4164859
+676,1,Gharoa,14166948720,"2994 Danforth Ave, East York, ON M4C 1M7, Canada",43.6906757,-79.2913946
+677,1,The Friendly Greek,14164698422,"494 Danforth Ave, Toronto, ON M4K 1P6, Canada",43.6783168,-79.3490419
+678,1,Mysteriously Yours,14164867469,"at Chelsea Hotel, 33 Gerrard St W, Toronto, ON M5G 1Z4, Canada",43.658365,-79.383072
+679,1,Chop Steakhouse & Bar,14166747500,"801 Dixon Rd, Etobicoke, ON M9W 1J5, Canada",43.6865881,-79.5871641
+680,1,Queen Mother Cafe,14165984719,"208 Queen St W, Toronto, ON M5V 1Z2, Canada",43.6504638,-79.3891639
+681,1,The Flatiron,14163623444,"49 Wellington St E, Toronto, ON M5E 1C9, Canada",43.6483604,-79.3743035
+682,1,Bikkuri,14166935775,"2197 Queen St E, Toronto, ON M4E 1E5, Canada",43.6706155,-79.2968844
+683,2,26 Beach Restaurant,3108237526,"3100 Washington Blvd, Venice, CA 90292, USA",33.989618,-118.4499345
+684,2,800 Degrees Neapolitan Pizzeria,3104431911,"10889 Lindbrook Dr, Westwood Village, CA 90024, USA",34.0598804,-118.4443646
+685,2,94th Aero Squadron,8189947437,"16320 Raymer St, Van Nuys, CA 91406, USA",34.2179239,-118.4888899
+686,2,A Votre Sante,3104511813,"13016 San Vicente Blvd, Los Angeles, CA 90049, USA",34.048434,-118.490369
+687,2,Abbot's Pizza Company,3103967334,"1407 Abbot Kinney Blvd, Venice, CA 90291, USA",33.9907031,-118.4656865
+688,2,Adagio Ristorante,8182250533,"22841 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1658592,-118.6247579
+689,2,Ago,3236556333,"8478 Melrose Ave, West Hollywood, CA 90069, USA",34.0821725,-118.3756588
+690,2,Ahi Sushi,8189810277,"12915 Ventura Blvd # A, Studio City, CA 91604, USA",34.1453788,-118.4143517
+691,2,Akbar Cuisine of India,3105740666,"3115 Washington Blvd, Marina Del Rey, CA 90292, USA",33.9895382,-118.4492456
+692,2,Alejo's,3106706677,"8343 Lincoln Blvd, Westchester, CA 90045, USA",33.9616504,-118.421098
+693,2,Aliki's Greek Taverna,3106459555,"5862 Arbor Vitae St, Los Angeles, CA 90045, USA",33.9525041,-118.385246
+694,2,Amandine Patissiere,3109793211,"12225 Wilshire Blvd, Los Angeles, CA 90025, USA",34.043245,-118.468933
+695,2,Anarbagh,8182243929,"22721 Ventura Blvd, Woodland Hills, CA 91364, USA",34.166824,-118.6215145
+696,2,Angelini Osteria,3232970070,"7313 Beverly Blvd, Los Angeles, CA 90036, USA",34.0763166,-118.3491446
+697,2,Trois Mec,3237829225,"435 N Fairfax Ave, Los Angeles, CA 90036, USA",34.0792295,-118.3617722
+698,2,Antonio's Pizzeria & Italian Restaurant,8187881103,"13619 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1480987,-118.4302561
+699,2,Attari Grill,3104464660,"1388 Westwood Blvd #101, Los Angeles, CA 90024, USA",34.0555937,-118.4414324
+700,2,Ayara Thai Cuisine,3104108848,"6245 W 87th St, Los Angeles, CA 90045, USA",33.958731,-118.394539
+701,2,Bäco Mercat,2136878808,"408 S Main St, Los Angeles, CA 90013, USA",34.0477996,-118.2472928
+702,2,Baby Blues BBQ,3103967675,"444 Lincoln Blvd, Venice, CA 90291, USA",34.0003891,-118.4653553
+703,2,Badmaash,2132217466,"108 W 2nd St #104, Los Angeles, CA 90012, USA",34.0511033,-118.2448571
+704,2,Baja Cantina,3108212252,"311 Washington Blvd, Marina Del Rey, CA 90292, USA",33.980789,-118.464577
+705,2,Bamboo Inn,8187880202,"14010 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.148952,-118.4376883
+706,2,Barbara's at the Brewery,3232219204,"620 Moulton Ave #110, Los Angeles, CA 90031, USA",34.0646068,-118.2180392
+707,2,Barney's Beanery,3104437777,"1037 Broxton Ave, Los Angeles, CA 90024, USA",34.0617022,-118.446657
+708,2,Barney's Gourmet Hamburger,3104476000,"11660 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0536931,-118.4639889
+709,2,Barrique,3103999010,"796 Main St, Venice, CA 90291, USA",33.9931638,-118.4746842
+710,2,BCD Tofu House,2133803807,"869 S Western Ave #2, Los Angeles, CA 90005, USA",34.056088,-118.3094984
+711,2,Bella Pita,3102091050,"960 Gayley Ave, Los Angeles, CA 90024, USA",34.0627929,-118.448087
+712,2,Belwood Bakery,3104716855,"11625 Barrington Ct, Los Angeles, CA 90049, USA",34.0652507,-118.4694895
+713,2,Benny's Tacos & Chicken Rotisserie,3106708226,"7101 W Manchester Ave, Los Angeles, CA 90045, USA",33.9599966,-118.4168807
+714,2,Bestia,2135145724,"2121 E 7th Pl, Los Angeles, CA 90021, USA",34.0338216,-118.2293285
+715,2,Beverly Soon Tofu House,2133801113,"2717 W Olympic Blvd, Los Angeles, CA 90006, USA",34.0530653,-118.2925432
+716,2,Big Wangs,8189852449,"5300 Lankershim Blvd #130, Los Angeles, CA 91601, USA",34.167536,-118.3760252
+717,2,Bistro Garden at Coldwater,8185010202,"12950 Ventura Blvd, Studio City, CA 91604, USA",34.1449955,-118.4152298
+718,2,Bistro Ka,8183401300,"6600 Topanga Canyon Blvd #2010A, Canoga Park, CA 91303, USA",34.190969,-118.6024213
+719,2,BJ's Restaurant & Brewhouse,8183401748,"6424 Canoga Ave, Woodland Hills, CA 91367, USA",34.1873076,-118.5968035
+720,2,Blossom,2136231973,"426 S Main St, Los Angeles, CA 90013, USA",34.0473594,-118.247748
+721,2,Blu Jam Cafe,8189061955,"15045 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.1531465,-118.4612204
+722,2,Blu Jam Cafe,3239519191,"7371 Melrose Ave, Los Angeles, CA 90046, USA",34.0837993,-118.3505473
+723,2,Blue Cow Kitchen & Bar,2136212249,"350 S Grand Ave, Los Angeles, CA 90071, USA",34.0514138,-118.2516387
+724,2,Blue Dog Beer Tavern,8189902583,"4524 Saugus Ave, Sherman Oaks, CA 91403, USA",34.1519182,-118.4659741
+725,2,Bobby's Coffee Shop,8182251324,"22821 Ventura Blvd, Woodland Hills, CA 91364, USA",34.166046,-118.6241461
+726,2,Boneyard Bistro,8189067427,"13539 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.147709,-118.428398
+727,2,Border Grill,2134865171,"Union Bank Plaza, 445 S Figueroa St #100, Los Angeles, CA 90071, USA",34.0526895,-118.2572766
+728,2,Boulevard Burgers,8187036005,"21718 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1681393,-118.6014193
+729,2,Brü Haus,3104732337,"11831 Wilshire Blvd, Los Angeles, CA 90025, USA",34.0477571,-118.4633799
+730,2,Brandywine,8182259114,"22757 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1665399,-118.6226983
+731,2,Bread Lounge,2133270782,"700 S Santa Fe Ave, Los Angeles, CA 90021, USA",34.0342842,-118.229816
+732,2,Bricks and Scones,3234630811,"403 N Larchmont Blvd, Los Angeles, CA 90004, USA",34.0776928,-118.3240548
+733,2,Bua Siam,8187658395,"4953, 12924 Sherman Way, North Hollywood, CA 91605, USA",34.2006772,-118.4149642
+734,2,C&O Cucina,3103017278,"3016 Washington Blvd, Marina Del Rey, CA 90292, USA",33.9893983,-118.4503113
+735,2,C&O Trattoria,3108239491,"31 Washington Blvd, Marina Del Rey, CA 90292, USA",33.979717,-118.466139
+736,2,Brass Monkey,2133817047,"3440 Wilshire Blvd, Los Angeles, CA 90010, USA",34.0611473,-118.2988457
+737,2,Cafe Buna,3108232430,"552 Washington Blvd, Marina Del Rey, CA 90292, USA",33.9832143,-118.4596121
+738,2,Cafe Gratitude,4242318000,"512 Rose Ave, Venice, CA 90291, USA",33.9979821,-118.4737359
+739,2,Cafe Gratitude,3235806383,"639 N Larchmont Blvd, Los Angeles, CA 90004, USA",34.082833,-118.3241265
+740,2,California Pita & Grill,8189991118,"1835, 21753 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1687391,-118.6022414
+741,2,California Pizza Kitchen at Topanga,8188848858,"6606 CA-27 #72, Canoga Park, CA 91303, USA",34.1899525,-118.6032419
+742,2,Canters,3236512030,"419 N Fairfax Ave, Los Angeles, CA 90036, USA",34.0787734,-118.3618048
+743,2,Carlitos Gardel,3236550891,"7963 Melrose Ave, Los Angeles, CA 90046, USA",34.0839438,-118.3631913
+744,2,Carnival,8187843469,"4356 Woodman Ave, Sherman Oaks, CA 91423, USA",34.149731,-118.4305532
+745,2,Casa Vega,8187884868,"13301 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.14685,-118.4227339
+746,2,Casey's Irish Pub,2136292353,"613 S Grand Ave, Los Angeles, CA 90017, USA",34.0484808,-118.2557888
+747,2,Casita Taco al Carbon,8185088118,"11300 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1645792,-118.3775423
+748,2,Cavaretta's Italian Groceries,8183406626,"22045 Sherman Way, Canoga Park, CA 91304, USA",34.2012785,-118.6075908
+749,2,Chiba Japanese,8187659119,"7515 Lankershim Blvd, North Hollywood, CA 91605, USA",34.2070276,-118.3881179
+750,2,Chicago For Ribs,3106707427,"8311 Lincoln Blvd, Los Angeles, CA 90045, USA",33.962169,-118.421651
+751,2,Chin Chin,3108262525,"11740 San Vicente Blvd, Los Angeles, CA 90049, USA",34.052916,-118.4668507
+752,2,Chinese Friends,2136261837,"984 N Broadway, Los Angeles, CA 90012, USA",34.0664571,-118.2358912
+753,2,Chipotle Mexican Grill,8187100466,"5430 Topanga Canyon Blvd, Woodland Hills, CA 91367, USA",34.1698212,-118.6052853
+754,2,Chosun Galbee,3237343330,"3330 W Olympic Blvd, Los Angeles, CA 90019, USA",34.0524295,-118.310468
+755,2,Church and State Bistro,2134051434,"1850 Industrial St, Los Angeles, CA 90021, USA",34.0355401,-118.2326121
+756,2,Clementine Catering & Café,3105521080,"1751 Ensley Ave, Los Angeles, CA 90024, USA",34.0602694,-118.4208965
+757,2,Clifton's Republic,2136271673,"648 S Broadway, Los Angeles, CA 90014, USA",34.0454209,-118.2530005
+758,2,Cole's French Dip,2136224090,"118 E 6th St, Los Angeles, CA 90014, USA",34.0447897,-118.2494993
+759,2,Colori Kitchen,2136225950,"429 W 8th St, Los Angeles, CA 90014, USA",34.045103,-118.2565436
+760,2,Coral Tree Cafe,3109798733,"11645 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0542204,-118.4637912
+761,2,Corner Bakery,8187109245,"6100 Topanga Canyon Blvd Suite 1330, Woodland Hills, CA 91367, USA",34.1816604,-118.6036452
+762,2,Paparazzi Ristorante,3106424820,"6101 W Century Blvd, Los Angeles, CA 90045, USA",33.946626,-118.390812
+763,2,Crave Cafe,8189907888,"14504 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.1507551,-118.4489886
+764,2,Crossroads,3237829245,"8284 Melrose Ave, Los Angeles, CA 90046, USA",34.083527,-118.370157
+765,2,Curry Up Cafe,8183474116,"21912 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1682047,-118.604319
+766,2,Dan Sung Sa,2134879100,"3317 W 6th St, Los Angeles, CA 90020, USA",34.0637546,-118.2946431
+767,2,Dan's Super Subs,8182258880,"22446 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1681081,-118.6160347
+768,2,Delphi Greek,3104782900,"1383 Westwood Blvd, Los Angeles, CA 90024, USA",34.0554863,-118.4420801
+769,2,Dinahs Family Restaurant,3106450456,"6521 S Sepulveda Blvd, Los Angeles, CA 90045, USA",33.9802997,-118.394892
+770,2,Dino's Chicken & Burgers,2133803554,"2575 W Pico Blvd, Los Angeles, CA 90006, USA",34.0474468,-118.2939367
+771,2,Divino,3104720886,"11714 Barrington Ct, Los Angeles, CA 90049, USA",34.0641592,-118.4695595
+772,2,Dong Il Jang,2133835757,"3455 W 8th St, Los Angeles, CA 90005, USA",34.0579282,-118.3049694
+773,2,BLVD 16,3104747765,"10740 Wilshire Blvd, Los Angeles, CA 90024, USA",34.0599979,-118.4373483
+774,2,Drago Centro,2132288998,"525 S Flower St, Los Angeles, CA 90071, USA",34.0516755,-118.2569652
+775,2,Eat,8187604787,"11108 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1647896,-118.3727955
+776,2,Eat Drink Americano,2136200781,"923 E 3rd St Suite 101, Los Angeles, CA 90013, USA",34.0461026,-118.2342293
+777,2,Eggslut,2136250292,"317 S Broadway, Los Angeles, CA 90013, USA",34.0505885,-118.2486089
+778,2,El Coyote,3239392255,"7312 Beverly Blvd, Los Angeles, CA 90036, USA",34.0758933,-118.3492306
+779,2,El Criollo,8187858625,"6622 Van Nuys Blvd, Van Nuys, CA 91405, USA",34.1913545,-118.4483682
+780,2,El Tarasco,3103380399,"8620 S Sepulveda Blvd, Los Angeles, CA 90045, USA",33.9591147,-118.3958441
+781,2,Emporium Thai,3104782838,"1275 Westwood Blvd, Los Angeles, CA 90024, USA",34.0572125,-118.4431397
+782,2,Engine Co. No. 28,2136246996,"644 S Figueroa St, Los Angeles, CA 90017, USA",34.04972,-118.2593666
+783,2,Enzo & Angela,3104773880,"11701 Wilshire Blvd, Los Angeles, CA 90025, USA",34.0491968,-118.4615418
+784,2,Enzo's Pizzeria,3102083696,"2809, 10940 Weyburn Ave, Los Angeles, CA 90024, USA",34.062382,-118.446583
+785,2,Espresso Profeta,3102083375,"1129 Glendon Ave, Los Angeles, CA 90024, USA",34.0603134,-118.4441764
+786,2,Faith & Flower,2132390642,"705 W 9th St, Los Angeles, CA 90015, USA",34.0460359,-118.2615537
+787,2,Farmer Boys,2132288999,"726 S Alameda St, Los Angeles, CA 90021, USA",34.0320738,-118.2383337
+788,2,Farmshop,3105662400,"225 26th St #25, Santa Monica, CA 90402, USA",34.0475063,-118.4906377
+789,2,Fatburger,8189892695,"6162 1, 8, Sepulveda Blvd, Van Nuys, CA 91411, USA",34.1824854,-118.465969
+790,2,Fatburger,3102681112,"12005 Wilshire Blvd, Los Angeles, CA 90025, USA",34.0459964,-118.4654057
+791,2,Fig & Olive Melrose,3103609100,"8490 Melrose Pl, West Hollywood, CA 90069, USA",34.0834456,-118.3761384
+792,2,Figtree's Cafe,3103924937,"429 Ocean Front Walk, Venice, CA 90291, USA",33.99342,-118.4792944
+793,2,Fisherman's Outlet Restaurant and Market,2136277231,"529 S Central Ave, Los Angeles, CA 90013, USA",34.0408415,-118.2400648
+794,2,Flake,3103962333,"513 Rose Ave, Venice, CA 90291, USA",33.9983932,-118.4737859
+795,2,Fleming’s Prime Steakhouse & Wine Bar,2137459911,"800 W Olympic Blvd, Los Angeles, CA 90015, USA",34.0449106,-118.2652163
+796,2,Fleming’s Prime Steakhouse & Wine Bar,8183461005,"6373 Topanga Canyon Blvd, Woodland Hills, CA 91367, USA",34.1864121,-118.6063916
+797,2,Four 'n 20 Restaurant & Pie,8189881152,"5530 Van Nuys Blvd, Sherman Oaks, CA 91401, USA",34.1711293,-118.4483962
+798,2,Weiler's Delicatessen,8188846611,"21161 Victory Blvd, Canoga Park, CA 91303, USA",34.188817,-118.594033
+799,2,Fresh Corn Grill,3104700414,"1266 Westwood Blvd, Los Angeles, CA 90024, USA",34.0575644,-118.4429061
+800,2,Frida Mexican Cuisine,3102090666,"10853 Lindbrook Dr, Los Angeles, CA 90024, USA",34.0603218,-118.4426588
+801,2,fundamental LA,3104447581,"1303 Westwood Blvd, Los Angeles, CA 90024, USA",34.0567988,-118.4428802
+802,2,The Eclectic,8187602233,"5156 Lankershim Blvd, Los Angeles, CA 91601, USA",34.1645044,-118.3740665
+803,2,Ginger Thai,8188877118,"22330 Sherman Way # C1, Canoga Park, CA 91303, USA",34.2004878,-118.6139676
+804,2,Gjusta,3103140320,"320 Sunset Ave, Venice, CA 90291, USA",33.9952738,-118.4745361
+805,2,Go's Mart,8187041459,"22330 Sherman Way C12, Canoga Park, CA 91303, USA",34.2005935,-118.6135503
+806,2,Golden Dragon Restaurant,2136262039,"960 N Broadway, Los Angeles, CA 90012, USA",34.0655701,-118.236411
+807,2,Greenwich Village Pizza,2137493920,"512 E Washington Blvd, Los Angeles, CA 90015, USA",34.0282878,-118.2601945
+808,2,Grub,3234613663,"911 Seward St, Los Angeles, CA 90038, USA",34.087589,-118.333348
+809,2,Guelaguetza Restaurante,2134270608,"3014 W Olympic Blvd, Los Angeles, CA 90006, USA",34.0524074,-118.3006681
+810,2,Gushi,3102084038,"978 Gayley Ave, Los Angeles, CA 90024, USA",34.0622639,-118.4478882
+811,2,Gyu-Kaku Japanese BBQ Dining,8188884030,"6600 Topanga Canyon Blvd Suite 1010B, Canoga Park, CA 91303, USA",34.1910377,-118.6024127
+812,2,Gyu-Kaku,8185015400,"14457 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1516841,-118.4484022
+813,2,Hacienda Del Rey,3106708588,"8347 Lincoln Blvd, Los Angeles, CA 90045, USA",33.9614296,-118.4209925
+814,2,Hama Sushi Restaurant,3103968783,"213 Windward Ave, Venice, CA 90291, USA",33.9885432,-118.4707852
+815,2,Hamasaku,3104797636,"11043 CA-2, Los Angeles, CA 90025, USA",34.0482992,-118.4433502
+816,2,Happy Dogs,8189890193,"6235 Van Nuys Blvd, Van Nuys, CA 91401, USA",34.1834492,-118.4489698
+817,2,Hayat's Kitchen,8187614656,"11009 Burbank Blvd Unit #117, North Hollywood, CA 91601, USA",34.1728754,-118.3709438
+818,2,Hinano Cafe,3108223902,"15 Washington Blvd, Venice, CA 90292, USA",33.9794974,-118.466568
+819,2,Hodori,2133833554,"1001 Vermont Ave #101, Los Angeles, CA 90006, USA",34.052428,-118.2920499
+820,2,Homegirl Cafe,3235261254,"130 W. Bruno St, Los Angeles, CA 90012, USA",34.0623052,-118.2358743
+821,2,Honey Pig,2133800256,"3400 W 8th St, Los Angeles, CA 90005, USA",34.0575451,-118.3032697
+822,2,Hugo's,8187618985,"12851 Riverside Dr, Valley Village, CA 91607, USA",34.1578716,-118.4132183
+823,2,Hugo's Tacos,8187627771,"4749 Coldwater Canyon Ave, Studio City, CA 91604, USA",34.1573216,-118.4139925
+824,2,Humble Potato,3239892242,"8321 Lincoln Blvd, Los Angeles, CA 90045, USA",33.9621142,-118.4215461
+825,2,Hy Mart,8185067264,"3545, 4795 Vineland Ave, North Hollywood, CA 91602, USA",34.1573217,-118.3713275
+826,2,In-N-Out Burger,8007861000,"9149 S Sepulveda Blvd, Los Angeles, CA 90045, USA",33.9537068,-118.3967825
+827,2,India's Oven,3102075522,"11645 Wilshire Blvd Suite 200, Los Angeles, CA 90025, USA",34.0501954,-118.4602717
+828,2,Intelligentsia Coffee,3103991233,"1331 Abbot Kinney Blvd, Venice, CA 90291, USA",33.9910996,-118.4669272
+829,2,Iroha,8189909559,"12953 Ventura Blvd, Studio City, CA 91604, USA",34.1458274,-118.4155787
+830,2,Italy's Little Kitchen,3106451220,"8516 Lincoln Blvd, Los Angeles, CA 90045, USA",33.9601479,-118.4193281
+831,2,Jack's Classic Hamburgers,8187614599,"11375 Riverside Dr, West Toluca Lake, CA 91602, USA",34.1574262,-118.3784742
+832,2,Original Thai,8185060789,"11363 Riverside Dr, North Hollywood, CA 91602, USA",34.1571828,-118.3782874
+833,2,James' Beach,3108235396,"60 N Venice Blvd, Venice, CA 90291, USA",33.9846764,-118.4703248
+834,2,Derrick's Jamaican Cuisine,3106417572,"3850 Main St, Culver City, CA 90232, USA",34.0246744,-118.3941265
+835,2,Jar,3236556566,"8225 Beverly Blvd, Los Angeles, CA 90048, USA",34.0763057,-118.3688048
+836,2,Jinky's Cafe,8189812250,"14120 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1494605,-118.4407447
+837,2,Jinos Pars,3106456666,"5844 W Manchester Ave, Los Angeles, CA 90045, USA",33.9595144,-118.3843179
+838,2,Juicy Ladies,8187160800,"22423 Ventura Blvd, Woodland Hills, CA 91364, USA",34.169004,-118.615516
+839,2,Kabuki Japanese,3106415524,"6081 Center Dr #203, Los Angeles, CA 90045, USA",33.9785725,-118.39291
+840,2,Kabuki Japanese,8187048700,"20940 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1663768,-118.5897437
+841,2,Kanpai Sushi Bar and Grill,3103387223,"8325 Lincoln Blvd, Los Angeles, CA 90045, USA",33.961972,-118.4214507
+842,2,Katsuya,2137479797,"800 W Olympic Blvd, Los Angeles, CA 90015, USA",34.0445612,-118.2656156
+843,2,Kc's Cafe,3103489697,"8320 Lincoln Blvd #101B, Los Angeles, CA 90045, USA",33.962241,-118.421105
+844,2,King Taco,2137473176,"1951 San Pedro St, Los Angeles, CA 90011, USA",34.026643,-118.258616
+845,2,Kings Road Cafe,3236559044,"8361 Beverly Blvd, Los Angeles, CA 90048, USA",34.0762434,-118.3723133
+846,2,Kinnara,8189887788,"15355 Sherman Way, Van Nuys, CA 91406, USA",34.2015414,-118.4682655
+847,2,Koi,3106599449,"730 N La Cienega Blvd, Los Angeles, CA 90069, USA",34.084505,-118.376139
+848,2,Krua Thai,8187597998,"13130 Sherman Way, North Hollywood, CA 91605, USA",34.2010523,-118.4192202
+849,2,Kyushu Ramen,8187866005,"15355 Sherman Way, Van Nuys, CA 91406, USA",34.2019841,-118.4680012
+850,2,La Bruschetta Ristorante,3104771052,"1621 Westwood Blvd, Los Angeles, CA 90024, USA",34.0524621,-118.4395482
+851,2,La Cabana,3103927973,"738 Rose Ave, Venice, CA 90291, USA",34.0008825,-118.468195
+852,2,La Cava,8189811517,"13565 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1479305,-118.4292592
+853,2,La Fogata Mexican Restaurant,8185019065,"5142 Van Nuys Blvd, Sherman Oaks, CA 91403, USA",34.1640524,-118.4484991
+854,2,Lala's Grill,3239346838,"7229 Melrose Ave, Los Angeles, CA 90046, USA",34.0837053,-118.3473002
+855,2,Lamonica's New York Pizza,3102088671,"1066 Gayley Ave, Los Angeles, CA 90024, USA",34.060902,-118.4468378
+856,2,Larry's Venice,3103992700,"24 Windward Ave, Venice, CA 90291, USA",33.9870136,-118.4729875
+857,2,Soleil Westwood,3104415384,"1386 Westwood Blvd suite a, Los Angeles, CA 90024, USA",34.0555319,-118.4416711
+858,2,Le Pain Quotidien,3103938185,"13050 San Vicente Blvd Ste 114, Los Angeles, CA 90049, USA",34.048187,-118.491084
+859,2,Le Pain Quotidien,3104760969,"11702 Barrington Ct, Los Angeles, CA 90049, USA",34.0644055,-118.4694077
+860,2,Le Pain Quotidien,3108247900,"1122 S Gayley Ave, Los Angeles, CA 90024, USA",34.0595321,-118.4456246
+861,2,Le Petit Chateau,8187691812,"4615 Lankershim Blvd, North Hollywood, CA 91602, USA",34.1543919,-118.3685335
+862,2,Le Petit Restaurant,8185017999,"13360 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1467157,-118.4245147
+863,2,Leaning Tower Pizza,8189869701,"14120 Ventura Blvd D, Sherman Oaks, CA 91423, USA",34.149366,-118.44064
+864,2,Lemonade,4247445978,"500 World Way, Los Angeles, CA 90045, USA",33.9411214,-118.4043032
+865,2,Lemonade,3104526200,"1661 Abbot Kinney Blvd, Venice, CA 90291, USA",33.9893359,-118.462593
+866,2,Leo & Lily,8182226622,"22420 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1681829,-118.6151452
+867,2,Literati Cafe,3102317484,"12081 Wilshire Blvd, Los Angeles, CA 90025, USA",34.0444539,-118.4674537
+868,2,Little Siam Thai Cuisine,8187855464,"15046 Oxnard St, Van Nuys, CA 91411, USA",34.179232,-118.4610878
+869,2,Little Toni's,8187630131,"4745 Lankershim Blvd, North Hollywood, CA 91602, USA",34.1567701,-118.3700702
+870,2,Lotus Vegan,8187608088,"4715 Lankershim Blvd, North Hollywood, CA 91602, USA",34.1560235,-118.3694771
+871,2,M Cafe,3235250588,"7617, 7119 Melrose Ave, West Hollywood, CA 90046, USA",34.0836213,-118.3449417
+872,2,M Grill,2133892770,"3832 Wilshire Blvd Suite 202 Suite 202, Los Angeles, CA 90010, USA",34.061408,-118.3104412
+873,2,Ma Dang Gook Soo,2134876008,"869 S Western Ave #1, Los Angeles, CA 90005, USA",34.056166,-118.3095023
+874,2,Maccheroni Republic,2133469725,"332 S Broadway, Los Angeles, CA 90013, USA",34.050038,-118.2485508
+875,2,Maggiano's Little Italy,8188873777,"6100 Topanga Canyon Blvd, Woodland Hills, CA 91367, USA",34.1816323,-118.6038108
+876,2,Mao's Kitchen,3105818305,"1512 Pacific Ave, Venice, CA 90291, USA",33.9880314,-118.4723769
+877,2,Vinny's Pizza,3106418666,"8412 Lincoln Blvd, Los Angeles, CA 90045, USA",33.9617321,-118.4199218
+878,2,Maria's Italian Kitchen,3104766112,"Brentwood Village, 11723 Barrington Ct, Los Angeles, CA 90049, USA",34.0643337,-118.4697758
+879,2,Maria's Italian Kitchen,8182250586,"23331 Mulholland Dr, Woodland Hills, CA 91364, USA",34.1572008,-118.6342132
+880,2,Mario's Peruvian Seafood Restaurant,3234664181,"5786 Melrose Ave, Los Angeles, CA 90038, USA",34.0831331,-118.3262359
+881,2,Marmalade Cafe - Sherman Oaks,8189058872,"14910 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.1521099,-118.4578139
+882,2,Mary & Robbs Westwood Cafe,3104783822,"1453 Westwood Blvd, Los Angeles, CA 90024, USA",34.0543348,-118.4411591
+883,2,Kogi King BBQ,3233730700,"1145 S Western Ave, Los Angeles, CA 90006, USA",34.0497444,-118.309413
+884,2,Novel Cafe,3102086410,"1101 Gayley Ave, Los Angeles, CA 90024, USA",34.0599296,-118.4465677
+885,2,Melody Bar and Grill,3106701994,"9132 S Sepulveda Blvd, Los Angeles, CA 90045, USA",33.9537235,-118.3958827
+886,2,Mercado Buenos Aires,8187860522,"7540 Sepulveda Blvd, Van Nuys, CA 91405, USA",34.2078106,-118.465729
+887,2,Midori Sushi,8187891188,"13905 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1491635,-118.4358375
+888,2,Milk,3239396455,"7290 Beverly Blvd, Los Angeles, CA 90036, USA",34.0759802,-118.3484977
+889,2,Mofongos,8187541051,"5757 Lankershim Blvd, North Hollywood, CA 91601, USA",34.1754493,-118.3812148
+890,2,Monty's Steakhouse,8187169736,"5371 Topanga Canyon Blvd, Woodland Hills, CA 91364, USA",34.1678066,-118.6063411
+891,2,Morton's The Steakhouse,8187037272,"6250 Canoga Ave Suite 111, Woodland Hills, CA 91367, USA",34.1844207,-118.5971813
+892,2,Mountain Cafe,2134877615,"3470 W 6th St #5, Los Angeles, CA 90020, USA",34.0631054,-118.2975572
+893,2,Mr. Noodle,3102081730,"936 Broxton Ave, Los Angeles, CA 90024, USA",34.0629584,-118.4468617
+894,2,Mucho Mas,8189800300,"10405 Burbank Blvd, North Hollywood, CA 91601, USA",34.1723195,-118.3580705
+895,2,Myung Dong Kyoja,2133857789,"3630 Wilshire Blvd, Los Angeles, CA 90010, USA",34.061564,-118.3043185
+896,2,Myung In Dumplings,2133813568,"3109 W Olympic Blvd B, Los Angeles, CA 90006, USA",34.0528785,-118.3035009
+897,2,Nagao,3104517733,"13050 San Vicente Blvd #110, Los Angeles, CA 90049, USA",34.048252,-118.491261
+898,2,Napa Valley Grille,3108243322,"1100 Glendon Ave Ste 100, Los Angeles, CA 90024, USA",34.060327,-118.443735
+899,2,Nat's Early Bite Coffee Shop,8187813040,"14115 Burbank Blvd, Sherman Oaks, CA 91401, USA",34.1723256,-118.4404486
+900,2,Natas Pastries,8187888050,"13317 Ventura Blvd # D, Sherman Oaks, CA 91423, USA",34.1470119,-118.4231103
+901,2,Native Foods Cafe,3102091055,"1114 Gayley Ave, Los Angeles, CA 90024, USA",34.0598901,-118.4459704
+902,2,Pho 999,8189829370,"12905 Sherman Way, North Hollywood, CA 91605, USA",34.201509,-118.414346
+903,2,New York Bagel Co.,3108201050,"11640 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0535509,-118.4632264
+904,2,Nick & Stef's Steakhouse,2136800330,"330 S Hope St, Los Angeles, CA 90071, USA",34.0529142,-118.252486
+905,2,Nick's Cafe,3232221450,"1300 N Spring St, Los Angeles, CA 90012, USA",34.066035,-118.233146
+906,2,Nickel Diner,2136238301,"524 S Main St, Los Angeles, CA 90013, USA",34.0459937,-118.2490032
+907,2,Nobu,3106575711,"903 La Cienega Blvd, Los Angeles, CA 90069, USA",34.0871088,-118.3766256
+908,2,Noho Pizza and Grill,8187661106,"11300 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1647308,-118.3778164
+909,2,NORMS,8187805060,"13640 Sherman Way, Van Nuys, CA 91405, USA",34.2009182,-118.430412
+910,2,North Hollywood Diner,8187613341,"11329 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1650843,-118.3783249
+911,2,On The Thirty,8187880330,"14622 Ventura Blvd #112, Sherman Oaks, CA 91403, USA",34.151247,-118.452073
+912,2,Tommy's Original World Famous Hamburgers,8183408775,"7240 Topanga Canyon Blvd, Canoga Park, CA 91303, USA",34.2021822,-118.6057644
+913,2,Osteria La Buca,3234621900,"5210 Melrose Ave, Los Angeles, CA 90038, USA",34.0833443,-118.3139444
+914,2,Osteria Mamma,3232847060,"5732 Melrose Ave, Los Angeles, CA 90004, USA",34.0833483,-118.324663
+915,2,Osteria Mozza,3232970100,"6602 Melrose Ave, Los Angeles, CA 90038, USA",34.0832419,-118.3389634
+916,2,P.F. Chang's,8187841694,"15301 Ventura Blvd Ste P-22, Sherman Oaks, CA 91403, USA",34.1550782,-118.466368
+917,2,P.F. Chang's,8183400491,"21821 W Oxnard St, Woodland Hills, CA 91367, USA",34.1795741,-118.6035212
+918,2,Paco's Tacos,3106458692,"6212 W Manchester Ave, Los Angeles, CA 90045, USA",33.9595424,-118.3940825
+919,2,Palmeri,3104428446,"11650 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0536385,-118.4636939
+920,2,Panera Bread,3106419200,"8647 S Sepulveda Blvd, Westchester, CA 90045, USA",33.9585318,-118.3966441
+921,2,Panini Cafe,8189923330,"21600 Victory Blvd, Woodland Hills, CA 91367, USA",34.1870288,-118.6010559
+922,2,Pann's,3237763770,"6710 La Tijera Blvd, Los Angeles, CA 90045, USA",33.9781832,-118.3706077
+923,2,Panzanella,8187844400,"14928 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.1523292,-118.458396
+924,2,Park's BBQ,2133801717,"955 S Vermont Ave G, Los Angeles, CA 90006, USA",34.0539567,-118.292058
+925,2,Patina,2139723331,"141 S Grand Ave, Los Angeles, CA 90012, USA",34.055285,-118.249333
+926,2,Paul's Kitchen Enterprises,2137495004,"1012 San Pedro St, Los Angeles, CA 90015, USA",34.0354251,-118.2518754
+927,2,Pecorino,3105713800,"11604 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0535009,-118.4619469
+928,2,Pedalers Fork,8182258231,"23504 Calabasas Rd, Calabasas, CA 91302, USA",34.1572238,-118.6387601
+929,2,Peppone,3104767379,"11628 Barrington Ct, Los Angeles, CA 90049, USA",34.0651548,-118.469193
+930,2,Perch,2138021770,"448 S Hill St, Los Angeles, CA 90013, USA",34.0490017,-118.251408
+931,2,Petty Cash Taqueria & Bar,3239335300,"7360 Beverly Blvd, Los Angeles, CA 90036, USA",34.0759873,-118.3503308
+932,2,Pho 999,8187821999,"6411 Sepulveda Blvd, Van Nuys, CA 91411, USA",34.1873683,-118.4668686
+933,2,Pho 87,3232270758,"1019 N Broadway, Los Angeles, CA 90012, USA",34.067348,-118.235696
+934,2,Pho So 1,8189966515,"7231 Reseda Blvd, Reseda, CA 91335, USA",34.2020728,-118.536333
+935,2,Pita Kitchen,8189907006,"14500 Ventura Blvd, Sherman Oaks, CA 91403, USA",34.150534,-118.448925
+936,2,Pizzanista!,2136271430,"2019 E 7th St, Los Angeles, CA 90021, USA",34.034833,-118.231605
+937,2,Pizzeria Mozza,3232970101,"641 N Highland Ave, Los Angeles, CA 90036, USA",34.0831169,-118.3388666
+938,2,Pizzicotto,3104427188,"11758 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0529876,-118.4677483
+939,2,Pomodoro Trattoria,3104459998,"1393 Westwood Blvd, Los Angeles, CA 90024, USA",34.0552585,-118.4420848
+940,2,Poppy + Rose,2139957799,"765 Wall St, Los Angeles, CA 90014, USA",34.0406706,-118.2500877
+941,2,Poquito Mas,8189948226,"10651 W Magnolia Blvd, Los Angeles, CA 91601, USA",34.165062,-118.3633474
+942,2,Poquito Mas,8188872007,"13924 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1486053,-118.4358049
+943,2,Providence,3234604170,"5955 Melrose Ave, Los Angeles, CA 90038, USA",34.0836413,-118.3302036
+944,2,Purgatory Pizza,3232625310,"1326 E 1st St, Los Angeles, CA 90033, USA",34.04737,-118.2258
+945,2,Puro Sabor Peruvian Restaurant,8189080818,"6366 Van Nuys Blvd, Van Nuys, CA 91401, USA",34.1862174,-118.4485365
+946,2,Ramayani Westwood,3104773315,"1777 Westwood Blvd, Los Angeles, CA 90024, USA",34.050486,-118.4379181
+947,2,Real Food Daily,3102899910,"414 N La Cienega Blvd, Los Angeles, CA 90048, USA",34.0785862,-118.3764336
+948,2,Redbird,2137881191,"114 E 2nd St, Los Angeles, CA 90012, USA",34.0505004,-118.2440775
+949,2,Reddi-Chick,3103935238,"225 26th St, Santa Monica, CA 90402, USA",34.0474843,-118.4904119
+950,2,Republic of Pie,8183087990,"11118 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1647296,-118.3731302
+951,2,Rib Ranch Barbeque,8188847776,"4923 Topanga Canyon Blvd, Woodland Hills, CA 91364, USA",34.157584,-118.606183
+952,2,Road To Seoul,3237319292,"1230 S Western Ave, Los Angeles, CA 90006, USA",34.0484855,-118.308862
+953,2,Rock'n Fish,2137484020,"800 W Olympic Blvd A-160, Los Angeles, CA 90015, USA",34.0445166,-118.2654804
+954,2,Rosa Mexicano,2137460001,"800 W Olympic Blvd, Los Angeles, CA 90015, USA",34.0449376,-118.2654979
+955,2,Roy's Restaurant,8188884801,"6363 Topanga Canyon Blvd, Woodland Hills, CA 91367, USA",34.1864191,-118.6063387
+956,2,Royal Curry Cafe,8185097947,"4329 Lankershim Blvd, North Hollywood, CA 91602, USA",34.1488059,-118.3651033
+957,2,Royal Delhi Palace Cuisine of India,8189920913,"22323 Sherman Way #11, Canoga Park, CA 91303, USA",34.2022369,-118.6125425
+958,2,Sagebrush Cantina,8182226062,"23527 Calabasas Rd, Calabasas, CA 91302, USA",34.1575089,-118.6393637
+959,2,Salomi,8185060130,"11009 Burbank Blvd #116, North Hollywood, CA 91601, USA",34.1723771,-118.3705514
+960,2,Sam Woo BBQ,8189886813,"6450 Sepulveda Blvd, Van Nuys, CA 91411, USA",34.1877591,-118.4654446
+961,2,Maddalena Restaurant,3232231401,"737 Lamar St, Los Angeles, CA 90031, USA",34.0637293,-118.223954
+962,2,Sanam Luang Cafe,8187641180,"12980 Sherman Way, North Hollywood, CA 91605, USA",34.2008343,-118.4158357
+963,2,San Ya Restaurant,2133831144,"2897 W Olympic Blvd #105, Los Angeles, CA 90006, USA",34.0529605,-118.2975425
+964,2,Shaherzad Restaurant,3104703242,"1422 Westwood Blvd, Los Angeles, CA 90024, USA",34.0549389,-118.4412039
+965,2,Shamshiri Grill,3104741410,"1712 Westwood Blvd, Los Angeles, CA 90024, USA",34.0516233,-118.4383179
+966,2,Shiki Sushi,8184873938,"12745 A Ventura Blvd, Studio City, CA 91604, USA",34.1460081,-118.4110279
+967,2,Skaf's Grill,8189855701,"6008 Laurel Canyon Blvd, North Hollywood, CA 91606, USA",34.1797948,-118.3961751
+968,2,Something's Fishy,8188843880,"21812 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1682234,-118.6026507
+969,2,Soot Bull Jeep,2133873865,"3136 W 8th St, Los Angeles, CA 90005, USA",34.0575858,-118.2958153
+970,2,Souplantation,3104767080,"11911 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0532342,-118.4699574
+971,2,Spumante Restaurant,8185087716,"11049 W Magnolia Blvd #107, North Hollywood, CA 91601, USA",34.1650513,-118.3722516
+972,2,Sri Siam Cafe,8189826262,"12843 Vanowen St, North Hollywood, CA 91605, USA",34.1940347,-118.4131269
+973,2,Mu Dung San,3237379292,"1040 S Western Ave, Los Angeles, CA 90006, USA",34.0513749,-118.3088388
+974,2,Stan's Corner Donut Shoppe,3102088660,"10948 Weyburn Ave, Los Angeles, CA 90024, USA",34.0624404,-118.446873
+975,2,STK Los Angeles,3106593535,"930 Hilgard Ave, Los Angeles, CA 90024, USA",34.0633123,-118.440862
+976,2,SUGARFISH by sushi nozawa,3108204477,"11640 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0535001,-118.462792
+977,2,SUGARFISH by sushi nozawa,2136273000,"600 W 7th St #150, Los Angeles, CA 90017, USA",34.0473777,-118.2570203
+978,2,Sunnin Lebanese Café,3104753358,"1776 Westwood Blvd, Los Angeles, CA 90024, USA",34.050605,-118.437312
+979,2,Sunny Spot,3104488884,"822 Washington Blvd, Marina Del Rey, CA 90292, USA",33.988035,-118.451836
+980,2,Superba Food and Bread,3109075075,"1900 Lincoln Blvd, Venice, CA 90291, USA",33.9962172,-118.4563494
+981,2,Susiecakes,3104422253,"11708 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0533494,-118.4659731
+982,2,Sweet Butter Kitchen,8187882832,"13824 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1482604,-118.4339486
+983,2,Sweet Lady Jane,3236537145,"8360 Melrose Ave, Los Angeles, CA 90069, USA",34.083379,-118.372525
+984,2,Sweet Rose Creamery,3102602663,"225 26th St #51, Santa Monica, CA 90402, USA",34.0472319,-118.4903735
+985,2,Taiko,3102077782,"11677 San Vicente Blvd #302, Los Angeles, CA 90049, USA",34.0541184,-118.4651104
+986,2,Taj India Palace,3103371423,"8320 Lincoln Blvd, Westchester, CA 90045, USA",33.9622714,-118.4208969
+987,2,Takami Sushi & Robata,2132369600,"811 Wilshire Blvd #2100, Los Angeles, CA 90017, USA",34.0497828,-118.2582347
+988,2,Takao,3102078636,"11656 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0537043,-118.4639027
+989,2,Tandoor-A-India,3108221435,"8406 Pershing Dr, Playa Del Rey, CA 90293, USA",33.95728,-118.442853
+990,2,Tanino,3102080444,"1043 Westwood Blvd, Los Angeles, CA 90024, USA",34.0616951,-118.44562
+991,2,Taste of India - Sherman Oaks,8185015550,"13903 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1491704,-118.4357217
+992,2,Tavern,3108066464,"11648 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0536754,-118.4633645
+993,2,Taylor's Steak House,2133828449,"3361 W 8th St, Los Angeles, CA 90005, USA",34.0578274,-118.3021546
+994,2,Tere's Mexican Grill,3234689345,"5870 Melrose Ave #101, Los Angeles, CA 90038, USA",34.083349,-118.3283929
+995,2,Terroni - Beverley,3239540300,"7605 Beverly Blvd, Los Angeles, CA 90036, USA",34.0763531,-118.3555002
+996,2,TGI Fridays,8188882617,"5919 Canoga Ave, Woodland Hills, CA 91367, USA",34.1779854,-118.5983115
+997,2,Thai Talay,3106703055,"8411 Lincoln Blvd, Los Angeles, CA 90045, USA",33.961062,-118.420739
+998,2,The Baker,8183401987,"21600 Ventura Blvd, Woodland Hills, CA 91364, USA",34.1678666,-118.5999236
+999,2,The Bar-B-Que Bar,8187540030,"10863 W Magnolia Blvd, North Hollywood, CA 91601, USA",34.1652108,-118.367913
+1000,2,The Cheesecake Factory,8188839900,"6600 Topanga Canyon Blvd Ste 51, Canoga Park, CA 91303, USA",34.1893157,-118.6046021
+1001,2,Skewers By Morimoto,3103371011,"550 World Way, Los Angeles, CA 90045, USA",33.9413157,-118.40456
+1002,2,Coffee Company,3106457315,"8751 La Tijera Blvd, Los Angeles, CA 90045, USA",33.957594,-118.394536
+1003,2,The Edison,2136130000,"108 W 2nd St #101, Los Angeles, CA 90012, USA",34.0510332,-118.245004
+1004,2,The Factory Kitchen,2139966000,"1300 Factory Pl, Los Angeles, CA 90013, USA",34.0388987,-118.2359126
+1005,2,The Federal,8189802555,"5303 Lankershim Blvd, North Hollywood, CA 91601, USA",34.1671302,-118.3761529
+1006,2,The Golden State,3237828331,"426 N Fairfax Ave, Los Angeles, CA 90036, USA",34.0790602,-118.361322
+1007,2,The Good Pizza,3102151883,"7929 Emerson Ave, Los Angeles, CA 90045, USA",33.9688842,-118.4063634
+1008,2,Great Greek,8189055250,"13362 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1466753,-118.4245876
+1009,2,The Habit Burger Grill,8182252231,"22651 Ventura Blvd, Woodland Hills, CA 91364, USA",34.167133,-118.620779
+1010,2,The Local Peasant,8185010234,"3532, 14058 Ventura Blvd, Sherman Oaks, CA 91423, USA",34.1491195,-118.4392171
+1011,2,The Original Pantry Cafe,2139729279,"877 S Figueroa St, Los Angeles, CA 90017, USA",34.0463704,-118.2629158
+1012,2,The Original Pizza Cookery,8188874770,"75 W Thousand Oaks Blvd, Thousand Oaks, CA 91360, USA",34.1784095,-118.8785183
+1013,2,The Palace Seafood & Dim Sum,3109793377,"11701 Wilshire Blvd, Los Angeles, CA 90025, USA",34.0494522,-118.461711
+1014,2,The Pie Hole,2135370115,"714 Traction Ave, Los Angeles, CA 90013, USA",34.0453212,-118.2363191
+1015,2,Terrace Cafe and Bar,3105781530,"7 W Washington Blvd, Venice, CA 90291, USA",33.9793117,-118.4667549
+1016,2,The Prince,2133892007,"3198 7th St, Los Angeles, CA 90005, USA",34.0596193,-118.2952452
+1017,2,The Rose Venice,3103990711,"220 Rose Ave, Venice, CA 90291, USA",33.99626,-118.477111
+1018,2,Sidewalk Cafe,3103995547,"1401 Ocean Front Walk, Venice, CA 90291, USA",33.9879597,-118.4743886
+1019,2,The Tasting Kitchen,3103926644,"1633 Abbot Kinney Blvd, Venice, CA 90291, USA",33.9897644,-118.4631018
+1020,2,Village Idiot,3236553331,"7383 Melrose Ave, Los Angeles, CA 90046, USA",34.0837932,-118.3509393
+1021,2,Three Flames Mongolian Bar-B-Q,3106416868,"5608 W Manchester Ave, Los Angeles, CA 90045, USA",33.9593619,-118.3791466
+1022,2,TLT FOOD,3104434433,"1116 Westwood Blvd, Los Angeles, CA 90024, USA",34.0603987,-118.4450372
+1023,2,Toscana,3108202448,"11633 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0541709,-118.463375
+1024,2,Truxton’s American Bistro,3104178789,"8611 Truxton Ave, Los Angeles, CA 90045, USA",33.959389,-118.393757
+1025,2,Umami Burger,2134138626,"852 S Broadway, Los Angeles, CA 90014, USA",34.0424672,-118.2556542
+1026,2,Un Solo Sol Kitchen,3232698680,"1818 E 1st St, Los Angeles, CA 90033, USA",34.0470211,-118.2191506
+1027,2,Urth Caffé- Downtown LA,2137974534,"451 S Hewitt St, Los Angeles, CA 90013, USA",34.0420236,-118.2354391
+1028,2,Venice Ale House,3103148253,"2 Rose Ave, Venice, CA 90291, USA",33.994615,-118.480273
+1029,2,Versailles Cuban Food,3105583168,"10319 Venice Blvd, Palms, CA 90034, USA",34.0211193,-118.4036241
+1030,2,Vicious Dogs,8189853647,"5231 Lankershim Blvd, North Hollywood, CA 91601, USA",34.1657556,-118.3754405
+1031,2,Victorio's Ristorante,8187629000,"10901 Victory Blvd, North Hollywood, CA 91606, USA",34.187179,-118.368552
+1032,2,Vincenti Ristorante,3102070127,"11930 San Vicente Blvd, Los Angeles, CA 90049, USA",34.0522034,-118.4711825
+1033,2,Viva Fresh Mexican Grill,3103389153,"6515 S Sepulveda Blvd, Los Angeles, CA 90045, USA",33.9805182,-118.3953533
+1034,2,Water Grill,2138910900,"544 S Grand Ave, Los Angeles, CA 90071, USA",34.0490403,-118.2547066
+1035,2,Wokcano,2136232288,"800 W 7th St, Los Angeles, CA 90017, USA",34.0486865,-118.2590467
+1036,2,Wood Spoon,2136291765,"107 W 9th St, Los Angeles, CA 90015, USA",34.0418944,-118.2551552
+1037,2,WP24,2137438824,"The Ritz-Carlton, 900 W Olympic Blvd, Los Angeles, CA 90015, USA",34.0451312,-118.2666728
+1038,2,Wurstküche Restaurant Venice Beach,2136874444,"800 E 3rd St, Los Angeles, CA 90013, USA",34.0456129,-118.2360558
+1039,2,Yard House,2137459273,"800 W Olympic Blvd A-115, Los Angeles, CA 90015, USA",34.0451527,-118.2656797
+1040,2,Yu Chun Chic Naeng Myun,2133823815,"3185 W Olympic Blvd, Los Angeles, CA 90006, USA",34.052773,-118.305865
+1041,2,Yxta Cocina Mexicana,2135965579,"601 S Central Ave, Los Angeles, CA 90021, USA",34.0390984,-118.2405452
+1042,2,Zankou Chicken,8187810615,"5658 Sepulveda Blvd #103, Van Nuys, CA 91411, USA",34.1736325,-118.4659573
+1043,2,'Lette Macarons,3102750023,"9466 Charleville Blvd, Beverly Hills, CA 90212, USA",34.0648719,-118.3995719
+1044,2,208 Rodeo,3102752428,"208 N Rodeo Dr, Beverly Hills, CA 90210, USA",34.067364,-118.4007324
+1045,2,Amorino Beverly Hills,4243350317,"9605 Santa Monica Blvd, Beverly Hills, CA 90210, USA",34.0698029,-118.4057999
+1046,2,Another Broken Egg,8185633344,"250 E Olive Ave #110, Burbank, CA 91502, USA",34.1817993,-118.3074331
+1047,2,Barney's Beanery,3106565777,"1351 3rd St, Santa Monica, CA 90401, USA",34.0162101,-118.4962227
+1048,2,Bea Bea's,8188462327,"353 N Pass Ave, Burbank, CA 91505, USA",34.1558133,-118.3461758
+1049,2,BJ's Restaurant & Brewhouse,8185570881,"107 South First Street, Burbank, CA 91502, USA",34.178778,-118.3093908
+1050,2,Blue Plate Oysterette,3105763474,"1355 Ocean Ave, Santa Monica, CA 90401, USA",34.0144917,-118.4981099
+1051,2,Blue Plate Taco,3104582985,"1515 Ocean Ave, Santa Monica, CA 90401, USA",34.0125724,-118.495926
+1052,2,BOA Steakhouse Santa Monica,3108994466,"101 Santa Monica Blvd, Santa Monica, CA 90401, USA",34.0144074,-118.4979715
+1053,2,Bob's Big Boy,8188439334,"4211 W Riverside Dr, Burbank, CA 91505, USA",34.1524781,-118.3461013
+1054,2,Bodega Wine Bar,3103943504,"814 Broadway, Santa Monica, CA 90401, USA",34.018322,-118.4893316
+1055,2,Burning Bonzai,8188483769,"4408 W Magnolia Blvd, Burbank, CA 91505, USA",34.1652058,-118.3543902
+1056,2,Bubba Gump Shrimp Co.,3103930458,"301 Santa Monica Pier Building 9, Santa Monica, CA 90401, USA",34.0097254,-118.4971619
+1057,2,Bui Sushi,3104561500,"23733 Malibu Rd, Malibu, CA 90265, USA",34.0340042,-118.6929522
+1058,2,Cafe Habana,3103170300,"3939 Cross Creek Rd, Malibu, CA 90265, USA",34.0345771,-118.6856621
+1059,2,Caffe Roma,3102747834,"350 N Canon Dr, Beverly Hills, CA 90210, USA",34.0703862,-118.4004282
+1060,2,California Chicken Cafe,3104530477,"2401 Wilshire Blvd, Santa Monica, CA 90403, USA",34.0342609,-118.4799782
+1061,2,California Pizza Kitchen at Burbank,8189722589,"601 N San Fernando Blvd, Burbank, CA 91502, USA",34.184591,-118.314149
+1062,2,Casa Escobar,3104561999,"22969 Pacific Coast Hwy, Malibu, CA 90265, USA",34.037747,-118.677028
+1063,2,Castaway Burbank,8188486691,"1250 E Harvard Rd, Burbank, CA 91501, USA",34.2043027,-118.3025948
+1064,2,Cha Cha Chicken,3105811684,"1906 Ocean Ave, Santa Monica, CA 90405, USA",34.0071312,-118.490435
+1065,2,Chaumont Bakery & Cafe,3105505510,"143 S Beverly Dr, Beverly Hills, CA 90212, USA",34.0660597,-118.3993278
+1066,2,Chili John's,8188463611,"2018 W Burbank Blvd, Burbank, CA 91506, USA",34.179999,-118.333711
+1067,2,Chinois on Main,3103929025,"2709 Main St, Santa Monica, CA 90405, USA",34.0008326,-118.4821831
+1068,2,Chipotle Mexican Grill,4246442184,"3822 Cross Creek Rd, Malibu, CA 90265, USA",34.0361131,-118.6848077
+1069,2,CiaoCristina!,8185632426,"4201 W Olive Ave, Burbank, CA 91505, USA",34.148128,-118.342441
+1070,2,Cora's Coffee Shoppe,3104519562,"1802 Ocean Ave, Santa Monica, CA 90401, USA",34.008146,-118.4913573
+1071,2,Coral Beach Cantina,3104575503,"29350 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0188378,-118.8131357
+1072,2,Corner Cottage,8188432567,"310 S Victory Blvd, Burbank, CA 91502, USA",34.1707426,-118.3149144
+1073,2,The Terrace,3102470505,"403 N Crescent Dr, Beverly Hills, CA 90210, USA",34.0712255,-118.4003164
+1074,2,Crustacean,3102058990,"468 N Bedford Dr, Beverly Hills, CA 90210, USA",34.0691246,-118.4060213
+1075,2,CUT,3102768500,"9500 Wilshire Blvd, Beverly Hills, CA 90212, USA",34.0668023,-118.4010049
+1076,2,D'Amore's Pizza,3103174500,"22601 CA-1, Malibu, CA 90265, USA",34.039957,-118.6670398
+1077,2,Da Pasquale,3108593884,"9749 S Santa Monica Blvd, Beverly Hills, CA 90210, USA",34.06809,-118.4083215
+1078,2,Del Frisco's Grille,3103957333,"1551 Ocean Ave Suite 105, Santa Monica, CA 90401, USA",34.0117075,-118.4948632
+1079,2,Dino's Pizza Burbank,8188413311,"3520 Burbank Blvd, Burbank, CA 91505, USA",34.174744,-118.348885
+1080,2,Dog Haus,8185664287,"3817 W Olive Ave, Burbank, CA 91505, USA",34.1507413,-118.3408949
+1081,2,Don Cuco Mexican Restaurant,8189558895,"218 E Orange Grove Ave, Burbank, CA 91502, USA",34.1817996,-118.3091572
+1082,2,Duke's Malibu,3103170777,"21150 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0364236,-118.6359621
+1083,2,El Cholo,3108991106,"1025 Wilshire Blvd, Santa Monica, CA 90401, USA",34.0244666,-118.4921982
+1084,2,Enterprise Fish Co. Santa Monica,3103928366,"174 Kinney St, Santa Monica, CA 90405, USA",33.998649,-118.4809364
+1085,2,FIG Restaurant,3103193111,"101 Wilshire Blvd, Santa Monica, CA 90401, USA",34.018056,-118.501268
+1086,2,Fish Dish,8188471310,"2575 N Hollywood Way, Burbank, CA 91505, USA",34.195437,-118.3502811
+1087,2,Fish Grill,3104568585,"22935 CA-1, Malibu, CA 90265, USA",34.0381874,-118.6758169
+1088,2,Flavor of India,8185581199,"161 E Orange Grove Ave, Burbank, CA 91502, USA",34.1813745,-118.3104111
+1089,2,Fogo de Chão Brazilian Steakhouse,3102897755,"133 N La Cienega Blvd, Beverly Hills, CA 90211, USA",34.0685374,-118.3766984
+1090,2,Frida Mexican Cuisine,3102787666,"236 S Beverly Dr, Beverly Hills, CA 90212, USA",34.063687,-118.39881
+1091,2,Fritto Misto,3104582829,"601 Colorado Ave, Santa Monica, CA 90401, USA",34.0155287,-118.4901663
+1092,2,Fuddruckers,8188484856,"221 N San Fernando Blvd, Burbank, CA 91502, USA",34.1817085,-118.3102971
+1093,2,Fuji Sushi Japanese Restaurant,8188480688,"208 Palm Ave, Burbank, CA 91502, USA",34.182481,-118.3103524
+1094,2,Geoffrey's Malibu,3104571519,"27400 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0253629,-118.7698381
+1095,2,Gilbert's El Indio Restaurant,3104508057,"2526 Pico Blvd, Santa Monica, CA 90405, USA",34.022913,-118.4627469
+1096,2,Gindi Thai / Sushi / Bar,8185671221,"4017 W Riverside Dr, Burbank, CA 91505, USA",34.1520822,-118.3438088
+1097,2,Granada Family Restaurant,8188430313,"1100 W Victory Blvd, Burbank, CA, Burbank, CA 91502, USA",34.1841876,-118.3243902
+1098,2,Granville Cafe,8188484726,"121 N San Fernando Blvd, Burbank, CA 91502, USA",34.180989,-118.309414
+1099,2,Grom Gelato,3104569797,"3888 Cross Creek Rd, Malibu, CA 90265, USA",34.0353117,-118.6841587
+1100,2,Hillstone,3105767558,"202 Wilshire Blvd, Santa Monica, CA 90401, USA",34.017523,-118.499814
+1101,2,Hole in the Wall Burger Joint,3104490147,"2200 Colorado Ave, Santa Monica, CA 90404, USA",34.027317,-118.4749067
+1102,2,Hook Burger,8188472100,"1731 N Victory Pl, Burbank, CA 91502, USA",34.1911345,-118.3290452
+1103,2,Huckleberry Café,3104512311,"1014 Wilshire Blvd, Santa Monica, CA 90401, USA",34.0238858,-118.4920475
+1104,2,Il Buco,3106571345,"150 S Beverly Dr, Beverly Hills, CA 90212, USA",34.0654341,-118.3989085
+1105,2,Il Cielo,3102769990,"9018 Burton Way, Beverly Hills, CA 90211, USA",34.0719456,-118.3884
+1106,2,Il Fornaio,3105508330,"301 N Beverly Dr, Beverly Hills, CA 90210, USA",34.0684937,-118.4009048
+1107,2,Il Pastaio,3102055444,"400 N Canon Dr, Beverly Hills, CA 90210, USA",34.0708883,-118.4008089
+1108,2,Islands,8185667744,"101 E Orange Grove Ave, Burbank, CA 91502, USA",34.1807303,-118.3110619
+1109,2,Ivy At The Shore,3103933113,"1535 Ocean Ave, Santa Monica, CA 90401, USA",34.0121969,-118.4954205
+1110,2,Jack in the Box,7148392339,"15521 Brookhurst St, Westminster, CA 92683, USA",33.7372017,-117.9551089
+1111,2,John's Garden,3104568377,"3835 Cross Creek Rd, Malibu, CA 90265, USA",34.0359746,-118.6856997
+1112,2,Josie Restaurant,3105819888,"2424 Pico Blvd, Santa Monica, CA 90405, USA",34.0224243,-118.4635535
+1113,2,K Chocolatier By Diane Krön,3103170400,"3835 Cross Creek Rd, Malibu, CA 90265, USA",34.0358877,-118.6856883
+1114,2,Kabuki Japanese Restaurant - Burbank,8188437999,"201 N San Fernando Blvd, Burbank, CA 91502, USA",34.181603,-118.3099407
+1115,2,Kaishin Malibu,3103179777,"23715 Malibu Rd, Malibu, CA 90265, USA",34.033919,-118.691847
+1116,2,KFC,3104562480,"22751 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0395682,-118.6710118
+1117,2,King's Fish House,8182251979,"4798 Commons Way, Calabasas, CA 91302, USA",34.1554003,-118.6433916
+1118,2,Knight Restaurant,8188454516,"138 N San Fernando Blvd, Burbank, CA 91502, USA",34.181512,-118.309259
+1119,2,Krispy Kreme Doughnuts,8189559015,"1521 N Victory Pl, Burbank, CA 91504, USA",34.1898617,-118.3268217
+1120,2,Kuru-Kuru Sushi,8188483355,"N Hollywood Way & W Verdugo Ave, Burbank, CA 91505, USA",34.1597718,-118.3441938
+1121,2,La Scala,3102750579,"434 N Canon Dr, Beverly Hills, CA 90210, USA",34.0713896,-118.4014287
+1122,2,Ladyface Ale Companie,8184774566,"29281 Agoura Rd, Agoura Hills, CA 91301, USA",34.1438892,-118.7628937
+1123,2,Lares,3108294550,"2909 Pico Blvd, Santa Monica, CA 90405, USA",34.025081,-118.459429
+1124,2,Lawry's The Prime Rib,3106522827,"100 La Cienega Blvd, Beverly Hills, CA 90211, USA",34.0676803,-118.3760762
+1125,2,Le Pain Quotidien,3108591100,"9630 S Santa Monica Blvd, Beverly Hills, CA 90210, USA",34.069327,-118.4057924
+1126,2,Lily's Cafe & Pasteries,3104573745,"29211 Heathercliff Rd, Malibu, CA 90265, USA",34.0212418,-118.8098863
+1127,2,Lula Cocina Mexicana,3103925711,"2720 Main St, Santa Monica, CA 90405, USA",34.0004227,-118.4822216
+1128,2,Melisse,3103950881,"1104 Wilshire Blvd, Santa Monica, CA 90401, USA",34.0243301,-118.4912996
+1129,2,Malibu Farm Pier Cafe,3104561112,"23000 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0356307,-118.6756384
+1130,2,Malibu Kitchen,3104567845,"3900 Cross Creek Rd, Malibu, CA 90265, USA",34.035235,-118.6848414
+1131,2,Malibu Mutt's Grill,3104561211,"3835 Cross Creek Rd, Malibu, CA 90265, USA",34.0358826,-118.6857282
+1132,2,Malibu Seafood,3104563430,"25653 Pacific Coast Hwy, Malibu, CA 90265, USA",34.033804,-118.735078
+1133,2,Malibu Yogurt,3104563522,"23755 Malibu Rd #600, Malibu, CA 90265, USA",34.0340332,-118.6932398
+1134,2,Mama Hong's Vietnamese Kitchen,8185586262,"211 N San Fernando Blvd, Burbank, CA 91502, USA",34.1817407,-118.3101149
+1135,2,Manchego,3104503900,"2518 Main St, Santa Monica, CA 90405, USA",34.002787,-118.484687
+1136,2,Mariasol Cocina Mexicana,3109175050,"401 Santa Monica Pier, Santa Monica, CA 90401, USA",34.0077147,-118.4996497
+1137,2,Market City Caffe,8188407036,"164 Palm Ave, Burbank, CA 91502, USA",34.1820564,-118.3105916
+1138,2,Marmalade Cafe - Malibu,3103174242,"3894 Cross Creek Rd, Malibu, CA 90265, USA",34.0352459,-118.6840742
+1139,2,Matsuhisa,3106599639,"129 N La Cienega Blvd, Beverly Hills, CA 90211, USA",34.0683664,-118.3766157
+1140,2,Maude,3108593418,"212 S Beverly Dr, Beverly Hills, CA 90212, USA",34.064734,-118.398911
+1141,2,McDonald's,3104566996,"22725 CA-1, Malibu, CA 90265, USA",34.039671,-118.670087
+1142,2,Milo & Olive,3104536776,"2723 Wilshire Blvd, Santa Monica, CA 90403, USA",34.0375359,-118.4760474
+1143,2,Momed,3102704444,"233 S Beverly Dr, Beverly Hills, CA 90212, USA",34.063914,-118.3993711
+1144,2,Moonshadows,3104563010,"20356 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0374873,-118.618639
+1145,2,Morton's The Steakhouse,8182380424,"3400 W Olive Ave, Burbank, CA 91505, USA",34.1539112,-118.3369059
+1146,2,Mr. Chow,3102789911,"344 N Camden Dr, Beverly Hills, CA 90210, USA",34.0681042,-118.4032343
+1147,2,Mulberry Street Pizzeria,3102478100,"240 S Beverly Dr, Beverly Hills, CA 90212, USA",34.0634695,-118.398777
+1148,2,Nate 'n Al,3102740101,"414 N Beverly Dr, Beverly Hills, CA 90210, USA",34.0704481,-118.4020427
+1149,2,Neptune's Net,3104573095,"42505 Pacific Coast Hwy, Malibu, CA 90265, USA",34.053208,-118.96244
+1150,2,Octopus,8185566622,"227 E Palm Ave, Burbank, CA 91502, USA",34.1828628,-118.3103357
+1151,2,Olive & Thyme,8185571560,"3821 W Riverside Dr, Burbank, CA 91505, USA",34.1525862,-118.3417048
+1152,2,Olive Garden Italian Restaurant,8185593640,"R6, 1741 N Victory Pl, Burbank, CA 91504, USA",34.1906312,-118.32902
+1153,2,Duck Dive,3105892200,"29169 Heathercliff Rd #102, Malibu, CA 90265, USA",34.0215483,-118.8093774
+1154,2,Ollo,3103171444,"23750 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0339841,-118.6928961
+1155,2,The Palm,3105508811,"267 N Canon Dr, Beverly Hills, CA 90210, USA",34.0688463,-118.3995601
+1156,2,Panini Cafe,3102478300,"9601 N Santa Monica Blvd, Beverly Hills, CA 90210, USA",34.0699188,-118.4056402
+1157,2,Paradise Cove Beach Cafe,3104572503,"28128 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0202719,-118.7871826
+1158,2,Coast,3105871707,"1 Pico Blvd, Santa Monica, CA 90405, USA",34.006654,-118.491769
+1159,2,Poquito Mas,8185632252,"2635 W Olive Ave, Burbank, CA 91505, USA",34.1599052,-118.3311579
+1160,2,Mr. Chow - Malibu,3104567600,"3835 Cross Creek Rd, Malibu, CA 90265, USA",34.0355673,-118.6872261
+1161,2,R + D Kitchen,3103953314,"1323 Montana Ave, Santa Monica, CA 90403, USA",34.0320914,-118.4957843
+1162,2,Ribs USA,8188418872,"2711 W Olive Ave, Burbank, CA 91505, USA",34.159491,-118.331667
+1163,2,Rico's Pizza,8188469690,"332 S Glenoaks Blvd, Burbank, CA 91502, USA",34.1815015,-118.3035479
+1164,2,Sushi Roku,3104584771,"1401 Ocean Ave, Santa Monica, CA 90401, USA",34.0140628,-118.4974358
+1165,2,Rocky's Fish & Poultry,8188421986,"1212 N San Fernando Blvd, Burbank, CA 91504, USA",34.1893796,-118.3196162
+1166,2,Rustic Canyon Wine Bar,3103937050,"1119 Wilshire Blvd, Santa Monica, CA 90401, USA",34.0250795,-118.4913174
+1167,2,Ruth's Chris Steak House,3108598744,"224 S Beverly Dr, Beverly Hills, CA 90212, USA",34.064029,-118.398768
+1168,2,Saddle Peak Lodge,8182223888,"419 Cold Canyon Rd, Calabasas, CA 91302, USA",34.0782008,-118.6931393
+1169,2,Gravina,3104570711,"28925 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0218524,-118.8022279
+1170,2,Santa Monica Seafood,3103935244,"1000 Wilshire Blvd, Santa Monica, CA 90401, USA",34.0237244,-118.4923713
+1171,2,Santoro's Submarine Sandwich,8188488888,"1423 W Burbank Blvd, Burbank, CA 91506, USA",34.1823828,-118.3280053
+1172,2,Saraya Thai Cuisine,8188461244,"1439 W Olive Ave, Burbank, CA 91506, USA",34.169476,-118.321529
+1173,2,South Beverly Grill,3105500242,"122 S Beverly Dr, Beverly Hills, CA 90212, USA",34.066115,-118.3987651
+1174,2,Spago,3103850880,"176 N Canon Dr, Beverly Hills, CA 90210, USA",34.0676932,-118.3975176
+1175,2,Spice Affair,3104006800,"50 N La Cienega Blvd #120, Beverly Hills, CA 90211, USA",34.0665408,-118.3760065
+1176,2,Sprinkles Cupcakes,3102748765,"4434 N Broadway, Knoxville, TN 37917, USA",36.0131801,-83.9221305
+1177,2,Spruzzo Restaurant & Bar,3104578282,"29575 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0168011,-118.8189524
+1178,2,Starbucks,3103171436,"23755 W Malibu Rd, Malibu, CA 90265, USA",34.034238,-118.693564
+1179,2,Starbucks,3103174515,"3900 Cross Creek Rd, Malibu, CA 90265, USA",34.0351625,-118.6850908
+1180,2,Starbucks,3105894908,"30765 CA-1, Malibu, CA 90265, USA",34.031169,-118.843079
+1181,2,Stella Barra Pizzeria,3103969250,"2000 Main St, Santa Monica, CA 90405, USA",34.0066943,-118.4887008
+1182,2,Subway,3104560565,"23705 W, Malibu Rd, Malibu, CA 90265, USA",34.033978,-118.6916001
+1183,2,SUGARFISH by sushi nozawa,3103933338,"1345 2nd St, Santa Monica, CA 90401, USA",34.0153935,-118.4972314
+1184,2,SUGARFISH by sushi nozawa,3102766900,"212 N Canon Dr, Beverly Hills, CA 90210, USA",34.0682629,-118.3982682
+1185,2,Sunlife Organics,3104576161,"29169 Heathercliff Rd #110, Malibu, CA 90265, USA",34.0214743,-118.8095933
+1186,2,Sushi Dake,8185587443,"1722 W Verdugo Ave, Burbank, CA 91506, USA",34.1673156,-118.3238535
+1187,2,Swingers,3103939793,"802 Broadway, Santa Monica, CA 90401, USA",34.0181838,-118.489483
+1188,2,Tacos Por Favor,3103925768,"1408 Olympic Blvd, Santa Monica, CA 90404, USA",34.0196705,-118.4802497
+1189,2,Tagine Beverly Hills,3103607535,"132 Robertson Boulevard, Beverly Hills, CA 90211, USA",34.0677568,-118.3835818
+1190,2,Tallyrand,8188469904,"1700 W Olive Ave, Burbank, CA 91506, USA",34.1668047,-118.322989
+1191,2,Taverna Tony,3103179667,"23410 Civic Center Way, Malibu, CA 90265, USA",34.036602,-118.685767
+1192,2,Wokcano,8185242288,"150 S San Fernando Blvd Suite #20, Burbank, CA 91502, USA",34.1804263,-118.307815
+1193,2,The Belvedere,3109752736,"9882 S Santa Monica Blvd, Beverly Hills, CA 90212, USA",34.065725,-118.410688
+1194,2,Blvd.,3103853901,"9500 Wilshire Blvd, Beverly Hills, CA 90212, USA",34.0666523,-118.4006555
+1195,2,The Cheesecake Factory,3102787270,"364 N Beverly Dr, Beverly Hills, CA 90210, USA",34.0698712,-118.4014686
+1196,2,Coffee Bean & Tea Leaf,3104565771,"3835 Crosscreek #7, Malibu, CA 90265, USA",34.035688,-118.686347
+1197,2,The Counter,3103998383,"2901 Ocean Park Blvd Ste 102, Santa Monica, CA 90405, USA",34.0200047,-118.4547004
+1198,2,Country Kitchen the,3104568708,"21239 CA-1, Malibu, CA 90265, USA",34.0374085,-118.6376668
+1199,2,The Farm of Beverly Hills,3102735578,"439 N Beverly Dr, Beverly Hills, CA 90210, USA",34.070563,-118.402899
+1200,2,The Galley Restaurant,3104521934,"2442 Main St, Santa Monica, CA 90405, USA",34.0033382,-118.485207
+1201,2,The Grill On The Alley,3102760615,"9560 Dayton Way, Beverly Hills, CA 90210, USA",34.067281,-118.401928
+1202,2,Buddha's Belly,3104582500,"205 Broadway, Santa Monica, CA 90401, USA",34.0138334,-118.4954805
+1203,2,The Lobster,3104589294,"1602 Ocean Ave, Santa Monica, CA 90401, USA",34.0110607,-118.4950252
+1204,2,The Misfit Restaurant + Bar,3106569800,"225 Santa Monica Blvd, Santa Monica, CA 90401, USA",34.0154415,-118.4966681
+1205,2,The Nosh of Beverly Hills,3102713730,"9689 Santa Monica Blvd, Beverly Hills, CA 90210, USA",34.0687633,-118.40734
+1206,2,Polo Lounge,3108872777,"9641 Sunset Blvd, Beverly Hills, CA 90210, USA",34.0817957,-118.4133946
+1207,2,The Smoke House Restaurant,8188453731,"4016, 4420 Lakeside Dr, Burbank, CA 91505, USA",34.1454638,-118.3412999
+1208,2,The Stinking Rose,3106527673,"55 N La Cienega Blvd, Beverly Hills, CA 90211, USA",34.0667417,-118.3766291
+1209,2,The Sunset,3105891007,"6800 Westward Beach Rd, Malibu, CA 90265, USA",34.0111579,-118.8166464
+1210,2,Tra di Noi,3104560169,"3835 Cross Creek Rd #8A, Malibu, CA 90265, USA",34.0357975,-118.6863831
+1211,2,Trastevere,3103191985,"1310, 1360 3rd Street Promenade, Santa Monica, CA 90401, USA",34.0156495,-118.4965144
+1212,2,Trattoria Amici,3108580271,"469 N Doheny Dr, Beverly Hills, CA 90210, USA",34.080258,-118.390128
+1213,2,True Food Kitchen,3105938300,"395 Santa Monica Place Ste 172, Santa Monica, CA 90401, USA",34.0129558,-118.4944479
+1214,2,Umami Burger,3104511300,"525 Broadway, Santa Monica, CA 90401, USA",34.0167418,-118.4925093
+1215,2,Upper West,3105861111,"3321 W Pico Blvd, Santa Monica, CA 90405, USA",34.027299,-118.4550128
+1216,2,Urasawa,3102478939,"218 N Rodeo Dr, Beverly Hills, CA 90210, USA",34.0674249,-118.4006047
+1217,2,Urban Fresh,3102754440,"9679 Wilshire Blvd, Beverly Hills, CA 90212, USA",34.0672969,-118.4051097
+1218,2,Urth Caffé,3103147040,"2327 Main St, Santa Monica, CA 90405, USA",34.004361,-118.485779
+1219,2,Urth Caffé-Beverly Hills,3102059311,"267 S Beverly Dr, Beverly Hills, CA 90212, USA",34.062645,-118.399414
+1220,2,V's Restaurant,3104563828,"22821 Pacific Coast Hwy, Malibu, CA 90265, USA",34.0391841,-118.6729012
+1221,2,Via Alloro,3102752900,"301 N Canon Dr, Beverly Hills, CA 90210, USA",34.0692363,-118.3997376
+1222,2,Via Veneto,3103991843,"3009 Main St, Santa Monica, CA 90405, USA",33.9984053,-118.479798
+1223,2,Villa Blanca Restaurant,3108597600,"9601 Brighton Way, Beverly Hills, CA 90210, USA",34.0685405,-118.4042242
+1224,2,Oliverio,3104077791,"9400 W Olympic Blvd, Beverly Hills, CA 90212, USA",34.059129,-118.3971728
+1225,2,Wild Carvery,8188597233,"150 E Olive Ave #115, Burbank, CA 91502, USA",34.180654,-118.308667
+1226,2,Wolfgang's Steakhouse By Wolfgang Zwiener,3103850640,"445 N Canon Dr, Beverly Hills, CA 90210, USA",34.0713041,-118.4017631
+1227,2,Wood Ranch BBQ & Grill,8185978900,"Whizin Market Square, 5050 Cornell Rd, Agoura Hills, CA 91301, USA",34.14471,-118.755349
+1228,2,Ye Olde King's Head,3104511402,"116 Santa Monica Blvd, Santa Monica, CA 90401, USA",34.014482,-118.497251
+1229,2,Yummy Cupcakes,8185581080,"2918 W Magnolia Blvd, Burbank, CA 91505, USA",34.170163,-118.339423
+1230,3,12 Chairs,2122548640,"56 Macdougal St # B, New York, NY 10012, USA",40.7274903,-74.0023135
+1231,3,15 East,2126470015,"15 E 15th St, New York, NY 10003, USA",40.7364067,-73.9921886
+1232,3,181 Cabrini,2129232233,"854 W 181st St, New York, NY 10033, USA",40.8512412,-73.9401589
+1233,3,21 Club,2125827200,"21 W 52nd St, New York, NY 10019, USA",40.760533,-73.977397
+1234,3,Three Guys Restaurant,2123483800,"49 E 96th St, New York, NY 10128, USA",40.7873389,-73.953919
+1235,3,5 Napkin Burger,2123334488,"2315 Broadway, New York, NY 10024, USA",40.7870761,-73.9779261
+1236,3,5 Napkin Burger,2127572277,"630 9th Ave, New York, NY 10036, USA",40.76018,-73.9910951
+1237,3,Dough,2122436844,"14 W 19th St, New York, NY 10011, USA",40.7393367,-73.9924098
+1238,3,A Salt & Battery Fish & Chips,2126912713,"112 Greenwich Ave, New York, NY 10011, USA",40.7384022,-74.0019757
+1239,3,Katz's Delicatessen,2122542246,"1 Dekalb Ave, Brooklyn, NY 11201, USA",40.6912827,-73.9828284
+1240,3,A.O.C.,2126759463,"314 Bleecker St, New York, NY 10014, USA",40.7327893,-74.0040534
+1241,3,Anejo,2129206270,"301 Church St, New York, NY 10013, USA",40.7192409,-74.0042358
+1242,3,ABC Cocina,2126772233,"38 E 19th St, New York, NY 10003, USA",40.7379868,-73.9892758
+1243,3,ABC Kitchen,2124755829,"35 E 18th St, New York, NY 10003, USA",40.7377416,-73.9896147
+1244,3,Acqua,2123494433,"21 Peck Slip, New York, NY 10038, USA",40.7082596,-74.0016198
+1245,3,Afghan Kebab House,2123071612,"764 9th Ave, New York, NY 10019, USA",40.76416,-73.988087
+1246,3,ALDEA,2126757223,"31 W 17th St, New York, NY 10011, USA",40.7387554,-73.993779
+1247,3,Alice's Tea Cup Chapter I,2127993006,"102 W 73rd St, New York, NY 10023, USA",40.778041,-73.978683
+1248,3,Craftbar,2124614300,"10 Theatre Alley, New York, NY 10038, USA",40.7113931,-74.0068569
+1249,3,Almond,2122287557,"12 E 22nd St, New York, NY 10010, USA",40.740081,-73.9887509
+1250,3,Alta,2125057777,"64 W 10th St, New York, NY 10011, USA",40.7344108,-73.9982001
+1251,3,American Cut Steakhouse Tribeca,2122264736,"363 Greenwich St, New York, NY 10013, USA",40.7190959,-74.009992
+1252,3,Amish Market Tribeca,2126083863,"53 Park Pl, New York, NY 10007, USA",40.7138978,-74.0103986
+1253,3,Anchor Winebar,2122343084,"3508 Broadway, New York, NY 10031, USA",40.82526,-73.950946
+1254,3,Angel's Share,2127775415,"8 Stuyvesant St, New York, NY 10003, USA",40.7297713,-73.9891612
+1255,3,Antica Ristorante,2124803880,"8 Stone St, New York, NY 10004, USA",40.7038611,-74.0123307
+1256,3,Antika Family Style Pizzeria,2127819100,"3924 Broadway, New York, NY 10032, USA",40.8386754,-73.9412107
+1257,3,Antique Garage,2122191019,"41 Mercer St, New York, NY 10013, USA",40.7215207,-74.0014298
+1258,3,AOA Bar and Grill,2129251600,"35 6th Ave, New York, NY 10013, USA",40.720721,-74.0054885
+1259,3,Apothéke,2124060400,"9 Doyers St, New York, NY 10013, USA",40.7144183,-73.9981718
+1260,3,K Rico Steakhouse,2127579393,"200 Central Park S # 104, New York, NY 10019, USA",40.7667998,-73.9796268
+1261,3,Aquagrill,2122740505,"210 Spring St, New York, NY 10012, USA",40.7253089,-74.0038433
+1262,3,Aqua Marina Restaurant,2129280070,"4060 Broadway, New York, NY 10032, USA",40.8433196,-73.9388948
+1263,3,Aquavit,2123077311,"65 E 55th St, New York, NY 10022, USA",40.7608582,-73.9720839
+1264,3,Ardesia,2122479191,"510 W 52nd St, New York, NY 10019, USA",40.7660382,-73.9918274
+1265,3,Ariana Afghan Restaurant,2122622323,"787 9th Ave, New York, NY 10019, USA",40.7651238,-73.9880642
+1266,3,Arriba Arriba!,2124890810,"762 9th Ave, New York, NY 10019, USA",40.7641468,-73.9882751
+1267,3,Arte Cafe,2125017014,"106 W 73rd St, New York, NY 10023, USA",40.7781026,-73.9788477
+1268,3,Artichoke Basille's Pizza,2122282004,"321 E 14th St, New York, NY 10003, USA",40.7321384,-73.983877
+1269,3,Artichoke Basille's Pizza,2127929200,"114 10th Ave, New York, NY 10011, USA",40.7440813,-74.0065978
+1270,3,Arturo's,2126773820,"106 W Houston St, New York, NY 10012, USA",40.727391,-74.000397
+1271,3,Asiate,2128058881,"80 Columbus Cir, New York, NY 10023, USA",40.7688396,-73.9830036
+1272,3,Atera,2122261444,"77 Worth St, New York, NY 10013, USA",40.7169003,-74.0055631
+1273,3,Bâtard,2122192777,"239 W Broadway, New York, NY 10013, USA",40.7195598,-74.0057489
+1274,3,Billie's Black,2122802248,"271 W 119th St, New York, NY 10026, USA",40.806208,-73.9532758
+1275,3,Babbo,2127770303,"110 Waverly Pl, New York, NY 10011, USA",40.732296,-73.9992785
+1276,3,Bann,2125824446,"350 W 50th St, New York, NY 10019, USA",40.762877,-73.987973
+1277,3,Barney Greengrass,2127244707,"541 Amsterdam Ave, New York, NY 10024, USA",40.7879674,-73.9745726
+1278,3,Basta Pasta,2123660888,"37 W 17th St, New York, NY 10011, USA",40.7388459,-73.9939961
+1279,3,Battery Gardens,2128095508,"1 Battery Pl, New York, NY 10004, USA",40.7014409,-74.0151395
+1280,3,Beard Papa's,2127993770,"2167 Broadway, New York, NY 10024, USA",40.7821545,-73.9812436
+1281,3,Beauty & Essex,2126140146,"146 Essex St, New York, NY 10002, USA",40.720429,-73.9868984
+1282,3,Becco,2123977597,"355 W 46th St, New York, NY 10036, USA",40.760804,-73.9898324
+1283,3,Becketts Bar & Grill,2122691001,"81 Pearl St, New York, NY 10004, USA",40.704129,-74.010336
+1284,3,Benares,2127664900,"45 Murray Street, New York, NY 10007, USA",40.7141495,-74.0092085
+1285,3,Bennie's Thai Cafe,2125878930,"88 Fulton St, New York, NY 10038, USA",40.7091007,-74.0058364
+1286,3,Bento Sushi & Noodles,2124378744,"173 Broadway, New York, NY 10007, USA",40.7100042,-74.0101588
+1287,3,Berimbau,2122422606,"43 Carmine St, New York, NY 10014, USA",40.730086,-74.003652
+1288,3,Bettola,2127871660,"412 Amsterdam Ave, New York, NY 10024, USA",40.78373,-73.9782929
+1289,3,Bhatti Indian Grill,2126834228,"100 Lexington Ave, New York, NY 10010, USA",40.7421944,-73.9829829
+1290,3,Big Daddy's,2124771500,"239 Park Ave S, New York, NY 10003, USA",40.7379388,-73.9878026
+1291,3,Big Gay Ice Cream Shop,2125339333,"125 E 7th St, New York, NY 10009, USA",40.7263797,-73.9841115
+1292,3,Bill's Bar & Burger,2128943800,"85 West St, New York, NY 10006, USA",40.709363,-74.0141805
+1293,3,Billy's Bakery,2126479956,"184 9th Ave, New York, NY 10011, USA",40.7453393,-74.0019174
+1294,3,Bin No. 220,2123749463,"220 Front St, New York, NY 10038, USA",40.707559,-74.0024003
+1295,3,BINY,2123345490,"8 Thompson St, New York, NY 10013, USA",40.7219772,-74.004967
+1296,3,Pier A,2127850153,"2nd floor, Pier A Harbor House, 22 Battery Place, New York, NY 10004, USA",40.7044542,-74.0173461
+1297,3,Bleecker Street Pizza,2129244466,"69 7th Ave S, New York, NY 10014, USA",40.7321888,-74.0033937
+1298,3,Blind Tiger,2124624682,"281 Bleecker St, New York, NY 10014, USA",40.7318633,-74.0032367
+1299,3,Blossom,2126271144,"187 9th Ave, New York, NY 10011, USA",40.7455247,-74.0023575
+1300,3,Blue Hill,2125391776,"75 Washington Pl, New York, NY 10011, USA",40.7320465,-73.9996685
+1301,3,Blue Ribbon Brasserie,2122740404,"97 Sullivan St, New York, NY 10012, USA",40.7254995,-74.0030627
+1302,3,Blue Ribbon Bakery,2123370404,"84 William St, New York, NY 10038, USA",40.7080047,-74.0077256
+1303,3,Blue Ribbon Sushi,2123430404,"119 Sullivan St, New York, NY 10012, USA",40.726092,-74.0024082
+1304,3,Blue Smoke,2128892005,"255 Vesey St, New York, NY 10282, USA",40.7146267,-74.0153591
+1305,3,Bobby Van's Steakhouse,2123448463,"25 Broad St, New York, NY 10004, USA",40.7061417,-74.0110439
+1306,3,Bocca di Bacco (Hell's Kitchen - 54th St.),2122658828,"828 9th Ave A, New York, NY 10019, USA",40.7660759,-73.9866871
+1307,3,Bombay's Indian Restaurant,2127422222,"60 Pearl St, New York, NY 10004, USA",40.703419,-74.011077
+1308,3,Boqueria,2122554160,"53 W 19th St, New York, NY 10011, USA",40.740279,-73.9937306
+1309,3,Boucherie Union Square,2123530200,"225 Park Ave S, New York, NY 10003, USA",40.7372552,-73.9882246
+1310,3,Bouchon Bakery & Cafe,2128239366,"10 Columbus Cir, New York, NY 10019, USA",40.7685103,-73.9829204
+1311,3,Brandy Library,2122265545,"25 N Moore St, New York, NY 10013, USA",40.7199174,-74.0073046
+1312,3,Breads Bakery,2126332253,"18 E 16th St, New York, NY 10003, USA",40.7366013,-73.9917951
+1313,3,Brgr,2124887500,"287 7th Ave, New York, NY 10001, USA",40.7461487,-73.9939164
+1314,3,Brooklyn Bagel & Coffee Company,2129242824,"286 8th Ave, New York, NY 10001, USA",40.746177,-73.99764
+1315,3,Bryant Park Grill,2128406500,"25 W 40th St, New York, NY 10018, USA",40.7531994,-73.9829575
+1316,3,Buceo 95,2126627010,"201 W 95th St, New York, NY 10025, USA",40.7936043,-73.9710681
+1317,3,Burger & Barrel,2123347320,"25 W Houston St, New York, NY 10012, USA",40.7256816,-73.9979265
+1318,3,Burger Burger,2122699100,"42 Stone St, New York, NY 10004, USA",40.7041418,-74.0105656
+1319,3,Burrito Box,2124896889,"885 9th Ave, New York, NY 10019, USA",40.7683048,-73.985698
+1320,3,Butter Lane Bakery,2126772880,"123 E 7th St, New York, NY 10009, USA",40.7264752,-73.9841435
+1321,3,Buvette,2122553590,"42 Grove St, New York, NY 10014, USA",40.7327005,-74.0043166
+1322,3,Sweets by CHLOE.,2122908000,"185 Bleecker St, New York, NY 10012, USA",40.7292552,-74.0009386
+1323,3,Byblos Restaurant,2126870808,"80 Madison Ave, New York, NY 10016, USA",40.7442734,-73.9857812
+1324,3,Cafe China,2122132810,"13 E 37th St, New York, NY 10016, USA",40.7500611,-73.9821584
+1325,3,Café Frida,2127122929,"368 Columbus Ave, New York, NY 10024, USA",40.780974,-73.976465
+1326,3,Café Grumpy,2122555511,"224 W 20th St, New York, NY 10011, USA",40.7426,-73.9983977
+1327,3,Café Habana,2126252001,"17 Prince St, New York, NY 10012, USA",40.722933,-73.994193
+1328,3,Café Amrita,2122220683,"301 W 110th St, New York, NY 10026, USA",40.8010044,-73.9587712
+1329,3,cafe bari soho,2124314350,"276 Canal St, New York, NY 10013, USA",40.7189965,-74.0018072
+1330,3,Cafe Cluny,2122556900,"284 W 12th St, New York, NY 10014, USA",40.7374114,-74.0039633
+1331,3,Cafe Du Soleil,2123165000,"2723 Broadway, New York, NY 10025, USA",40.8000562,-73.9684479
+1332,3,Café Gitane,2123349552,"242 Mott St, New York, NY 10012, USA",40.7231237,-73.9947502
+1333,3,Café Lalo,2124966031,"201 W 83rd St, New York, NY 10024, USA",40.7859812,-73.9767266
+1334,3,Cafe Luxembourg,2128737411,"200 W 70th St, New York, NY 10023, USA",40.777425,-73.9831099
+1335,3,Café Mogador,2126772226,"101 St Marks Pl # 1, New York, NY 10009, USA",40.7273325,-73.9844233
+1336,3,Café Select,2129259322,"212 Lafayette St, New York, NY 10012, USA",40.7218433,-73.9979534
+1337,3,Cafeteria,2124141717,"119 7th Ave, New York, NY 10010, USA",40.7405304,-73.9979937
+1338,3,Caliente Cab Co.,2122438517,"61 7th Ave S, New York, NY 10014, USA",40.7318202,-74.003548
+1339,3,Calle Ocho,2128735025,"45 W 81st St, New York, NY 10024, USA",40.7830649,-73.9736712
+1340,3,Capizzi,2126956900,"547 9th Ave, New York, NY 10018, USA",40.7574414,-73.9936265
+1341,3,Capri Bakery,2124101876,"186 E 116th St, New York, NY 10029, USA",40.7979864,-73.9405047
+1342,3,Cara Mia,2122626767,"693 9th Ave, New York, NY 10036, USA",40.7621308,-73.9902706
+1343,3,Caracas Arepa Bar,2125292314,"91 E 7th St, New York, NY 10009, USA",40.7269655,-73.9854223
+1344,3,Santina,2122543000,"181 Thompson St, New York, NY 10012, USA",40.7279895,-74.0002182
+1345,3,Carmine's,2123622200,"2450 Broadway, New York, NY 10024, USA",40.7910963,-73.9739914
+1346,3,Carrot Top Pastries,2129274800,"3931 Broadway, New York, NY 10032, USA",40.8389512,-73.9416466
+1347,3,Carte Blanche Café & Bar,2126606706,"18 9th Ave, New York, NY 10014, USA",40.7398532,-74.0057335
+1348,3,Casellula Wine & Cheese Cafe,2122478137,"401 W 52nd St, New York, NY 10019, USA",40.7649913,-73.9882621
+1349,3,Catch,2123925978,"21 9th Ave, New York, NY 10014, USA",40.7402272,-74.0063403
+1350,3,Ceci Italian Restaurant,2123075484,"46 W 46th St, New York, NY 10036, USA",40.756657,-73.981212
+1351,3,Celeste,2128744559,"502 Amsterdam Ave, New York, NY 10024, USA",40.786719,-73.976116
+1352,3,Cha-An Teahouse,2122288030,"230 E 9th St Floor 2, New York, NY 10003, USA",40.7294074,-73.9881681
+1353,3,Charles' Country Pan Fried Chicken,2122811800,"2461 Frederick Douglass Blvd, New York, NY 10027, USA",40.8146145,-73.9482674
+1354,3,Charlie's Place,2124100277,"1960 Madison Ave, New York, NY 10035, USA",40.8062204,-73.940563
+1355,3,Chennai Garden by Tiffin Wallah,2126857301,"127 E 28th St, New York, NY 10016, USA",40.742965,-73.9827576
+1356,3,Chez Josephine,2125941925,"414 W 42nd St, New York, NY 10036, USA",40.7586405,-73.9934984
+1357,3,Chez Lucienne,2122895555,"308 Lenox Ave, New York, NY 10027, USA",40.8079793,-73.9449437
+1358,3,Chez Napoléon,2122656980,"365 W 50th St, New York, NY 10019, USA",40.763466,-73.988319
+1359,3,Chipotle Mexican Grill,2123440941,"2 Broadway FRNT 4, New York, NY 10004, USA",40.7043026,-74.012969
+1360,3,Chocolat Restaurant & Bar,2122224545,"2223 Frederick Douglass Blvd, New York, NY 10026, USA",40.8069256,-73.9539472
+1361,3,Chop Chop,2122467246,"501 W 184th St, New York, NY 10033, USA",40.8501832,-73.9297252
+1362,3,Churrascaria Plataforma,2122450505,"316 W 49th St, New York, NY 10019, USA",40.7620327,-73.9876634
+1363,3,Cipriani,2123430999,"376 W Broadway, New York, NY 10012, USA",40.7235659,-74.0030019
+1364,3,Clinton Hall,2123636000,"90 Washington St, New York, NY 10006, USA",40.70803,-74.014869
+1365,3,Cones Ice Cream Artisans,2124141795,"272 Bleecker St, New York, NY 10014, USA",40.7315604,-74.0033876
+1366,3,Coppelia,2128585001,"207 W 14th St, New York, NY 10011, USA",40.7389745,-73.9999297
+1367,3,Coppola's West,2128773840,"206 W 79th St, New York, NY 10024, USA",40.7832273,-73.9789197
+1368,3,Corner Bistro,2122429502,"331 West 4th Street, New York, NY 10014, USA",40.7380481,-74.0037408
+1369,3,Corner Social,2125108552,"321 Lenox Ave, New York, NY 10027, USA",40.8086434,-73.9451464
+1370,3,Cosme,2129139659,"35 E 21st St, New York, NY 10010, USA",40.7395952,-73.9883564
+1371,3,Cowgirl,2126331133,"519 Hudson St, New York, NY 10014, USA",40.7338031,-74.0064878
+1372,3,Cowgirl Seahorse,2126087873,"259 Front St, New York, NY 10038, USA",40.7082332,-74.0005406
+1373,3,Craft,2127800880,"43 E 19th St, New York, NY 10003, USA",40.7381658,-73.9886678
+1374,3,Crispo,2122291818,"240 W 14th St, New York, NY 10011, USA",40.7392154,-74.0017436
+1375,3,Cuba,2124207878,"222 Thompson St, New York, NY 10012, USA",40.7290916,-73.9988446
+1376,3,Cuchifritos Y Frituras,2128764846,"168 E 116th St, New York, NY 10029, USA",40.7980513,-73.9409898
+1377,3,The Cupping Room Cafe,2129252898,"359 W Broadway, New York, NY 10013, USA",40.723,-74.003049
+1378,3,Curry in a Hurry,2126830900,"119 Lexington Ave, New York, NY 10016, USA",40.7427078,-73.9822435
+1379,3,Da Gennaro,2124313934,"129 Mulberry St, New York, NY 10013, USA",40.7182928,-73.9980368
+1380,3,Da Mikele,2129258800,"275 Church St, New York, NY 10013, USA",40.7185361,-74.0049074
+1381,3,Da Nico,2123431212,"164 Mulberry St, New York, NY 10013, USA",40.7196823,-73.9970643
+1382,3,Dafni Greek Taverna,2123151010,"325 W 42nd St, New York, NY 10036, USA",40.7580097,-73.9908378
+1383,3,Dallas BBQ,2125683700,"3956 Broadway, New York, NY 10032, USA",40.8396586,-73.9404853
+1384,3,Danji,2125862880,"346 W 52nd St, New York, NY 10019, USA",40.764031,-73.986859
+1385,3,db Bistro moderne,2123912400,"55 W 44th St, New York, NY 10036, USA",40.7559546,-73.9821076
+1386,3,Dean & Deluca,2122266800,"560 Broadway, New York, NY 10012, USA",40.7240469,-73.9976783
+1387,3,Death & Co.,2123880882,"433 E 6th St, New York, NY 10009, USA",40.7259632,-73.9846206
+1388,3,Del Posto,2124978090,"85 10th Ave, New York, NY 10011, USA",40.743265,-74.007605
+1389,3,Dell'Anima,2123666633,"600 11th Ave, New York, NY 10036, USA",40.7623377,-73.9967579
+1390,3,Delmonico's,2125091144,"56 Beaver St, New York, NY 10004, USA",40.7049016,-74.010377
+1391,3,Dim Sum Go Go,2127320797,"5 E Broadway, New York, NY 10038, USA",40.713231,-73.997722
+1392,3,Dirt Candy,2122287732,"86 Allen St, New York, NY 10002, USA",40.7179086,-73.990717
+1393,3,Dominique Ansel Bakery,2122192773,"189 Spring St, New York, NY 10012, USA",40.725161,-74.0029621
+1394,3,Dominique Ansel Kitchen,2122425111,"F2, 137 7th Ave S, New York, NY 10014, USA",40.7348035,-74.0019
+1395,3,Domino's Pizza,2127813700,"736 W 181st St, New York, NY 10033, USA",40.8505075,-73.9376825
+1396,3,Domino's Pizza,2128311024,"153 E 116th St, New York, NY 10029, USA",40.7986495,-73.9411238
+1397,3,Don Giovanni,2125814939,"358 W 44th St, New York, NY 10036, USA",40.759455,-73.991309
+1398,3,Dos Caminos,2122774300,"475 W Broadway, New York, NY 10012, USA",40.7266452,-73.9999024
+1399,3,Dos Caminos,2126992400,"675 Hudson St, New York, NY 10014, USA",40.7404331,-74.0054753
+1400,3,Doughnut Plant,2125053700,"379 Grand St, New York, NY 10012, USA",40.716336,-73.98853
+1401,3,Dyckman Express,2125672288,"101 Dyckman St, New York, NY 10040, USA",40.8619219,-73.9245152
+1402,3,Xi'an Famous Foods,2127862068,"55-01 37th Ave, Woodside, NY 11377, USA",40.7509377,-73.9065959
+1403,3,Earl's Beer & Cheese,2122891581,"1259 Park Ave, New York, NY 10029, USA",40.7873024,-73.9515559
+1404,3,Ecco,2122277074,"124 Chambers St, New York, NY 10007, USA",40.7151839,-74.008807
+1405,3,Ed's Lobster Bar,2123433236,"222 Lafayette St, New York, NY 10012, USA",40.7220623,-73.997532
+1406,3,Edward's,2122336436,"136 W Broadway, New York, NY 10013, USA",40.7169855,-74.0083752
+1407,3,Istanbul Grill,2124638626,"310 W 14th St #1, New York, NY 10014, USA",40.7397947,-74.003436
+1408,3,Eisenberg's Sandwich Shop,2126755096,"174 5th Ave, New York, NY 10010, USA",40.741137,-73.9902228
+1409,3,Lechonera El Barrio,2127221344,"172 E 103rd St, New York, NY 10029, USA",40.7897568,-73.946616
+1410,3,El Conde Steak House,2127813231,"3734, 4139 Broadway, New York, NY 10033, USA",40.8461405,-73.9386957
+1411,3,L'Encanto D'Lola,2122226969,"57 Malcolm X Blvd, New York, NY 10026, USA",40.800139,-73.9515179
+1412,3,El Nuevo Caribeno Restaurant,2128313906,"1675 Lexington Ave, New York, NY 10029, USA",40.791605,-73.9465809
+1413,3,El Nuevo Caridad Restaurant,2128608187,"2257 2nd Ave, New York, NY 10029, USA",40.7969681,-73.938121
+1414,3,Mi Paso Centro Americano Restaurant,2129280866,"4129 Broadway, New York, NY 10033, USA",40.8458688,-73.938764
+1415,3,El Vez and Burrito Bar,2122332500,"259 Vesey St, New York, NY 10282, USA",40.7148114,-74.0154223
+1416,3,Eleven Madison Park,2128890905,"11 Madison Ave, New York, NY 10010, USA",40.7416338,-73.9871947
+1417,3,Elmo Restaurant,2123378000,"156 7th Ave, New York, NY 10011, USA",40.7419397,-73.9974488
+1418,3,Empanada Mama - Hells Kitchen,2126989008,"765 9th Ave, New York, NY 10019, USA",40.7643879,-73.9886498
+1419,3,Empellon Taqueria,2123670999,"230 West 4th Street, New York, NY 10014, USA",40.734142,-74.0030683
+1420,3,Empire Corner II,2124105756,"1415 5th Ave, New York, NY 10029, USA",40.8004704,-73.9463881
+1421,3,Empire Szechuan Noodle House,2125681600,"4041 Broadway, New York, NY 10032, USA",40.8426994,-73.9394856
+1422,3,Employees Only,2122423021,"510 Hudson St, New York, NY 10014, USA",40.7334327,-74.0060814
+1423,3,EN Japanese Brasserie,2126479196,"435 Hudson St, New York, NY 10014, USA",40.7306106,-74.0071557
+1424,3,Esca,2125647272,"402 W 43rd St, New York, NY 10036, USA",40.7592097,-73.9927457
+1425,3,Esperanto,2125056559,"145 Avenue C, New York, NY 10009, USA",40.7254599,-73.9780184
+1426,3,Essex,2125339616,"119 Rivington St, New York, NY 10002, USA",40.719707,-73.987415
+1427,3,Estancia 460,2124315093,"460 Greenwich St, New York, NY 10013, USA",40.7237676,-74.0096509
+1428,3,Estela,2122197693,"1st floor, 47 E Houston St, New York, NY 10012, USA",40.7246413,-73.994739
+1429,3,Estiatorio Milos,2122457400,"125 W 55th St, New York, NY 10019, USA",40.7637209,-73.9788277
+1430,3,Exclusive Pizza,2127950550,"810 W 181st St, New York, NY 10033, USA",40.850903,-73.938777
+1431,3,Extra Virgin,2126919359,"259 West 4th Street, New York, NY 10014, USA",40.7354027,-74.0031344
+1432,3,Famous Fish Market,2124918323,"684 St Nicholas Ave, New York, NY 10030, USA",40.8237287,-73.9446811
+1433,3,Fanelli's Cafe,2122269412,"94 Prince St, New York, NY 10012, USA",40.7246254,-73.9987757
+1434,3,Fat Cat Kitchen,2122351994,"223 E 14th St, New York, NY 10003, USA",40.7331146,-73.9860812
+1435,3,Felice,2127855950,"15 Gold St, New York, NY 10038, USA",40.7078815,-74.0071288
+1436,3,Felidia,2127581479,"243 E 58th St, New York, NY 10022, USA",40.7603663,-73.9651132
+1437,3,Félix,2124310021,"340 W Broadway, New York, NY 10013, USA",40.7225405,-74.003794
+1438,3,Ferrara Bakery & Cafe,2122266150,"195 Grand St, New York, NY 10013, USA",40.7190764,-73.9970864
+1439,3,Fig & Olive,2129241200,"420 W 13th St, New York, NY 10014, USA",40.7406128,-74.0069163
+1440,3,Financier Patisserie,2123445600,"62 Stone St, New York, NY 10004, USA",40.704494,-74.0098782
+1441,3,Fino Ristorante,2128251924,"82 Beaver St, New York, NY 10005, USA",40.7053349,-74.00836
+1442,3,Fish,2127272879,"280 Bleecker St, New York, NY 10014, USA",40.7317092,-74.0034673
+1443,3,Five Guys Burgers and Fries,2124599600,"43 W 55th St, New York, NY 10019, USA",40.7625468,-73.9767102
+1444,3,Flavors,2126689800,"42 Broadway, New York, NY 10004, USA",40.7059797,-74.0126029
+1445,3,Flex Mussels,2122290222,"154 W 13th St, New York, NY 10011, USA",40.7374703,-73.9996523
+1446,3,Flor De Mayo,2127873388,"484 Amsterdam Ave, New York, NY 10024, USA",40.7860375,-73.9764266
+1447,3,Floridita Restaurant,2129280653,"4162 Broadway, New York, NY 10033, USA",40.8471617,-73.9378019
+1448,3,Fort Washington Bakery & Deli,2127951891,"808 W 181st St, New York, NY 10033, USA",40.850925,-73.9386809
+1449,3,Francesco Pizzeria & Italian,2127210066,"186 Columbus Ave, New York, NY 10023, USA",40.775197,-73.980691
+1450,3,Frank,2124200202,"88 2nd Ave, New York, NY 10003, USA",40.7268777,-73.9886954
+1451,3,Freds Restaurant,2125793076,"476 Amsterdam Ave, New York, NY 10024, USA",40.7857162,-73.9767132
+1452,3,Kori Tribeca,2123340908,"265 E 10th St, New York, NY 10009, USA",40.728472,-73.9832095
+1453,3,Freemans,2124200012,"Freeman Alley, New York, NY 10002, USA",40.7219877,-73.9924573
+1454,3,French Roast,2127991533,"2340 Broadway #85, New York, NY 10024, USA",40.7876324,-73.9767686
+1455,3,Frenchette,2123343883,"241 W Broadway, New York, NY 10013, USA",40.719607,-74.0056337
+1456,3,Sushi of Gari,2123624816,"370 Columbus Ave, New York, NY 10024, USA",40.781159,-73.976445
+1457,3,Gato,2123346400,"324 Lafayette St, New York, NY 10012, USA",40.7255745,-73.9952528
+1458,3,Gazala's Place,2122450709,"709 9th Ave, New York, NY 10019, USA",40.762707,-73.989908
+1459,3,Gemma,2125057300,"335 Bowery, New York, NY 10003, USA",40.7260151,-73.9914737
+1460,3,George's,2122698026,"89 Greenwich St, New York, NY 10006, USA",40.707827,-74.0134723
+1461,3,George's Pizza,2125686891,"726 W 181st St, New York, NY 10033, USA",40.8504356,-73.9371051
+1462,3,Georgetown Cupcake,2124314504,"111 Mercer St, New York, NY 10012, USA",40.7238181,-73.9994362
+1463,3,Giano,2126737200,"126 E 7th St, New York, NY 10009, USA",40.7262122,-73.98416
+1464,3,Gigino At Wagner Park,2125282228,"20 Battery Pl, New York, NY 10004, USA",40.7050439,-74.018137
+1465,3,Gigino Trattoria,2124311112,"323 Greenwich St, New York, NY 10013, USA",40.7172647,-74.0104673
+1466,3,Ginny's Supper Club,2124213821,"310 Lenox Ave, New York, NY 10027, USA",40.8080509,-73.9447715
+1467,3,David Burke Kitchen,2122019119,"76 Varick St, New York, NY 10013, USA",40.722911,-74.005916
+1468,3,Gogo-gi,2125430922,"3908 Broadway, New York, NY 10032, USA",40.8379895,-73.94167
+1469,3,Golan Heights,2127957842,"2553 Amsterdam Ave, New York, NY 10033, USA",40.8515059,-73.9281685
+1470,3,Good Enough To Eat,2124960163,"520 Columbus Ave, New York, NY 10024, USA",40.7859871,-73.9727735
+1471,3,Gotan,2124315200,"130 Franklin St, New York, NY 10013, USA",40.7192553,-74.0066082
+1472,3,Gotham Bar and Grill,2126204020,"12 E 12th St, New York, NY 10003, USA",40.734207,-73.993699
+1473,3,Gottino Enoteca E Salumeria,2126332590,"52 Greenwich Ave, New York, NY 10011, USA",40.7357702,-74.0004556
+1474,3,Gramercy Tavern,2124770777,"42 E 20th St, New York, NY 10003, USA",40.7384555,-73.9885064
+1475,3,Grandma's Pizza,2129274895,"2551 Amsterdam Ave, New York, NY 10033, USA",40.851462,-73.928232
+1476,3,Great N.Y. Noodletown,2123490923,"28 Bowery, New York, NY 10013, USA",40.7150317,-73.9970383
+1477,3,Greenwich Street Tavern,2123347827,"399 Greenwich St, New York, NY 10013, USA",40.7208568,-74.0097731
+1478,3,Grom Gelato,2122061738,"4438, 233 Bleecker St, New York, NY 10014, USA",40.730464,-74.0024412
+1479,3,Ground Support Cafe,2122198722,"399 W Broadway, New York, NY 10012, USA",40.7242855,-74.0019623
+1480,3,Gyu-Kaku Japanese BBQ,2124752989,"34 Cooper Sq, New York, NY 10003, USA",40.728237,-73.9914863
+1481,3,Hakkasan Restaurant,2127761818,"311 W 43rd St, New York, NY 10036, USA",40.758471,-73.99008
+1482,3,Hampton Chutney Co.,2122269996,"143 Grand St, New York, NY 10013, USA",40.720051,-73.999591
+1483,3,Harlem Bar-B-Q,2122221922,"2367 Frederick Douglass Blvd, New York, NY 10027, USA",40.8116845,-73.950395
+1484,3,Harlem Shake,2122228300,"100 W 124th St, New York, NY 10027, USA",40.8071004,-73.9463499
+1485,3,Harlem Tavern,2128664500,"2153 Frederick Douglass Blvd, New York, NY 10026, USA",40.8047536,-73.9554776
+1486,3,HARRY'S ITALIAN PIZZA BAR,2127470797,"2 Gold St, New York, NY 10038, USA",40.707462,-74.0067869
+1487,3,Harry's Steak,2127859200,"1 Hanover Square, New York, NY 10004, USA",40.7046763,-74.0097371
+1488,3,Haru Sushi,2127856850,"1 Wall Street Court, New York, NY 10005, USA",40.7052319,-74.00843
+1489,3,Haru Sushi,2123014440,"859 9th Ave, New York, NY 10019, USA",40.7672443,-73.9864327
+1490,3,Hector's Cafe & Diner,2122067592,"44 Little W 12th St, New York, NY 10014, USA",40.7402926,-74.008289
+1491,3,Hill Country Barbecue Market,2122554544,"30 W 26th St, New York, NY 10010, USA",40.7441558,-73.9904866
+1492,3,Hill Country Chicken,2122576446,"1123 Broadway, New York, NY 10010, USA",40.7433495,-73.989291
+1493,3,Hillstone,2128883828,"153 E 53rd St, New York, NY 10022, USA",40.7582871,-73.9692211
+1494,3,Hirohisa,2129251613,"73 Thompson St, New York, NY 10012, USA",40.7245859,-74.0031526
+1495,3,Holey Cream Outrageous Ice Cream & Bake Shop,2122478400,"791 9th Ave, New York, NY 10019, USA",40.7652916,-73.9880763
+1496,3,Hop Shing,2122670220,"9 Chatham Square, New York, NY 10038, USA",40.7140212,-73.998067
+1497,3,Hourglass Tavern,2122652060,"373 W 46th St, New York, NY 10036, USA",40.7609281,-73.9903717
+1498,3,Hudson View Restaurant,2127810303,"770 W 181st St, New York, NY 10033, USA",40.8507014,-73.93818
+1499,3,Hummus Kitchen,2123333009,"768 9th Ave, New York, NY 10019, USA",40.7642804,-73.9880018
+1500,3,Hummus Place,2127993335,"305 Amsterdam Ave, New York, NY 10023, USA",40.7800932,-73.9803667
+1501,3,i Trulli,2124817372,"124 E 27th St, New York, NY 10016, USA",40.7421053,-73.9836169
+1502,3,il Buco Alimentari & Vineria,2128372622,"53 Great Jones St, New York, NY 10012, USA",40.726587,-73.9924731
+1503,3,Il Caffe Latte,2122222241,"189 Malcolm X Blvd # 1, New York, NY 10026, USA",40.8043971,-73.9483663
+1504,3,Il Laboratorio Del Gelato,2123439922,"188 Ludlow St, New York, NY 10002, USA",40.7222387,-73.9870811
+1505,3,Il Mulino,2126733783,"86 W 3rd St, New York, NY 10012, USA",40.729751,-73.999147
+1506,3,Il Mulino Prime,2122260020,"37 E 60th St, New York, NY 10065, USA",40.7641441,-73.97027
+1507,3,ilili,2126832929,"236 5th Ave, New York, NY 10001, USA",40.744355,-73.987732
+1508,3,Imli Urban Indian Food,2122560073,"7963, 1136 1st Avenue, New York, NY 10065, USA",40.7616661,-73.9601392
+1509,3,Inatteso Pizzabar Casano,2122678000,"28 West St, New York, NY 10004, USA",40.7060267,-74.0170497
+1510,3,Indian Accent,2128428070,"123 W 56th St, New York, NY 10019, USA",40.764284,-73.9788504
+1511,3,Industry Kitchen,2124879600,"70 South St, New York, NY 10038, USA",40.7049081,-74.00467
+1512,3,Ipanema Restaurant,2127305848,"43 W 46th St, New York, NY 10036, USA",40.7569558,-73.9806353
+1513,3,Ippudo,2123880088,"65 4th Ave, New York, NY 10003, USA",40.730948,-73.990287
+1514,3,Island Burgers & Shakes,2123077934,"766 9th Ave, New York, NY 10019, USA",40.7642444,-73.9881871
+1515,3,Jack's Wife Freda,2125108550,"224 Lafayette St, New York, NY 10012, USA",40.7221234,-73.9975099
+1516,3,Jack’s Stir Brew Coffee,2126470900,"425 W 13th St, New York, NY 10014, USA",40.7409566,-74.0069751
+1517,3,Jacob Restaurant Soul Food & Salad Bar,2128663663,"373 Malcolm X Blvd, New York, NY 10027, USA",40.8102838,-73.9439498
+1518,3,Jacob's Pickles,2124705566,"509 Amsterdam Ave, New York, NY 10024, USA",40.7866273,-73.9755359
+1519,3,Jade Garden,2127950556,"4028 Broadway, New York, NY 10032, USA",40.8418361,-73.9389437
+1520,3,Jane,2122547000,"100 W Houston St, New York, NY 10012, USA",40.7273681,-74.0002463
+1521,3,Jim Brady's Restaurant,2124251300,"75 Maiden Ln, New York, NY 10038, USA",40.7076363,-74.0075839
+1522,3,Joe Allen,2125816464,"326 W 46th St, New York, NY 10036, USA",40.7601463,-73.9890826
+1523,3,Joe The Art of Coffee,2129246750,"141 Waverly Pl, New York, NY 10014, USA",40.7332972,-74.0005659
+1524,3,Joe's Pizza,2123661182,"7 Carmine St, New York, NY 10014, USA",40.7305876,-74.002141
+1525,3,Joe's Shanghai,2122338888,"24 W 56th St, New York, NY 10019, USA",40.7627553,-73.9760807
+1526,3,Johnny's Bar,2127415279,"90 Greenwich Ave, New York, NY 10011, USA",40.7379039,-74.0016944
+1527,3,Judy's Spanish Restaurant,2128310193,"1505 Lexington Ave, New York, NY 10029, USA",40.7866269,-73.9500944
+1528,3,Juice Press,2127770034,"156 Prince St, New York, NY 10012, USA",40.7258037,-74.0013339
+1529,3,Spot Dessert Bar,2126736745,"5 St Marks Pl, New York, NY 10003, USA",40.7295118,-73.9892641
+1530,3,Jumbo's Hamburger Place,2124915444,"274 W 145th St, New York, NY 10039, USA",40.822537,-73.9416849
+1531,3,Jungsik,2122190900,"2 Harrison St, New York, NY 10013, USA",40.7188267,-74.0090751
+1532,3,Junoon,2124902100,"27 W 24th St, New York, NY 10010, USA",40.7430634,-73.9908701
+1533,3,Kaffe 1668,2126933750,"275 Greenwich St, New York, NY 10007, USA",40.7151373,-74.0110881
+1534,3,Kellari Taverna,2122210144,"19 W 44th St, New York, NY 10036, USA",40.7554271,-73.9810529
+1535,3,Kenn's Broome Street Bar,2129252086,"363 W Broadway, New York, NY 10013, USA",40.7231836,-74.002929
+1536,3,Keur Sokhna Restaurant Plus,2123685005,"2249 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",40.8135225,-73.9447057
+1537,3,Khe-Yo,2125871089,"157 Duane St, New York, NY 10013, USA",40.7168252,-74.0086053
+1538,3,King Garden,2127813862,"4316 Broadway, New York, NY 10033, USA",40.851877,-73.9346509
+1539,3,Kismat Indian Restaurant,2127958633,"603 Fort Washington Ave, New York, NY 10040, USA",40.8553122,-73.9370321
+1540,3,Kodama Sushi,2125828065,"301 W 45th St, New York, NY 10036, USA",40.759426,-73.988742
+1541,3,Roc,2126253333,"190 A Duane St, New York, NY 10013, USA",40.7173643,-74.0104963
+1542,3,L’Express,2122545858,"249 Park Ave S, New York, NY 10003, USA",40.7381018,-73.9876063
+1543,3,La Barca Restaurant,2129281090,"3892 Broadway, New York, NY 10032, USA",40.8374464,-73.9420766
+1544,3,La Bergamote Patisserie,2126279010,"177 9th Ave, New York, NY 10011, USA",40.7448924,-74.0028086
+1545,3,La Bonne Soupe,2125867650,"48 W 55th St, New York, NY 10019, USA",40.7623548,-73.9770159
+1546,3,La Casa Del Mofongo,2127401200,"1447 St Nicholas Ave, New York, NY 10033, USA",40.8503954,-73.9334181
+1547,3,La Colombe Torrefaction,2126251717,"270 Lafayette St, New York, NY 10012, USA",40.7239892,-73.9964457
+1548,3,La Colombe Torrefaction,2123431515,"319 Church St, New York, NY 10013, USA",40.7198829,-74.0038136
+1549,3,French Roast,2125332233,"78 W 11th St, New York, NY 10011, USA",40.7352051,-73.9981588
+1550,3,Flor de Broadway Restaurant,2122811556,"3395 Broadway, New York, NY 10031, USA",40.8218698,-73.9540449
+1551,3,La Fonda Restaurant & Tapas Bar,2124107292,"169 E 106th St, New York, NY 10029, USA",40.7919701,-73.9449899
+1552,3,La Maison du Macaron,2122432757,"132 W 23rd St, New York, NY 10011, USA",40.7432318,-73.9941495
+1553,3,La Mela,2124319493,"167 Mulberry St, New York, NY 10013, USA",40.7199036,-73.9972937
+1554,3,Pellegrino's,2122263177,"134 Mulberry St, New York, NY 10013, USA",40.7185437,-73.997583
+1555,3,La Nostra Pizzeria,2123607453,"3207, 2146 2nd Ave, New York, NY 10029, USA",40.793245,-73.940233
+1556,3,Pranzo - Eataly,2122292560,"200 5th Ave, New York, NY 10010, USA",40.7419931,-73.9899357
+1557,3,La Preciosa China Restaurant,2123693921,"163 E 116th St A, New York, NY 10029, USA",40.7984891,-73.9408978
+1558,3,La Sirène,2129253061,"558 Broome St, New York, NY 10013, USA",40.724543,-74.005667
+1559,3,La Tropezienne Bakery,2128605324,"2131 1st Avenue #1, New York, NY 10029, USA",40.7920883,-73.9384826
+1560,3,Braai,2123153315,"329 W 51st St, New York, NY 10018, USA",40.763641,-73.986802
+1561,3,Lafayette,2125333000,"380 Lafayette St, New York, NY 10003, USA",40.7275934,-73.9937017
+1562,3,Land Thai Kitchen,2125018121,"450 Amsterdam Ave, New York, NY 10024, USA",40.78499,-73.9772987
+1563,3,Landmarc (at the Time Warner Center),2128236123,"TIME WARNER CENTER, 10 Columbus Cir #3, New York, NY 10019, USA",40.768928,-73.982749
+1564,3,Lattanzi Restaurant,2123150980,"361 W 46th St, New York, NY 10036, USA",40.7607825,-73.9900319
+1565,3,Laut,2122068989,"15 E 17th St, New York, NY 10003, USA",40.7376158,-73.9910302
+1566,3,Lavo,2127505588,"39 E 58th St, New York, NY 10022, USA",40.7628936,-73.9714277
+1567,3,Le Cheile,2127403111,"839 W 181st St, New York, NY 10033, USA",40.8514952,-73.9399876
+1568,3,Le Coq Rico,2122677426,"30 E 20th St, New York, NY 10003, USA",40.738574,-73.9889029
+1569,3,Le Coucou,2122714252,"138 Lafayette St, New York, NY 10013, USA",40.719139,-74.00025
+1570,3,Le Pain Quotidien,2126259009,"100 Grand St, New York, NY 10013, USA",40.7215063,-74.0015522
+1571,3,Le Pain Quotidien,2127570775,"922 7th Ave, New York, NY 10019, USA",40.7663869,-73.9796481
+1572,3,Le Relais de Venise L'Entrecôte Midtown East,2127583989,"590 Lexington Ave, New York, NY 10022, USA",40.7576759,-73.9717686
+1573,3,Le Zie,2122068686,"172 7th Ave, New York, NY 10011, USA",40.74253,-73.997081
+1574,3,Dovetail,2123623800,"103 W 77th St, New York, NY 10024, USA",40.7809464,-73.9765979
+1575,3,Patisserie Des Ambassades,2126660078,"2200 Frederick Douglass Blvd, New York, NY 10026, USA",40.8060966,-73.9538151
+1576,3,Levain Bakery,2128746080,"167 W 74th St, New York, NY 10023, USA",40.7799589,-73.9802984
+1577,3,Lil' Frankie's,2124204900,"19 1st Avenue, New York, NY 10003, USA",40.7235162,-73.9885579
+1578,3,Limon Jungle,2125866032,"197 7th Ave, New York, NY 10011, USA",40.7430356,-73.9960896
+1579,3,Lincoln Ristorante,2123596500,"142 West 65th Street, Lincoln Center Plaza, New York, NY 10023, USA",40.7733701,-73.983728
+1580,3,Lincoln Square Steak,2128758600,"208 W 70th St, New York, NY 10023, USA",40.7775086,-73.9833154
+1581,3,Little Italy Pizzeria,2122277077,"2841, 11 Park Pl, New York, NY 10007, USA",40.713044,-74.008334
+1582,3,Little Luzzo's,2123692300,"119 E 96th St, New York, NY 10128, USA",40.786293,-73.951528
+1583,3,The Little Owl,2127414695,"90 Bedford St, New York, NY 10014, USA",40.732398,-74.005318
+1584,3,Little Park,2122204110,"85 W Broadway, New York, NY 10007, USA",40.7152366,-74.0091553
+1585,3,Little Prince,2123350566,"199 Prince St, New York, NY 10012, USA",40.7268765,-74.0027216
+1586,3,Local,2122532601,"144 Sullivan St, New York, NY 10012, USA",40.727089,-74.0020555
+1587,3,Locanda Verde,2129253797,"377 Greenwich St, New York, NY 10013, USA",40.7198964,-74.0100249
+1588,3,Locksmith Bar,2123049463,"4463 Broadway, New York, NY 10040, USA",40.8573496,-73.9325526
+1589,3,Lucky's Famous Burgers,2122476717,"370 W 52nd St, New York, NY 10019, USA",40.7644654,-73.9876892
+1590,3,Luke's Lobster,2123878487,"93 E 7th St, New York, NY 10009, USA",40.727,-73.985264
+1591,3,Luke's Lobster,2127471700,"26 S William St, New York, NY 10004, USA",40.704664,-74.01074
+1592,3,Luke's Lobster,2128778800,"426 Amsterdam Ave, New York, NY 10024, USA",40.7842065,-73.9778305
+1593,3,Lure Fishbar,2124317676,"142 Mercer St, New York, NY 10012, USA",40.724703,-73.9983278
+1594,3,Luzzo's,2124737447,"213 1st Avenue, New York, NY 10003, USA",40.7305745,-73.9834651
+1595,3,Macao Trading Company,2124318750,"311 Church St, New York, NY 10013, USA",40.719629,-74.003939
+1596,3,Macbar,2122268877,"54 Prince St, New York, NY 10012, USA",40.7234821,-73.9962984
+1597,3,Mad Dog and Beans,2122691177,"83 Pearl St, New York, NY 10004, USA",40.7041783,-74.0102152
+1598,3,Magnolia Bakery,2126823588,"89 E 42nd St, New York, NY 10017, USA",40.7525713,-73.9767735
+1599,3,Magnolia Bakery,2127671123,"1240 6th Ave, New York, NY 10020, USA",40.7592689,-73.9805576
+1600,3,Magnolia Bakery,2124622572,"West 11th Street, 401 Bleecker St, New York, NY 10014, USA",40.7358861,-74.0049499
+1601,3,Maison Kayser,2123542300,"8 W 40th St, New York, NY 10018, USA",40.7524238,-73.9825805
+1602,3,Make My Cake,2122342344,"2380 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",40.8181467,-73.9420895
+1603,3,Manhatta,2122305788,"28 Liberty St 60th floor, New York, NY 10005, USA",40.7078538,-74.0089805
+1604,3,Manhattan Valley,2122229222,"2636 Broadway, New York, NY 10025, USA",40.796989,-73.969707
+1605,3,Manna's Soul Food Buffet & Salad Bar,2127499084,"2353 Frederick Douglass Blvd, New York, NY 10027, USA",40.8111276,-73.9508293
+1606,3,Manolo Tapas,2129239100,"4165 Broadway, New York, NY 10033, USA",40.847218,-73.938372
+1607,3,Manzo Ristorante,2122292180,"200 5th Ave, New York, NY 10010, USA",40.742087,-73.989634
+1608,3,Marea,2125825100,"240 Central Park S, New York, NY 10019, USA",40.7674484,-73.9811332
+1609,3,MarieBelle,2129256999,"484 Broome St, New York, NY 10013, USA",40.723136,-74.002337
+1610,3,Market Table,2122552100,"54 Carmine St, New York, NY 10014, USA",40.729697,-74.003702
+1611,3,MarkJoseph Steakhouse,2122770020,"261 Water St, New York, NY 10038, USA",40.70837,-74.00152
+1612,3,Marseille,2123332323,"630 9th Ave, New York, NY 10036, USA",40.7598041,-73.991377
+1613,3,McDonald's,2123852066,"160 Broadway, New York, NY 10038, USA",40.7094789,-74.0100364
+1614,3,McSorley's Old Ale House,2124739148,"15 E 7th St, New York, NY 10003, USA",40.7287614,-73.9896943
+1615,3,Melba's American Comfort Food,2128647777,"300 W 114th St, New York, NY 10026, USA",40.803102,-73.9565658
+1616,3,Merchants River House,2124321451,"375 South End Avenue Hudson River, Esplanade, New York, NY 10280, USA",40.7114153,-74.0178676
+1617,3,Metro Diner,2128660800,"2641 Broadway #1, New York, NY 10025, USA",40.7974384,-73.9701462
+1618,3,Mighty Quinn's Barbeque,2126773733,"103 2nd Ave, New York, NY 10003, USA",40.7275899,-73.9886167
+1619,3,Milk Burger,2123601988,"148 Bruckner Blvd, The Bronx, NY 10454, USA",40.803521,-73.920133
+1620,3,Minca,2125058001,"536 E 5th St, New York, NY 10009, USA",40.723998,-73.982949
+1621,3,Minetta Tavern,2124753850,"113 Macdougal St, New York, NY 10012, USA",40.7299881,-74.0007016
+1622,3,Moca Bar & Lounge,2126658081,"2210 Frederick Douglass Blvd, New York, NY 10026, USA",40.8063239,-73.9535474
+1623,3,Molly's Cupcakes,2124142253,"228 Bleecker St, New York, NY 10014, USA",40.73011,-74.002515
+1624,3,Molyvos,2125827500,"871 7th Ave, New York, NY 10019, USA",40.7644845,-73.9805464
+1625,3,Momofuku Ko,2122038095,"8 Extra Pl, New York, NY 10003, USA",40.7248441,-73.9916574
+1626,3,Momofuku Noodle Bar,2127777773,"171 1st Avenue, New York, NY 10003, USA",40.729233,-73.98451
+1627,3,Momofuku Ssam Bar,2122543500,"207 2nd Ave, New York, NY 10003, USA",40.7317071,-73.9858725
+1628,3,Momoya,2125800007,"427 Amsterdam Ave, New York, NY 10024, USA",40.784053,-73.9774448
+1629,3,Monkey Room Bar & Lounge,2125439888,"589 Fort Washington Ave, New York, NY 10033, USA",40.8549581,-73.9372275
+1630,3,Mooncake Foods,2122198888,"28 Watts St, New York, NY 10013, USA",40.7236173,-74.0041872
+1631,3,Morandi Restaurant,2126277575,"211 Waverly Pl, New York, NY 10014, USA",40.735317,-74.0014282
+1632,3,Morning Star,2122461593,"879 9th Ave, New York, NY 10019, USA",40.7682107,-73.9858178
+1633,3,Motorino,2127772644,"349 E 12th St, New York, NY 10003, USA",40.7303588,-73.9838277
+1634,3,Mottsu,2123438017,"285 Mott St, New York, NY 10012, USA",40.7242825,-73.9945026
+1635,3,Mountain Bird,2127444422,"2162 2nd Ave, New York, NY 10029, USA",40.7938199,-73.9398521
+1636,3,KEFI,2128730205,"222 W 79th St, New York, NY 10024, USA",40.7833293,-73.9794561
+1637,3,Mumbai Masala Indian Grill,2123680100,"1768 Amsterdam Ave, New York, NY 10031, USA",40.8268959,-73.9466121
+1638,3,Murray's Bagels,2124622830,"500 6th Ave, New York, NY 10011, USA",40.7363873,-73.9972943
+1639,3,Murray's Cheese,2122433289,"254 Bleecker St, New York, NY 10014, USA",40.7310236,-74.0030971
+1640,3,Nai Tapas,2126771030,"85 2nd Ave, New York, NY 10003, USA",40.726793,-73.989054
+1641,3,Nanoosh,2123627922,"2012 Broadway, New York, NY 10023, USA",40.7758355,-73.9817565
+1642,3,Negril Village,2124772804,"70 W 3rd St, New York, NY 10012, USA",40.729352,-73.9983558
+1643,3,New Ivoire Restaurant,2124105982,"76 E 119th St, New York, NY 10035, USA",40.8013675,-73.9423776
+1644,3,University Deli,2125683838,"603 W 168th St, New York, NY 10032, USA",40.8413681,-73.940179
+1645,3,Nice Matin,2128736423,"201 W 79th St, New York, NY 10024, USA",40.7834267,-73.9784952
+1646,3,Ninja New York,2122748500,"25 Hudson St, New York, NY 10013, USA",40.716736,-74.0093426
+1647,3,No. 1 Chinese Restaurant,2127403188,"823 W 181st St, New York, NY 10033, USA",40.8513775,-73.93949
+1648,3,Nobu 57,2127573000,"40 W 57th St, New York, NY 10019, USA",40.7635743,-73.9764549
+1649,3,NY Pizza Suprema,2125948939,"413 8th Ave, New York, NY 10001, USA",40.7501162,-73.9952042
+1650,3,Nyonya,2123343669,"199 Grand St, New York, NY 10013, USA",40.719002,-73.9970266
+1651,3,O'Hara's Restaurant and Pub,2122673032,"120 Cedar St, New York, NY 10006, USA",40.7095008,-74.0126642
+1652,3,Obao,2122458880,"647 9th Ave, New York, NY 10036, USA",40.7606427,-73.9913343
+1653,3,Ocean Restaurant,2122899293,"393 Malcolm X Blvd #2, New York, NY 10027, USA",40.8108624,-73.9435994
+1654,3,Old Homestead Steakhouse,2122429040,"56 9th Ave, New York, NY 10011, USA",40.7412405,-74.0048833
+1655,3,Cafe Gitane,2122554143,"113 Jane St, New York, NY 10014, USA",40.7382579,-74.0094507
+1656,3,Old Town Bar & Restaurant,2125296732,"45 E 18th St, New York, NY 10003, USA",40.7376202,-73.9891641
+1657,3,Olio e Piú,2122436546,"3 Greenwich Ave, New York, NY 10014, USA",40.7338794,-73.9999408
+1658,3,Cafe Ollin,2128283644,"339 E 108th St, New York, NY 10029, USA",40.7911821,-73.9393271
+1659,3,"One If By Land, Two If By Sea",2122558649,"17 Barrow St, New York, NY 10014, USA",40.732548,-74.0026278
+1660,3,Oriental Garden,2126190085,"14 Elizabeth St, New York, NY 10013, USA",40.7158358,-73.9972661
+1661,3,P.J. Clarke's,2123171616,"915 3rd Ave, New York, NY 10022, USA",40.7589726,-73.9681925
+1662,3,P.J. Clarke's,2122851500,"250 Vesey St, New York, NY 10281, USA",40.713756,-74.016182
+1663,3,Palma,2126912223,"28 Cornelia St, New York, NY 10014, USA",40.7312567,-74.0023689
+1664,3,Pam Real Thai,2123337500,"404 W 49th St, New York, NY 10019, USA",40.7629423,-73.9899086
+1665,3,Papatzul,2122748225,"55 Grand St, New York, NY 10013, USA",40.7221555,-74.0036742
+1666,3,Cafe Orlin,2127771447,"41 St Marks Pl, New York, NY 10003, USA",40.7285174,-73.9870662
+1667,3,Pasha Turkish,2125798751,"70 W 71st St, New York, NY 10023, USA",40.7764939,-73.9789786
+1668,3,Pasticceria Rocco,2122426031,"4438, 243 Bleecker St, New York, NY 10014, USA",40.7308397,-74.0026425
+1669,3,Patsy's Italian Restaurant,2122473491,"236 W 56th St, New York, NY 10019, USA",40.7656391,-73.9827408
+1670,3,Patsy's Pizzeria,2125793000,"61 W 74th St, New York, NY 10023, USA",40.7787036,-73.9774567
+1671,3,Patsy's Pizzeria,2125349783,"2287 1st Avenue, New York, NY 10035, USA",40.7971528,-73.9348807
+1672,3,Patzeria Perfect Pizza,2125757646,"231 W 46th St, New York, NY 10036, USA",40.759468,-73.986771
+1673,3,Peacefood Café,2123622266,"460 Amsterdam Ave, New York, NY 10024, USA",40.785275,-73.977012
+1674,3,Pearl Diner,2123446620,"212 Pearl St, New York, NY 10038, USA",40.7069432,-74.0062813
+1675,3,Pearl Oyster Bar,2126918211,"18 Cornelia St, New York, NY 10014, USA",40.7313201,-74.0019104
+1676,3,Peking Duck House,2122271810,"28 Mott St # A, New York, NY 10013, USA",40.7146153,-73.9985845
+1677,3,Pepe Rosso To Go,2126774555,"149 Sullivan St # 1, New York, NY 10012, USA",40.7272089,-74.0015949
+1678,3,Periyali,2124637890,"35 W 20th St, New York, NY 10011, USA",40.740612,-73.992968
+1679,3,Perry St,2123521900,"176 Perry St, New York, NY 10014, USA",40.7344162,-74.0096694
+1680,3,Pershing Square,2122869600,"5409, 90, E 42nd St, New York, NY 10017, USA",40.752023,-73.977754
+1681,3,Petrarca Cucina E Vino,2126252800,"34 White St, New York, NY 10013, USA",40.718911,-74.0045711
+1682,3,Picante Mexican Restaurant,2122346479,"3424 Broadway, New York, NY 10031, USA",40.8227373,-73.9528331
+1683,3,Pick & Eat,2127950054,"4179 Broadway, New York, NY 10033, USA",40.8474453,-73.9385079
+1684,3,Pick A Bagel,2125828333,"891 8th Ave, New York, NY 10019, USA",40.7643573,-73.9848536
+1685,3,Ping Seafood Restaurant,2126029988,"22 Mott St, New York, NY 10013, USA",40.7144393,-73.9985725
+1686,3,Pio Pio 6,2126653000,"702 Amsterdam Ave, New York, NY 10025, USA",40.792921,-73.971439
+1687,3,Pio Pio 8,2124592929,"604 10th Ave, New York, NY 10036, USA",40.7606143,-73.9945556
+1688,3,Pisillo Italian Panini,2122273104,"97 Nassau St, New York, NY 10038, USA",40.710554,-74.007593
+1689,3,PDT (Please Don't Tell),2126140386,"113 St Marks Pl, New York, NY 10009, USA",40.7271371,-73.9837411
+1690,3,Plunge,2126606736,"18 9th Ave, New York, NY 10014, USA",40.7399286,-74.0058022
+1691,3,Polash Indian Cuisine Restaurant,2124100276,"2179 3rd Ave #1, New York, NY 10035, USA",40.799584,-73.938406
+1692,3,Pommes Frites,2126741234,"128 Macdougal St, New York, NY 10012, USA",40.7301222,-74.0002813
+1693,3,Popbar,2122554874,"5 Carmine St, New York, NY 10014, USA",40.730598,-74.002012
+1694,3,Porter House Bar and Grill,2128239500,"10 Columbus Cir, New York, NY 10019, USA",40.768882,-73.98263
+1695,3,Pret A Manger,2126087501,"179 Broadway, New York, NY 10038, USA",40.710184,-74.0100209
+1696,3,Print - Ink48 Hotel,2127572224,"653 11th Ave, New York, NY 10036, USA",40.7645778,-73.9959347
+1697,3,Pronto Pizza,2123749595,"114 Liberty St, New York, NY 10006, USA",40.7097006,-74.0122613
+1698,3,Prune,2126776221,"54 E 1st St, New York, NY 10003, USA",40.723918,-73.989366
+1699,3,Pure Thai Cookhouse,2125810999,"766 9th Ave #2, New York, NY 10019, USA",40.7642884,-73.9881589
+1700,3,Pylos,2124730220,"128 E 7th St, New York, NY 10009, USA",40.7261737,-73.9840674
+1701,3,Quality Meats,2123717777,"57 W 58th St, New York, NY 10019, USA",40.7649079,-73.976242
+1702,3,Queen of Sheba,2123970610,"650 10th Ave, New York, NY 10036, USA",40.7619526,-73.9935044
+1703,3,Ristorante Rafele,2122421999,"29 7th Ave S, New York, NY 10014, USA",40.7309582,-74.0040978
+1704,3,Rao's,2127226709,"455 E 114th St, New York, NY 10029, USA",40.793977,-73.9342599
+1705,3,Red Bamboo,2122601212,"140 West 4th Street, New York, NY 10012, USA",40.7312877,-74.000315
+1706,3,Red Lobster,2127306706,"Five Times Square, 5, New York, NY 10036, USA",40.755587,-73.98753
+1707,3,Red Rooster Harlem,2127929001,"310 Malcolm X Blvd, New York, NY 10027, USA",40.8080989,-73.9447535
+1708,3,Redeye Grill,2125419000,"890 7th Ave, New York, NY 10019, USA",40.7651937,-73.9806836
+1709,3,RedFarm,2127929700,"529 Hudson St, New York, NY 10014, USA",40.7341954,-74.0064599
+1710,3,Refried Beans,2125682299,"591 Fort Washington Ave, New York, NY 10033, USA",40.854965,-73.9371163
+1711,3,Reserve Cut,2127470300,"2nd Setai, 40 Broad St, New York, NY 10004, USA",40.7060375,-74.0117772
+1712,3,RH Rooftop Restaurant,2122172210,"9 9th Ave, New York, NY 10014, USA",40.7402199,-74.0062426
+1713,3,Revel,2126455369,"10 Little W 12th St, New York, NY 10014, USA",40.739649,-74.006891
+1714,3,Ricardo Steak House,2122895895,"2145 2nd Ave, New York, NY 10029, USA",40.7935191,-73.9406515
+1715,3,Rice To Riches,2122740008,"37 Spring St, New York, NY 10012, USA",40.7218444,-73.9958018
+1716,3,Robert,2122997730,"2 Columbus Cir, New York, NY 10019, USA",40.7673947,-73.9820338
+1717,3,Rocky's Pizza,2122422345,"304 W 14th St, New York, NY 10014, USA",40.7398274,-74.0032238
+1718,3,Room Service,2125820999,"690 9th Ave, New York, NY 10036, USA",40.761758,-73.989821
+1719,3,Rosa Mexicano,2125333350,"9 E 18th St, New York, NY 10003, USA",40.7383338,-73.9907684
+1720,3,Rosella's Pizzeria,2126198260,"164 William St #2611, New York, NY 10038, USA",40.7100678,-74.005622
+1721,3,Rosemary's,2126471818,"18 Greenwich Ave, New York, NY 10011, USA",40.7347997,-73.9998686
+1722,3,Row House,2122560019,"2128 Frederick Douglass Blvd, New York, NY 10026, USA",40.8035271,-73.955715
+1723,3,The Roxy Bar + Lounge,2125196677,"2 6th Ave, New York, NY 10013, USA",40.7194042,-74.004904
+1724,3,Ruchi,2122278454,"#2, 1530, 120 Cedar St, New York, NY 10006, USA",40.709529,-74.012702
+1725,3,Rue 57,2123075656,"60 W 57th St, New York, NY 10019, USA",40.7640334,-73.9770219
+1726,3,Russ & Daughters,2124754880,"179 E Houston St, New York, NY 10002, USA",40.7225851,-73.9882747
+1727,3,S'MAC,2123587912,"197 1st Avenue, New York, NY 10003, USA",40.730212,-73.983724
+1728,3,Saggio,2127953080,"827 W 181st St, New York, NY 10033, USA",40.8514116,-73.9396788
+1729,3,Sala One Nine,2122292300,"35 W 19th St, New York, NY 10011, USA",40.74003,-73.9930896
+1730,3,Salaam Bombay,2122269400,"319 Greenwich St, New York, NY 10013, USA",40.717044,-74.010526
+1731,3,Saluggi's,2122267900,"325 Church St, New York, NY 10013, USA",40.720102,-74.003582
+1732,3,Salumeria Rosi,2128774800,"283 Amsterdam Ave, New York, NY 10023, USA",40.779369,-73.980857
+1733,3,Sammy's Noodle Shop & Grill,2129246688,"453 6th Ave, New York, NY 10011, USA",40.735162,-73.998753
+1734,3,Sarabeth's,2128265959,"40 Central Park S, New York, NY 10021, USA",40.7651883,-73.9755365
+1735,3,Sarabeth's,2124966280,"423 Amsterdam Ave, New York, NY 10024, USA",40.7838797,-73.9774244
+1736,3,Saravanaa Bhavan,2127217755,"413 Amsterdam Ave, New York, NY 10024, USA",40.7835823,-73.9777534
+1737,3,Saxon and Parole,2122540350,"316 Bowery, New York, NY 10012, USA",40.7251783,-73.9925391
+1738,3,Scalini Fedeli,2125280400,"165 Duane St, New York, NY 10013, USA",40.7174312,-74.009317
+1739,3,Scarpetta,2126910555,"88 Madison Ave, New York, NY 10016, USA",40.7444392,-73.9857838
+1740,3,Schnipper's,2129212400,"620 8th Ave, New York, NY 10018, USA",40.756105,-73.9901921
+1741,3,Seasoned Vegan,2122220092,"55 St Nicholas Ave, New York, NY 10026, USA",40.800663,-73.95274
+1742,3,Shake Shack,2128896600,"Madison Ave &, E 23rd St, New York, NY 10010, USA",40.7414842,-73.9881823
+1743,3,Hundred Acres,2124757500,"38 Macdougal St, New York, NY 10012, USA",40.727065,-74.002811
+1744,3,Sisters Caribbean Cuisine,2124103000,"47 E 124th St, New York, NY 10035, USA",40.8050196,-73.9408063
+1745,3,Skylight Diner,2122440395,"2321, 402 W 34th St, New York, NY 10001, USA",40.7533794,-73.9967919
+1746,3,Soba Totto,2125578200,"211 E 43rd St, New York, NY 10017, USA",40.7513389,-73.9731588
+1747,3,Soba-Ya,2125336966,"229 E 9th St, New York, NY 10003, USA",40.729584,-73.9879363
+1748,3,Socarrat Paella Bar- Chelsea,2124621000,"259 W 19th St, New York, NY 10011, USA",40.7427195,-73.9995153
+1749,3,Sofrito,2127545999,"679 Riverside Dr, New York, NY 10031, USA",40.8264806,-73.9560005
+1750,3,Soho Park,2122192129,"62 Prince St, New York, NY 10012, USA",40.7236273,-73.9967844
+1751,3,Southern Hospitality BBQ,2122651000,"645 9th Ave, New York, NY 10036, USA",40.7606246,-73.9913982
+1752,3,Russ & Daughters Cafe,2124754881,"27 Orchard St, New York, NY 10002, USA",40.715484,-73.9917732
+1753,3,Spice Symphony,2125457742,"182 Lexington Ave, New York, NY 10016, USA",40.74472,-73.981201
+1754,3,Square Diner,2129257188,"33 Leonard St, New York, NY 10013, USA",40.718485,-74.007253
+1755,3,Starbucks,2129274272,"803 W 181st St, New York, NY 10033, USA",40.851087,-73.938442
+1756,3,Steve's Pizza,2125660003,"110 Cedar St, New York, NY 10006, USA",40.7094349,-74.012024
+1757,3,Stone Street Tavern,2127855658,"52 Stone St, New York, NY 10004, USA",40.704215,-74.010197
+1758,3,Strip House,2123280000,"13 E 12th St, New York, NY 10003, USA",40.734399,-73.9934116
+1759,3,Untitled,2125703670,"8, 99 Gansevoort St, New York, NY 10014, USA",40.7396059,-74.0089716
+1760,3,Sugar Factory,2124148700,"835 Washington St, New York, NY 10014, USA",40.7403059,-74.0075931
+1761,3,Sullivan Street Bakery,2122655580,"533 W 47th St, New York, NY 10036, USA",40.7636385,-73.9947182
+1762,3,Supper,2124777600,"156 E 2nd St, New York, NY 10009, USA",40.7229553,-73.9852071
+1763,3,Surya,2128751405,"154 Bleecker St, New York, NY 10012, USA",40.7281394,-73.9996457
+1764,3,Sushi Azabu,2122740428,"428 Greenwich St, New York, NY 10013, USA",40.722396,-74.0098096
+1765,3,Sushi Damo,2127078609,"330 W 58th St, New York, NY 10019, USA",40.7677324,-73.9836128
+1766,3,Lemon Life,2123692886,"255 E 110th St, New York, NY 10029, USA",40.7934107,-73.9408712
+1767,3,Sushi Yu 2,2127818833,"825 W 181st St, New York, NY 10033, USA",40.8514139,-73.9394409
+1768,3,Suteishi,2127662344,"24 Peck Slip, New York, NY 10038, USA",40.707806,-74.00185
+1769,3,Tia Pol,2126758805,"205 10th Ave, New York, NY 10011, USA",40.7473,-74.004801
+1770,3,Tabata,2122907691,"540 9th Ave, New York, NY 10018, USA",40.7569564,-73.9934815
+1771,3,Taboon,2127130271,"773 10th Ave, New York, NY 10019, USA",40.7661805,-73.9909847
+1772,3,Taco Mix,2122892963,"234 E 116th St #1, New York, NY 10029, USA",40.7972067,-73.9386762
+1773,3,Takahachi Tribeca,2125711830,"145 Duane St, New York, NY 10013, USA",40.716584,-74.0079215
+1774,3,Takahachi Bakery,2127915550,"25 Murray Street, New York, NY 10007, USA",40.7137296,-74.0085156
+1775,3,Takashi,2124142929,"456 Hudson St, New York, NY 10014, USA",40.7314551,-74.0064215
+1776,3,Talia's Steakhouse & Bar,2125803770,"668 Amsterdam Ave, New York, NY 10025, USA",40.791929,-73.972145
+1777,3,Tamarind Tribeca,2127759000,"99 Hudson St, New York, NY 10013, USA",40.719112,-74.0090815
+1778,3,Tao Downtown,2128882724,"92 9th Ave, New York, NY 10011, USA",40.7425376,-74.0038464
+1779,3,Tao,2128882288,"42 E 58th St, New York, NY 10022, USA",40.762664,-73.9714342
+1780,3,Taqueria Y Fonda la Mexicana,2125310383,"968 Amsterdam Ave, New York, NY 10025, USA",40.8016168,-73.9652075
+1781,3,Tarallucci E Vino,2122285400,"15 E 18th St, New York, NY 10003, USA",40.738201,-73.990605
+1782,3,Tartine,2122292611,"253 W 11th St, New York, NY 10014, USA",40.7362939,-74.0034482
+1783,3,Tasty Deli,2129230700,"4020 Broadway, New York, NY 10032, USA",40.8417384,-73.9390109
+1784,3,Ted's Montana Grill,2122455220,"110 W 51st St, New York, NY 10020, USA",40.7607189,-73.9808912
+1785,3,Tenzan,2125807300,"285 Columbus Ave, New York, NY 10023, USA",40.7782965,-73.9779183
+1786,3,Terroir,2126259463,"24 Harrison St, New York, NY 10013, USA",40.7189227,-74.0099594
+1787,3,Tessa,2123901974,"349 Amsterdam Ave, New York, NY 10024, USA",40.781437,-73.9792187
+1788,3,Texas Chicken & Burgers,2128603102,"5333, 151 E 103rd St, New York, NY 10029, USA",40.7902592,-73.9472408
+1789,3,TGI Fridays,2124838322,"47 Broadway, New York, NY 10006, USA",40.7065228,-74.0129604
+1790,3,Pongsri Thai Restaurant,2123493132,"106 Bayard St, New York, NY 10013, USA",40.7162516,-73.999943
+1791,3,Thai Market,2122804575,"960 Amsterdam Ave, New York, NY 10025, USA",40.8013469,-73.9652933
+1792,3,The Bailey Pub & Brasserie - Club Quarters Hotel,2128592200,"52 William St, New York, NY 10005, USA",40.706708,-74.008923
+1793,3,The Boil,2129258815,"139 Chrystie St, New York, NY 10002, USA",40.7197094,-73.993229
+1794,3,The Capital Grille,2123741811,"120 Broadway, New York, NY 10271, USA",40.7078997,-74.0102563
+1795,3,Minton's Playhouse,2128661262,"210 W 118th St, New York, NY 10026, USA",40.8047705,-73.952519
+1796,3,Beecher's New York Cafe,2124663340,"900 Broadway, New York, NY 10003, USA",40.7389561,-73.9896882
+1797,3,The City Bakery,2123661414,"3 W 18th St, New York, NY 10011, USA",40.7388564,-73.9924244
+1798,3,The Clocktower,2124134300,"5 Madison Ave, New York, NY 10010, USA",40.7412504,-73.9875224
+1799,3,Brickyard Gastropub,2127670077,"785 9th Ave, New York, NY 10019, USA",40.7650802,-73.9881594
+1800,3,The Doughnut Project,2126915000,"10 Morton St, New York, NY 10014, USA",40.7311971,-74.0035553
+1801,3,The Dubliner,2127855400,"45 Stone St, New York, NY 10004, USA",40.7042575,-74.0106899
+1802,3,The Dutch,2126776200,"131 Sullivan St, New York, NY 10012, USA",40.7265328,-74.0021536
+1803,3,Benno,2125458000,"7 E 27th St, New York, NY 10016, USA",40.7439037,-73.9870421
+1804,3,The Fat Radish,2123004053,"17 Orchard St, New York, NY 10002, USA",40.715279,-73.991944
+1805,3,The Flame Restaurant,2127657962,"893 9th Ave, New York, NY 10019, USA",40.768603,-73.985579
+1806,3,The Grange,2124911635,"1635 Amsterdam Ave, New York, NY 10031, USA",40.8225397,-73.9494055
+1807,3,The Grey Dog,2124620041,"49 Carmine St, New York, NY 10014, USA",40.730054,-74.0039424
+1808,3,The Hideaway,2123345775,"185 Duane St A, New York, NY 10013, USA",40.717551,-74.010297
+1809,3,Zigolinis Gourmet Delicatessen,2124257171,"66 Pearl St, New York, NY 10004, USA",40.703485,-74.010831
+1810,3,The MasalaWala,2123589300,"179 Essex St, New York, NY 10002, USA",40.7219227,-73.9866681
+1811,3,The Mermaid Inn,2126745870,"96 2nd Ave, New York, NY 10003, USA",40.7270599,-73.9885768
+1812,3,The Mermaid Inn,2127997400,"570 Amsterdam Ave, New York, NY 10024, USA",40.7888503,-73.9744677
+1813,3,The Dining Room at The Modern,2123331220,"9 W 53rd St, New York, NY 10019, USA",40.761081,-73.976753
+1814,3,The NoMad Restaurant,2127961500,"1170 Broadway, New York, NY 10001, USA",40.7449631,-73.9885493
+1815,3,The Odeon,2122330507,"145 W Broadway, New York, NY 10013, USA",40.716979,-74.007834
+1816,3,Buddha Bodai One Vegetarian Restaurant,2125668388,"5 Mott St, New York, NY 10013, USA",40.7138721,-73.9988482
+1817,3,Chinatown Ice Cream Factory,2126084170,"65 Bayard St, New York, NY 10013, USA",40.7153513,-73.9981078
+1818,3,The Park,2123523313,"118 10th Ave, New York, NY 10011, USA",40.744223,-74.0063139
+1819,3,Palm Court at the Plaza Hotel,2127593000,"768 5th Ave, New York, NY 10019, USA",40.7644691,-73.9744877
+1820,3,ABV Wine Bar,2127228959,"1504 Lexington Ave, New York, NY 10029, USA",40.786764,-73.950646
+1821,3,Russian Tea Room,2125817100,"150 W 57th St, New York, NY 10019, USA",40.7649476,-73.9794337
+1822,3,The Smith,2124209800,"55 3rd Ave, New York, NY 10003, USA",40.731068,-73.9884998
+1823,3,The Spotted Pig,2126200393,"314 W 11th St, New York, NY 10014, USA",40.7355908,-74.0066615
+1824,3,The Standard Grill,2126454100,"848 Washington St, New York, NY 10014, USA",40.7406657,-74.0080133
+1825,3,Top of the Standard,2126454646,"848 Washington St, New York, NY 10014, USA",40.7409232,-74.008111
+1826,3,The Wild Son,2127277900,"53 Little W 12th St, New York, NY 10014, USA",40.7407489,-74.0083675
+1827,3,Tick Tock Diner,2122688444,"481 Eighth Ave, New York, NY 10001, USA",40.7524017,-73.9935185
+1828,3,Tiny's & The Bar Upstairs,2123741135,"135 W Broadway, New York, NY 10013, USA",40.7167399,-74.0080577
+1829,3,Tio Pepe,2122426480,"168 West 4th Street, New York, NY 10014, USA",40.7319679,-74.0016583
+1830,3,Tocqueville Restaurant,2126471515,"1 E 15th St, New York, NY 10003, USA",40.7366772,-73.9927131
+1831,3,Tomoe Sushi,2127779346,"172 Thompson St, New York, NY 10012, USA",40.7276736,-74.0001023
+1832,3,Totto Ramen,2125820052,"366 West 52nd Street BT.8th &, 9th Ave, New York, NY 10019, USA",40.7643836,-73.9876243
+1833,3,Tout Va Bien,2122650190,"311 W 51st St, New York, NY 10019, USA",40.763406,-73.986219
+1834,3,Trailer Park Lounge & Grill,2124638000,"271 W 23rd St, New York, NY 10011, USA",40.745325,-73.997813
+1835,3,Trattoria Dell'Arte,2122459800,"900 7th Ave, New York, NY 10106, USA",40.7654454,-73.9805358
+1836,3,Tre Otto,2128608880,"1410 Madison Ave, New York, NY 10029, USA",40.7884061,-73.9536148
+1837,3,Tree Bistro,2123587171,"4004, 190 1st Avenue, New York, NY 10009, USA",40.729644,-73.983593
+1838,3,Tropical Grill & Restaurant,2125310233,"2143 Adam Clayton Powell Jr Blvd, New York, NY 10027, USA",40.8102985,-73.9470474
+1839,3,Troy,2126992410,"675 Hudson St, New York, NY 10014, USA",40.7403115,-74.0055189
+1840,3,Turkish Cuisine,2123979650,"631 9th Ave # 1, New York, NY 10036, USA",40.7601202,-73.9917041
+1841,3,Txikito,2122424730,"240 9th Ave, New York, NY 10001, USA",40.747369,-74.000365
+1842,3,Ulysses' Folk House,2124820400,"95 Pearl St, New York, NY 10004, USA",40.704362,-74.010046
+1843,3,Uncle Nick's,2122457992,"747 9th Ave, New York, NY 10019, USA",40.763835,-73.988912
+1844,3,Coffee Shop,2126451803,"info@unionsquareballroom.com, 3305, 27 Union Square W, New York, NY 10003, USA",40.736387,-73.9910274
+1845,3,Union Square Cafe,2122434020,"101 E 19th St, New York, NY 10003, USA",40.7377702,-73.9878767
+1846,3,Upland,2126861006,"345 Park Ave S, New York, NY 10010, USA",40.7418912,-73.9846396
+1847,3,Urbani Truffles USA Inc.,2122478800,"10 West End Ave, New York, NY 10023, USA",40.7720741,-73.9899021
+1848,3,Valbella,2126457777,"1309 E Putnam Ave, Riverside, CT 06878, USA",41.0429963,-73.575476
+1849,3,Vanessa's Dumpling House,2126258008,"118 Eldridge St, New York, NY 10002, USA",40.7183633,-73.9917183
+1850,3,VCafe,2124315888,"345 Greenwich St, New York, NY 10013, USA",40.7184384,-74.0102982
+1851,3,Veniero's,2126747070,"342 E 11th St, New York, NY 10003, USA",40.7294893,-73.9845202
+1852,3,Vezzo,2128398300,"178 Lexington Ave, New York, NY 10016, USA",40.744488,-73.9813314
+1853,3,Viand Cafe & Restaurant,2128772888,"2130 Broadway, New York, NY 10023, USA",40.7807788,-73.981049
+1854,3,ViceVersa,2123999291,"325 W 51st St, New York, NY 10019, USA",40.7635657,-73.9867501
+1855,3,Vicky's Diner,2129278458,"805 W 187th St, New York, NY 10040, USA",40.8553437,-73.937158
+1856,3,Victor's Cafe,2125867714,"236 W 52nd St, New York, NY 10019, USA",40.7629557,-73.9840953
+1857,3,VINATERÍA,2126628462,"2211 Frederick Douglass Blvd, New York, NY 10026, USA",40.8066227,-73.9540329
+1858,3,Nelson Blue,2123469090,"233-235 Front St, New York, NY 10038, USA",40.7076153,-74.0017494
+1859,3,Vintry,2124809800,"57 Stone St, New York, NY 10004, USA",40.70452,-74.0102668
+1860,3,Waldy's Wood Fired Pizza & Penne,2122135042,"800 6th Ave, New York, NY 10001, USA",40.745558,-73.990539
+1861,3,Wallse,2123522300,"344 W 11th St, New York, NY 10014, USA",40.73541,-74.008212
+1862,3,Ward III,2122409194,"3812, 111 Reade St, New York, NY 10013, USA",40.7157603,-74.0086834
+1863,3,Wendy's,2129280321,"3939 Broadway, New York, NY 10032, USA",40.8391327,-73.9416079
+1864,3,Arcade Pizza,2129234441,"1611 St Nicholas Ave, New York, NY 10040, USA",40.855309,-73.929593
+1865,3,Westville,2129242223,"246 W 18th St, New York, NY 10011, USA",40.7418156,-74.0000472
+1866,3,Westville,2126772033,"173 Avenue A, New York, NY 10009, USA",40.7284164,-73.9819783
+1867,3,Westville,2127417971,"210 W 10th St, New York, NY 10014, USA",40.7339703,-74.0041357
+1868,3,Wolfgang's Steakhouse,2129250350,"409 Greenwich St, New York, NY 10013, USA",40.721252,-74.0096644
+1869,3,Wondee Siam,2124599057,"792 9th Ave, New York, NY 10019, USA",40.765002,-73.9876442
+1870,3,Yakitori Taisho,2122285086,"5 St Marks Pl #1, New York, NY 10003, USA",40.7294118,-73.9892661
+1871,3,Yakitori Totto,2122454555,"251 W 55th St, New York, NY 10019, USA",40.765252,-73.9831607
+1872,3,Yatenga,2126900699,"3023, 2269 Adam Clayton Powell Jr Blvd #1, New York, NY 10030, USA",40.814223,-73.9440689
+1873,3,Yonah Schimmel's Knish Bakery,2124772858,"137 E Houston St, New York, NY 10002, USA",40.723182,-73.9901155
+1874,3,Lotus Blue,2122673777,"15 Union Square W, New York, NY 10003, USA",40.7358934,-73.9917033
+1875,3,Zabar's Café,2127872000,"2245 Broadway, New York, NY 10024, USA",40.7848148,-73.9797113
+1876,3,Zoma,2126620620,"2084 Frederick Douglass Blvd, New York, NY 10026, USA",40.8023205,-73.9566869
+1877,3,Zucker's Bagels & Smoked Fish,2126085844,"146 Chambers St, New York, NY 10007, USA",40.7156194,-74.0098379
+1878,3,Zum Schneider,2125981098,"107 Avenue C, New York, NY 10009, USA",40.724256,-73.978962
+1879,3,Zutto Japanese American Pub,2122333287,"77 Hudson St, New York, NY 10013, USA",40.7185042,-74.0091866

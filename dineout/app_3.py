@@ -71,7 +71,7 @@ def getdata():
     # for row in session.query(restaurants).all():
 
     sel=[restaurants.name,
-    restaurants.phone,
+    restaurants.phone1,
     restaurants.address,
     restaurants.average_price,
     restaurants.latitude,
@@ -81,11 +81,11 @@ def getdata():
     restaurants.website
     ]
 
-    results = session.query(*sel).all()
+    results1 = session.query(*sel).all()
 
     restdata = []
     
-    for row in results:
+    for row in results1:
         rest_dict = {}
         rest_dict['name'] = row.name
         rest_dict['overall_score'] = row.overall_score
@@ -143,4 +143,4 @@ def zomatoapi():
 
 
 if __name__ == '__main__':
-    app.run(debug=True,port=8011)
+    app.run(debug=True,port=8016)
