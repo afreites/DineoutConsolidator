@@ -3,7 +3,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
-from flask import Flask, render_template, url_for, json, jsonify
+from flask import Flask, request, render_template, url_for, json, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
 import pymysql
@@ -15,6 +15,10 @@ import numpy as np
 import pymysql
 from sqlalchemy import create_engine
 # pymysql.install_as_MySQLdb()
+
+import requests
+
+from keys import gkey, ykey, zkey
 
 app = Flask(__name__)
 
@@ -92,6 +96,33 @@ def getdata():
         restdata.append(rest_dict)
 
     return jsonify(restdata)
+
+@app.route("/api/google")
+def googleapi():
+    phone = "%2B1" + request.args.get('phone')
+    gurl=f"https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input={phone}&inputtype=phonenumber&fields=geometry,name,user_ratings_total,price_level,rating&key={gkey}"
+    response = requests.get(gurl)
+    return jsonify(response.json())
+
+@app.route("/api/yelp")
+def yelpapi():
+    phone = "+1" + request.args.get('phone')
+    base_url=f"https://api.yelp.com/v3/businesses/search/phone"
+    params = { 'phone': phone }
+    headers = {'Authorization': 'Bearer %s' % ykey}
+    response = requests.get(base_url, params=params, headers=headers)
+    return jsonify(response.json())
+
+@app.route("/api/zomato")
+def zomatoapi():
+    name = request.args.get('name')
+    lat = request.args.get('lat')
+    lng = request.args.get('lng')
+    url = f"https://developers.zomato.com/api/v2.1/search"
+    headers = { 'user-key': zkey }
+    params = { 'q': name, 'lat': lat, 'lng': lng }
+    response = requests.get(url, params=params, headers=headers)
+    return jsonify(response.json())
 
 # @app.route("/location")
 # def getcoordinates():

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Toronto Wards</title>
+  <title>DineOut</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
@@ -21,7 +21,8 @@
    crossorigin=""></script>
 
   <!--D3 cdn-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
 
   <!-- Our CSS -->
   <script src="{{ url_for('static', filename='css/style.css') }}"></script>
@@ -82,10 +83,35 @@
   </div>
         
   <div id="section2" class="container-fluid">
-            <h1>Section 2</h1>
-            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+      <form class="form-horizontal" >
+          <div class="form-group">
+            <label for="name">Restaurant Name:</label>
+            <input type="text" class="form-control" id="name" placeholder="Enter restaurant name" name = "name">
+          </div>
+          <div class="form-group">
+            <label for="phone">Telephone:</label>
+            <input type="text" class="form-control" id="phone" placeholder = "Enter telephone with area code" name = "phone">
+          </div>
+          <div class="form-group">
+              <label for="city">City:</label>
+              <input type="city" class="form-control" id="city" placeholder = "Enter city" name = "city">
+            </div>
+            <button id="submit" type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <div class = "panel-body">
+        <p id="address"></p>
+       <table class="table">
+          <tbody id="results">
+            <tr><td></td><th scope="col">Rating</th><th scope="col">No. Reviews</th><th scope="col">Price Range</th></tr>
+            <tr id="g_results"></tr>
+            <tr id="y_results"></tr>
+            <tr id="z_results"></tr>
+          </tbody>
+       </table>  
+      </div>
+      
   </div>
-        
+  
   </body>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 </html>
